@@ -1,13 +1,23 @@
 # Publications
 
-<table border="1" width="100%">
+<table border="0" width="100%">
 <col style="width:20%">
 <col style="width:80%">
 <tbody>
 <tr>
-<td><p align="center"><img src="pics/2019-scheufele-CMAME.png" alt="scheufele2019"  width="240"/></p></td>
+<!-- ####################################### -->
+<td><p align="center"><img src="pics/2019-mang-SISC.png" alt="mangSISC19"  width="240"/></p></td>
 <td>
-"<i> Coupling brain-tumor biophysical models and diffeomorphic image registration</i>"
+"<i>CLAIRE: A distributed-memory solver for constrained large deformation diffeomorphic image registration</i>"
+with A. Gholami, C. Davatzikos & G. Biros
+SIAM Journal on Scientific Computing, 41(5):C548-C584, 2019.
+<br>
+[<a href="https://doi.org/10.1137/18M1207818">doi:10.1137/18M1207818</a>]
+[<a href="https://arxiv.org/abs/1808.04487">arXiv:1808.04487</a>]
+<!-- ####################################### -->
+<td><p align="center"><img src="pics/2019-scheufele-CMAME.png" alt="scheufeleCMAME19"  width="240"/></p></td>
+<td>
+"<i>Coupling brain-tumor biophysical models and diffeomorphic image registration</i>"
 with K. Scheufele, A. Gholami, C. Davatzikos, G. Biros & M. Mehl in
 Computer Methods in Applied Mechanics and Engineering, 347:533-567, 2019.<br>
 [<a href="https://doi.org/10.1016/j.cma.2018.12.008">doi:10.1016/j.cma.2018.12.008</a>]
@@ -16,5 +26,6 @@ Computer Methods in Applied Mechanics and Engineering, 347:533-567, 2019.<br>
 </tr>
 </tbody>
 </table>
+
 
 
