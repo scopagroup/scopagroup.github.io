@@ -20,7 +20,7 @@ Journal of Open Source Software, 6(61), 3038, 2021.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2021-pati-BRLS.jpg" alt="patiBRLS21"  width="240"/></p>
+<p align="center"><img src="pics/2021-pati-BRLS.png" alt="patiBRLS21"  width="240"/></p>
 </td>
 <td>
 "<i>Estimating glioblastoma biophysical growth parameters using deep learning regression</i>"
