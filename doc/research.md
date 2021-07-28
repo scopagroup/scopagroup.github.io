@@ -1,6 +1,9 @@
 # Publications
 
-<table>
+<table border="1" width="100%">
+<col style="width:20%">
+<col style="width:80%">
+<tbody>
 <tr>
 <td><p align="center"><img src="pics/2019-scheufele-CMAME.png" alt="scheufele2019"  width="240"/></p></td>
 <td>
@@ -11,6 +14,7 @@ Computer Methods in Applied Mechanics and Engineering, 347:533-567, 2019.<br>
 [<a href="https://arxiv.org/abs/1710.06420">arXiv:1710.06420</a>]
 </td>
 </tr>
+</tbody>
 </table>
 
 
