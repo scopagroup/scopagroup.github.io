@@ -2,7 +2,7 @@
 
 
 <p align="center">$
-<img src="doc/pics/2019-scheufele-CMAME.jpg" alt="scheufele2019"  width="40"/>$
+<img src="doc/pics/2019-scheufele-CMAME.png" alt="scheufele2019"  width="40"/>$
 </p>$
 
 
