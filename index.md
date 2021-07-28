@@ -9,6 +9,8 @@ This webpage showcases some of the work of the SCOPA (Scientific Computing, Opti
 
 SCOPA targets various applications of computational and data-enabled sciences with the ultimate aspiration to (i) aid data analysis, (ii) support decision-making, and (iii) enable model-based prediction.
 
+## Content 
 
-## The Team
-Information about former and current team members can be found in [doc/members.md](doc/members.md).
+* [Team](doc/members.md).
+* [Research](doc/research.md).
+
