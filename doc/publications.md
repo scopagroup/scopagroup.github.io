@@ -1,7 +1,7 @@
 # Publications
 
-
 Go back to [README.md](../README.md).
+
 
 <table border="0" width="100%">
 <col style="width:20%">
@@ -18,6 +18,20 @@ by M. Brunn, N. Himthani, G. Biros, M. Mehl & A. Mang in
 Journal of Open Source Software, 6(61), 3038, 2021.
 <br>
 [<a href="https://doi.org/10.21105/joss.03038">doi:10.21105/joss.03038</a>]
+</td>
+</tr>
+<!-- ####################################### -->
+<tr>
+<td>
+<p align="center"><img src="pics/2021-zhang-JOTA.png" alt="zhangJOTA21"  width="240"/></p>
+</td>
+<td>
+"<i>Diffeomorphic shape matching by operator splitting in 3D cardiology imaging</i>"
+by P. Zhang, A Mang, J. He, R. Azencott, K. C. El-Tallawi, & W. A. Zoghbi in
+Journal of Optimization Theory and Applications, 188:143–168, 2021.
+<br>
+[<a href="https://doi.org/10.1007/s10957-020-01789-5">doi:10.1007/s10957-020-01789-5</a>]
+[<a href="https://arxiv.org/abs/2011.10165">arXiv:2011.10165</a>]
 </td>
 </tr>
 <!-- ####################################### -->
@@ -76,3 +90,5 @@ Computer Methods in Applied Mechanics and Engineering, 347:533-567, 2019.<br>
 </tr>
 </tbody>
 </table>
+
+
