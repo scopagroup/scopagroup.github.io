@@ -1,5 +1,7 @@
 ## The Team
 
+Go back to [README.md](../README.md).
+
 ### Current Team Members
 * Jae Youn Kim (GS; Research: Optimal Control, Inverse Problems)
 * Muhammad Chaudry (GS; Research: Inverse Problems, Machine Learning)
