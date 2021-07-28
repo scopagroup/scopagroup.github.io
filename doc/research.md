@@ -1,13 +1,15 @@
 # Publications
 
 
-{| class="wikitable"
-|+ Caption: example table
-|-
-! 
 <p align="center">$
 <img src="doc/pics/2019-scheufele-CMAME.jpg" alt="scheufele2019"  width="40"/>$
 </p>$
+
+
+{| class="wikitable"
+|+ Caption: example table
+|-
+! header 2
 ! header2
 ! header3
 |-
