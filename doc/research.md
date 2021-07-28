@@ -1,26 +1,13 @@
 # Publications
 
 
+| --- | --- |
 <p align="center">
-<img src="doc/pics/2019-scheufele-CMAME.png" alt="scheufele2019"  width="40"/>
+<img src="pics/2019-scheufele-CMAME.png" alt="scheufele2019"  width="120"/>
 </p>
-
-<p align="center">
-<img src="pics/2019-scheufele-CMAME.png" alt="scheufele2019"  width="40"/>
-</p>
-
-{| class="wikitable"
-|+ Caption: example table
-|-
-! header 2
-! header2
-! header3
-|-
-| row1cell1
-| row1cell2
-| row1cell3
-|-
-| row2cell1
-| row2cell2
-| row2cell3
-|}
+|  Coupling brain-tumor biophysical models and diffeomorphic image registration.
+Computer Methods in Applied Mechanics and Engineering, 347:533-567, 2019.
+with Klaudius Scheufele, Amir Gholami, Christos Davatzikos, George Biros & Miriam Mehl
+doi:10.1016/j.cma.2018.12.008
+arXiv:1710.06420
+| --- | --- |
