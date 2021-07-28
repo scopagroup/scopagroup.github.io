@@ -1,10 +1,13 @@
 # Publications
 
 
-<p align="center">$
-<img src="doc/pics/2019-scheufele-CMAME.png" alt="scheufele2019"  width="40"/>$
-</p>$
+<p align="center">
+<img src="doc/pics/2019-scheufele-CMAME.png" alt="scheufele2019"  width="40"/>
+</p>
 
+<p align="center">
+<img src="pics/2019-scheufele-CMAME.png" alt="scheufele2019"  width="40"/>
+</p>
 
 {| class="wikitable"
 |+ Caption: example table
