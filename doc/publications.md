@@ -114,7 +114,28 @@ Computer Methods in Applied Mechanics and Engineering, 347:533-567, 2019.<br>
 [<a href="https://arxiv.org/abs/1710.06420">arXiv:1710.06420</a>]
 </td>
 </tr>
+<!-- ####################################### -->
+<tr>
+<td>
+<p align="center"><img src="pics/2018-mang-OPTE.png" alt="mangOPTE18"  width="240"/></p>
+</td>
+<td>
+"<i>PDE-constrained optimization in medical image analysis</i>"
+by A. Mang, A. Gholami, C. Davatzikos & G. Biros in
+Optimization and Engineering, 19(3):765–812, 2018.
+<br>
+[<a href="https://doi.org/10.1007/s11081-018-9390-9">doi:10.1007/s11081-018-9390-9</a>]
+[<a href="https://arxiv.org/abs/1803.00058">arXiv:1803.00058</a>]
+</td>
+</tr>
 </tbody>
 </table>
+
+
+
+
+
+
+
 
 
