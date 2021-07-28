@@ -50,6 +50,32 @@ Proc. International MICCAI Brainlesion Workshop, LNCS 12658, pp. 157–167, 2021
 <!-- ####################################### -->
 <tr>
 <td>
+</td>
+<td>
+"<i>Fast GPU 3D diffeomorphic image registration</i>"
+by M. Brunn, N. Himthani, G. Biros, M. Mehl & A. Mang in
+Journal of Parallel and Distributed Computing, 149:149–162, 2021.
+<br>
+[<a href="https://doi.org/10.1016/j.jpdc.2020.11.006">doi:10.1016/j.jpdc.2020.11.006</a>]
+[<a href="https://arxiv.org/abs/2004.08893">arXiv:2004.08893</a>]
+</td>
+</tr>
+<!-- ####################################### -->
+<tr>
+<td>
+</td>
+<td>
+"<i>Integrated biophysical modeling and image analysis: Application to neuro-oncology</i>"
+by A. Mang, S. Bakas, S. Subramanian, G. Biros & C. Davatzikos in
+Annual Review of Biomedical Engineering, 22:309– 341, 2020.
+<br>
+[<a href="https://doi.org/10.1146/annurev-bioeng-062117-121105">doi:10.1146/annurev-bioeng-062117-121105</a>]
+[<a href="https://arxiv.org/abs/2002.09628">arXiv:2002.09628</a>]
+</td>
+</tr>
+<!-- ####################################### -->
+<tr>
+<td>
 <p align="center"><img src="pics/2020-scheufele-SISC.png" alt="scheufeleSISC20"  width="240"/></p>
 </td>
 <td>
