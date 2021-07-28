@@ -7,7 +7,20 @@
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2020-scheufele-SISC.png" alt="mangSISC19"  width="240"/></p>
+<p align="center"><img src="pics/2021-brunn-JOSS.jpg" alt="brunnJOSS21"  width="240"/></p>
+</td>
+<td>
+"<i>CLAIRE: Constrained large deformation diffeomorphic image registration on parallel computing architectures</i>"
+with M. Brunn, N. Himthani, G. Biros & M. Mehl
+Journal of Open Source Software, 6(61), 3038, 2021.
+<br>
+[<a href="https://doi.org/10.21105/joss.03038">doi:10.21105/joss.03038</a>]
+</td>
+</tr>
+<!-- ####################################### -->
+<tr>
+<td>
+<p align="center"><img src="pics/2020-scheufele-SISC.png" alt="scheufeleSISC20"  width="240"/></p>
 </td>
 <td>
 "<i>Image-driven biophysical tumor growth model calibration</i>"
