@@ -78,7 +78,6 @@ Proc ACM/IEEE Conference on Supercomputing, pp. 523–539, 2020.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2020-brunn-SC.png" alt="brunnSC20"  width="240"/></p>
 <p align="center"><img src="pics/2020-mang-ARBE.png" alt="mangARBE20"  width="240"/></p>
 </td>
 <td>
