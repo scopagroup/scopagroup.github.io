@@ -7,11 +7,10 @@ This webpage showcases some of the work of the SCOPA (Scientific Computing, Opti
 * nonlinear optimal control
 * parallel and distributed-memory algorithms
 
-SCOPA targets various applications of computational and data-enabled sciences with the ultimate aspiration to (i) aid data analysis, (ii) support decision-making, and (iii) enable model-based prediction.
-
-## Content 
+SCOPA targets various applications of computational and data-enabled sciences with the ultimate aspiration to (i) aid data analysis, (ii) support decision-making, and (iii) enable model-based prediction. Follow the links below to find out more about our activities.
 
 * [Team](doc/members.md)
 * [Research](doc/research.md)
-* [Publications](doc/publications.md).
+* [Publications](doc/publications.md)
+* [Contact](doc/contact.md)
 
