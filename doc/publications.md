@@ -131,7 +131,7 @@ Optimization and Engineering, 19(3):765--812, 2018.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2015-mang-SIIMS.png" alt="mangMEDPH12"  width="240"/></p>
+<p align="center"><img src="pics/2016-mang-SIIMS.png" alt="mangMEDPH12"  width="240"/></p>
 </td>
 <td>
 "<i>Constrained H1 regularization schemes for diffeomorphic image registration</i>"
