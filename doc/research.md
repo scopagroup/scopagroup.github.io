@@ -2,25 +2,34 @@
 
 Go back to [README.md](../README.md).
 
+Below, we describe different areas research the SCOPA group has contributed to.
 
+[comment]: <> ## Numerical Optimization
 
-## Numerical Optimization
+[comment]: We developed Gauss--Newton--Krylov algorithms algorithms for large-scale optimization problems goverened by dynamical systems. We have designed different preconditioners for the reduced space Hessian system. 
 
 
 
 ## Parallel and Distributed Computing
 
+We have deployed parallel algorithms on high-performance computing platforms. The computational kernels include spectral differentiation, interpolation, and finite differences.
+
 
 
 ## Personalized Modeling of Tumor Growth
 
+We have designed different approaches for calibrating PDEs to medical imaging data.
 
 
 ## Shape Matching and Shape Classification
 
+We have developed methodology for shape classification and shape matching.
 
 
 ## Diffeomorphic Image Registration
+
+We have developed different algorithms for diffeomorphic image registration.
+
 
 
 
