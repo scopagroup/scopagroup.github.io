@@ -131,6 +131,20 @@ Optimization and Engineering, 19(3):765--812, 2018.
 <!-- ####################################### -->
 <tr>
 <td>
+<p align="center"><img src="pics/2015-mang-SIIMS.png" alt="mangMEDPH12"  width="240"/></p>
+</td>
+<td>
+"<i>Constrained H1 regularization schemes for diffeomorphic image registration</i>"
+by A. Mang & G. Biros in
+SIAM Journal on Imaging Sciences, 9(3):1154-1194, 2016.
+<br>
+[<a href="https://doi.org/10.1137/15M1010919">doi:10.1137/15M1010919</a>]
+[<a href="https://arxiv.org/abs/1503.00757">arXiv:1503.00757</a>]
+</td>
+</tr>
+<!-- ####################################### -->
+<tr>
+<td>
 <p align="center"><img src="pics/2012-mang-MEDPH.png" alt="mangMEDPH12"  width="240"/></p>
 </td>
 <td>
@@ -143,5 +157,20 @@ Medical Physics, 39(7):4444--4460, 2012.
 </tr>
 </tbody>
 </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
