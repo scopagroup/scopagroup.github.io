@@ -244,6 +244,18 @@ SIAM Journal on Imaging Sciences, 8(2):1030-1069, 2015.
 <!-- ####################################### -->
 <tr>
 <td>
+<p align="center"><img src="pics/mang-2014-PHD.png" alt="mangPHD14"  width="240"/></p>
+</td>
+<td>
+"<i>Methoden zur numerischen Simulation der Progression von Gliomen: Modellentwicklung, Numerik und Parameteridentifikation</i>"
+by A. Mang Springer, 2014.
+<br>
+[<a href="https://doi.org/10.1007/978-3-658-05246-1">doi:10.1007/978-3-658-05246-1</a>]
+</td>
+</tr>
+<!-- ####################################### -->
+<tr>
+<td>
 <p align="center"><img src="pics/2012-mang-MEDPH.png" alt="mangMEDPH12"  width="240"/></p>
 </td>
 <td>
@@ -252,18 +264,6 @@ by A. Mang, A. Toma, T. A. Schuetz, S. Becker, C. Mohr, T. Eckey, D. Petersen & 
 Medical Physics, 39(7):4444--4460, 2012.
 <br>
 [<a href="https://doi.org/10.1118/1.4722749">doi:10.1118/1.4722749</a>]
-</td>
-</tr>
-<!-- ####################################### -->
-<tr>
-<td>
-<p align="center"><img src="pics/mang-2014-PHD.png" alt="mangPHD14"  width="240"/></p>
-</td>
-<td>
-"<i>Methoden zur numerischen Simulation der Progression von Gliomen: Modellentwicklung, Numerik und Parameteridentifikation</i>"
-by A. Mang Springer, 2014.
-<br>
-[<a href="https://doi.org/10.1007/978-3-658-05246-1">doi:10.1007/978-3-658-05246-1</a>]
 </td>
 </tr>
 </tbody>
