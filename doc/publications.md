@@ -161,6 +161,7 @@ SIAM Journal on Imaging Sciences, 9(3):1154-1194, 2016.
 <!-- ####################################### -->
 <tr>
 <td>
+<p align="center"><img src="pics/2015-mang-SIIMS.png" alt="mangSIIMS15"  width="240"/></p>
 </td>
 <td>
 "<i>An inexact Newton-Krylov algorithm for constrained diffeomorphic image registration</i>"
