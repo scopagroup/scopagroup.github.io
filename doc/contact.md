@@ -1,6 +1,6 @@
 # SCOPA
 
-```bash
+```
 Andreas Mang [/an'dre:as maŋ/]
 Department of Mathematics
 College of Natural Sciences & Mathematics
