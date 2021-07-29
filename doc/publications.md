@@ -50,6 +50,8 @@ Proc. International MICCAI Brainlesion Workshop, LNCS 12658, pp. 157--167, 2021.
 <!-- ####################################### -->
 <tr>
 <td>
+<p align="center"><img src="pics/2021-brunn-JPDC.png" alt="brunnJPDC21"  width="240"/></p>
+
 </td>
 <td>
 "<i>Fast GPU 3D diffeomorphic image registration</i>"
@@ -131,7 +133,7 @@ Optimization and Engineering, 19(3):765--812, 2018.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2016-mang-SC.png" alt="mangMEDPH12"  width="240"/></p>
+<p align="center"><img src="pics/2016-mang-SC.png" alt="mangSC16"  width="240"/></p>
 </td>
 <td>
 "<i>Distributed-memory large deformation diffeomorphic 3D image registration</i>"
@@ -145,7 +147,7 @@ Proc ACM/IEEE Conference on SuperComputing, 72:842-853, 2016.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2016-mang-SIIMS.png" alt="mangMEDPH12"  width="240"/></p>
+<p align="center"><img src="pics/2016-mang-SIIMS.png" alt="mangSIIMS16"  width="240"/></p>
 </td>
 <td>
 "<i>Constrained H1 regularization schemes for diffeomorphic image registration</i>"
