@@ -51,7 +51,6 @@ Proc. International MICCAI Brainlesion Workshop, LNCS 12658, pp. 157--167, 2021.
 <tr>
 <td>
 <p align="center"><img src="pics/2021-brunn-JPDC.png" alt="brunnJPDC21"  width="240"/></p>
-
 </td>
 <td>
 "<i>Fast GPU 3D diffeomorphic image registration</i>"
@@ -65,6 +64,7 @@ Journal of Parallel and Distributed Computing, 149:149--162, 2021.
 <!-- ####################################### -->
 <tr>
 <td>
+<p align="center"><img src="pics/2020-mang-ARBE.png" alt="mangARBE21"  width="240"/></p>
 </td>
 <td>
 "<i>Integrated biophysical modeling and image analysis: Application to neuro-oncology</i>"
@@ -178,7 +178,7 @@ SIAM Journal on Imaging Sciences, 8(2):1030-1069, 2015.
 <p align="center"><img src="pics/2012-mang-MEDPH.png" alt="mangMEDPH12"  width="240"/></p>
 </td>
 <td>
-"<i>Biophysical modeling of brain tumor progression: From unconditionally stable explicit time integra- tion to an inverse problem with parabolic PDE constraints for model calibration</i>"
+"<i>Biophysical modeling of brain tumor progression: From unconditionally stable explicit time integration to an inverse problem with parabolic PDE constraints for model calibration</i>"
 by A. Mang, A. Toma, T. A. Schuetz, S. Becker, C. Mohr, T. Eckey, D. Petersen & T. M. Buzug in
 Medical Physics, 39(7):4444--4460, 2012.
 <br>
@@ -187,6 +187,4 @@ Medical Physics, 39(7):4444--4460, 2012.
 </tr>
 </tbody>
 </table>
-
-
 
