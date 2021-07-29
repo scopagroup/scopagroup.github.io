@@ -64,7 +64,21 @@ Journal of Parallel and Distributed Computing, 149:149--162, 2021.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2020-mang-ARBE.png" alt="mangARBE21"  width="240"/></p>
+<p align="center"><img src="pics/2020-brunn-SC.png" alt="brunnSC20"  width="240"/></p>
+</td>
+<td>
+"<i>Multi-node multi-GPU diffeomorphic image registration for large-scale imaging problems</i>"
+by M. Brunn, N. Himthani, G. Biros, M. Mehl & A. Mang in
+Proc ACM/IEEE Conference on Supercomputing, pp. 523–539, 2020.
+<br>
+[<a href="https://doi.org/10.1109/SC41405.2020.00042">doi:10.1109/SC41405.2020.00042</a>]
+[<a href="https://arxiv.org/abs/2008.12820">arXiv:2008.12820</a>]
+</td>
+</tr>
+<!-- ####################################### -->
+<tr>
+<td>
+<p align="center"><img src="pics/2020-mang-ARBE.png" alt="mangARBE20"  width="240"/></p>
 </td>
 <td>
 "<i>Integrated biophysical modeling and image analysis: Application to neuro-oncology</i>"
