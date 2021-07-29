@@ -131,6 +131,20 @@ Optimization and Engineering, 19(3):765--812, 2018.
 <!-- ####################################### -->
 <tr>
 <td>
+<p align="center"><img src="pics/2016-mang-SC.png" alt="mangMEDPH12"  width="240"/></p>
+</td>
+<td>
+"<i>Distributed-memory large deformation diffeomorphic 3D image registration</i>"
+by A. Mang, A. Gholami & G. Biros in
+Proc ACM/IEEE Conference on SuperComputing, 72:842-853, 2016.
+<br>
+[<a href="https://doi.org/10.1109/SC.2016.71">doi:10.1109/SC.2016.71</a>]
+[<a href="https://arxiv.org/abs/1608.03630">arXiv:1608.03630</a>]
+</td>
+</tr>
+<!-- ####################################### -->
+<tr>
+<td>
 <p align="center"><img src="pics/2016-mang-SIIMS.png" alt="mangMEDPH12"  width="240"/></p>
 </td>
 <td>
@@ -170,14 +184,6 @@ Medical Physics, 39(7):4444--4460, 2012.
 </tr>
 </tbody>
 </table>
-
-
-
-
-
-
-
-
 
 
 
