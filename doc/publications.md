@@ -152,10 +152,24 @@ Optimization and Engineering, 19(3):765--812, 2018.
 <td>
 "<i>A semi-Lagrangian two-level preconditioned Newton–Krylov solver for constrained diffeomorphic image registration</i>"
 by A. Mang & G. Biros in
-SIAM Journal on Scientific Computing, 39(6):B1064– B1101, 2017.
+SIAM Journal on Scientific Computing, 39(6):B1064--B1101, 2017.
 <br>
 [<a href="https://doi.org/10.1137/16M1070475">doi:10.1137/16M1070475</a>]
 [<a href="https://arxiv.org/abs/1604.02153">arXiv:1604.02153</a>]
+</td>
+</tr>
+<!-- ####################################### -->
+<tr>
+<td>
+<p align="center"><img src="pics/2017-mang-SISCb.png" alt="mangSISC17"  width="240"/></p>
+</td>
+<td>
+"<i>A Lagrangian Gauss--Newton--Krylov solver for intensity- and mass-preserving diffeomorphic image registration</i>"
+by A. Mang & L. Ruthotto in
+SIAM Journal on Scientific Computing, 39(5):B860--B885, 2017.
+<br>
+[<a href="https://doi.org/10.1137/17M1114132">doi:10.1137/17M1114132</a>]
+[<a href="https://arxiv.org/abs/1703.04446">arXiv:1703.04446</a>]
 </td>
 </tr>
 <!-- ####################################### -->
@@ -171,7 +185,6 @@ Proc ACM/IEEE Conference on SuperComputing, 19:1–19:13, 2017.
 [<a href="https://doi.org/10.1145/3126908.3126930">doi:10.1145/3126908.3126930</a>]
 </td>
 </tr>
-
 <!-- ####################################### -->
 <tr>
 <td>
