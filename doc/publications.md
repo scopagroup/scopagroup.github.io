@@ -147,6 +147,20 @@ Optimization and Engineering, 19(3):765--812, 2018.
 <!-- ####################################### -->
 <tr>
 <td>
+<p align="center"><img src="pics/2017-gholami-SC.png" alt="gholamiSC17"  width="240"/></p>
+</td>
+<td>
+"<i>A framework for scalable biophysics-based image analysis</i>"
+by A. Gholami, A. Mang, K. Scheufele, C. Davatzikos, M. Mehl, & G. Biros in
+Proc ACM/IEEE Conference on SuperComputing, 19:1–19:13, 2017.
+<br>
+[<a href="https://doi.org/10.1145/3126908.3126930">doi:10.1145/3126908.3126930</a>]
+</td>
+</tr>
+
+<!-- ####################################### -->
+<tr>
+<td>
 <p align="center"><img src="pics/2016-mang-SC.png" alt="mangSC16"  width="240"/></p>
 </td>
 <td>
@@ -201,4 +215,7 @@ Medical Physics, 39(7):4444--4460, 2012.
 </tr>
 </tbody>
 </table>
+
+
+
 
