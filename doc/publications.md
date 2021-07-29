@@ -147,6 +147,20 @@ Optimization and Engineering, 19(3):765--812, 2018.
 <!-- ####################################### -->
 <tr>
 <td>
+<p align="center"><img src="pics/2017-mang-SISCa.png" alt="mangSISC17"  width="240"/></p>
+</td>
+<td>
+"<i>A semi-Lagrangian two-level preconditioned Newton–Krylov solver for constrained diffeomorphic image registration</i>"
+by A. Mang & G. Biros in
+SIAM Journal on Scientific Computing, 39(6):B1064– B1101, 2017.
+<br>
+[<a href="https://doi.org/10.1137/16M1070475">doi:10.1137/16M1070475</a>]
+[<a href="https://arxiv.org/abs/1604.02153">arXiv:1604.02153</a>]
+</td>
+</tr>
+<!-- ####################################### -->
+<tr>
+<td>
 <p align="center"><img src="pics/2017-gholami-SC.png" alt="gholamiSC17"  width="240"/></p>
 </td>
 <td>
@@ -215,7 +229,3 @@ Medical Physics, 39(7):4444--4460, 2012.
 </tr>
 </tbody>
 </table>
-
-
-
-
