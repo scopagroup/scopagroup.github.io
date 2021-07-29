@@ -188,6 +188,20 @@ Proc ACM/IEEE Conference on SuperComputing, 19:1–19:13, 2017.
 <!-- ####################################### -->
 <tr>
 <td>
+<p align="center"><img src="pics/2016-gholami-JMB.png" alt="gholamiJMB16"  width="240"/></p>
+</td>
+<td>
+"<i>An inverse problem formulation for parameter estimation of a reaction-diffusion model for low grade gliomas</i>"
+by A. Gholami, A. Mang & G. Biros in
+Journal on Mathematical Biology, 72(1):409–433, 2016.
+<br>
+[<a href="https://doi.org/10.1007/s00285-015-0888-x">doi:10.1007/s00285-015-0888-x</a>]
+[<a href="https://arxiv.org/abs/1408.6221">arXiv:1408.6221</a>]
+</td>
+</tr>
+<!-- ####################################### -->
+<tr>
+<td>
 <p align="center"><img src="pics/2016-mang-SC.png" alt="mangSC16"  width="240"/></p>
 </td>
 <td>
