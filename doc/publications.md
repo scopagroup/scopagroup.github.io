@@ -254,5 +254,17 @@ Medical Physics, 39(7):4444--4460, 2012.
 [<a href="https://doi.org/10.1118/1.4722749">doi:10.1118/1.4722749</a>]
 </td>
 </tr>
+<!-- ####################################### -->
+<tr>
+<td>
+<p align="center"><img src="pics/mang-2014-PHD.png" alt="mangPHD14"  width="240"/></p>
+</td>
+<td>
+"<i>Methoden zur numerischen Simulation der Progression von Gliomen: Modellentwicklung, Numerik und Parameteridentifikation</i>"
+by A. Mang Springer, 2014.
+<br>
+[<a href="https://doi.org/10.1007/978-3-658-05246-1">doi:10.1007/978-3-658-05246-1</a>]
+</td>
+</tr>
 </tbody>
 </table>
