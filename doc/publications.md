@@ -145,6 +145,19 @@ SIAM Journal on Imaging Sciences, 9(3):1154-1194, 2016.
 <!-- ####################################### -->
 <tr>
 <td>
+</td>
+<td>
+"<i>An inexact Newton-Krylov algorithm for constrained diffeomorphic image registration</i>"
+by A. Mang & G. Biros in
+SIAM Journal on Imaging Sciences, 8(2):1030-1069, 2015.
+<br>
+[<a href="https://doi.org/10.1137/140984002">doi:10.1137/140984002</a>]
+[<a href="https://arxiv.org/abs/1408.6299">arXiv:1408.6299</a>]
+</td>
+</tr>
+<!-- ####################################### -->
+<tr>
+<td>
 <p align="center"><img src="pics/2012-mang-MEDPH.png" alt="mangMEDPH12"  width="240"/></p>
 </td>
 <td>
@@ -157,12 +170,6 @@ Medical Physics, 39(7):4444--4460, 2012.
 </tr>
 </tbody>
 </table>
-
-
-
-
-
-
 
 
 
