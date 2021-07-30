@@ -259,6 +259,19 @@ by A. Mang Springer, 2014.
 <p align="center"><img src="pics/2012-mang-MEDPH.png" alt="mangMEDPH12"  width="240"/></p>
 </td>
 <td>
+"<i>Cyclic numerical time integration in variational non-rigid image registration based on quadratic regularisation</i>"
+by A. Mang, T. A. Schuetz, S. Becker, A. Toma & T. M. Buzug in
+In Proc Vision Modeling and Visualization Workshop, pages 143--150, 2012.
+<br>
+[<a href="https://doi.org/10.2312/PE/VMV/VMV12/143-150">doi:10.2312/PE/VMV/VMV12/143-150</a>]
+</td>
+</tr>
+<!-- ####################################### -->
+<tr>
+<td>
+<p align="center"><img src="pics/2012-mang-MEDPH.png" alt="mangMEDPH12"  width="240"/></p>
+</td>
+<td>
 "<i>Biophysical modeling of brain tumor progression: From unconditionally stable explicit time integration to an inverse problem with parabolic PDE constraints for model calibration</i>"
 by A. Mang, A. Toma, T. A. Schuetz, S. Becker, C. Mohr, T. Eckey, D. Petersen & T. M. Buzug in
 Medical Physics, 39(7):4444--4460, 2012.
