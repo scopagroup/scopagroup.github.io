@@ -244,7 +244,7 @@ SIAM Journal on Imaging Sciences, 8(2):1030-1069, 2015.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/mang-2014-PHD.png" alt="mangPHD14"  width="240"/></p>
+<p align="center"><img src="pics/2014-mang-PHD.png" alt="mangPHD14"  width="240"/></p>
 </td>
 <td>
 "<i>Methoden zur numerischen Simulation der Progression von Gliomen: Modellentwicklung, Numerik und Parameteridentifikation</i>"
@@ -256,7 +256,7 @@ by A. Mang Springer, 2014.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2012-mang-MEDPH.png" alt="mangMEDPH12"  width="240"/></p>
+<p align="center"><img src="pics/2012-mang-VMV.png" alt="mangVMV12"  width="240"/></p>
 </td>
 <td>
 "<i>Cyclic numerical time integration in variational non-rigid image registration based on quadratic regularisation</i>"
