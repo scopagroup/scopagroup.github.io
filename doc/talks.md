@@ -25,9 +25,7 @@
 * A. Mang: *Diffeomorphic shape matching: Fast algorithms for non-linear optimal control problems*. Invited talk (hosted by Mathilde Mougeot) at Éléments de mathématique pour l’intelligence artificielle, École Normale Supérieure, Paris-Saclay, Cachan, FR, 2019.
 * A. Mang: *Optimal control of PDEs: Application to brain tumor modeling*. Contributed talk at AMS Sectional Meeting 2018 (Session: Validation and Verification Strategies in Multiphysics Problems), University of Arkansas, Fayetteville, AR, US.
 * A. Mang: *Fast solvers for inverse transport problems*. Contributed talk at SIAM Annual Meeting 2018 (Session: Inverse Problems), Portland, OR, US.
-* A. Mang: *CLAIRE: A parallel solver for constrained diffeomorphic image registration*. Invited talk (hosted by Johannes Kast) at Mint Medical Gm
-bH, Heidelberg, DE, 2018.
-
+* A. Mang: *CLAIRE: A parallel solver for constrained diffeomorphic image registration*. Invited talk (hosted by Johannes Kast) at Mint Medical GmbH, Heidelberg, DE, 2018.
 * A. Gholami: *A framework for scalable biophysics-based image analysis*, Supercomputing 17, Denver, CO, US.
 * K. Scheufele: *Coupling brain-tumor biophysical models and diffeomorphic image registration*. Contributed talk at SIAM Conference on Imaging Sciences 2018 (IS18; Session: Imaging, Modeling, Visualization and Biomedical Computing), Bologna, IT.
 * K. Scheufele: *Block-Newton iterative solvers for joint inverse tumor growth and image registration*. Contributed talk at Copper Mountain Conference on Iterative Methods 2018 (Session: Imaging), Copper Mountain, CO, US.
