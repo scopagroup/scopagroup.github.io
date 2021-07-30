@@ -1,5 +1,5 @@
 # Talks
-
+* J. Y. Kim: *Efficient numerical methods for initial value control problems*. Contributed talk at SIAM Annual Meeting 2021 (AN21; Session: Fast Analysis Based Algorithms for Solution of Forward and Inverse Problems); virtual conference.
 * A. Mang: *Uncertainty quantification in diffeomorphic image registration*. Contributed talk at SIAM Annual Meeting 2021 (AN21; Session: Uncertainty Quantification Strategies for Data-Driven, Large-Scale Problems); virtual conference.
 * A. Mang: *CLAIRE: Scalable multi-GPU algorithms for diffeomorphic image registration in 3D*. Contributed talk at SIAM Conference on Optimization 2021 (OPT21; Session: Large-Scale Optimization for Inverse Problems and Learning in Medical Imaging); virtual conference.
 * A. Mang: *Uncertainty quantification for inverse transport problems*. Contributed talk at SIAM Conference on Computational Science and Engineering 2021 (CSE21; Session Uncertainty Quantification for Data-Intensive Inverse Problems and Learning); virtual conference.
