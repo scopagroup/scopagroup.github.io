@@ -6,6 +6,8 @@ Go back to [README.md](../README.md).
 ### Current Team Members
 * Jae Youn Kim (GS; Research: Optimal Control, Inverse Problems)
 * German Villalobos (GS; Research: Machine Learning, Bayesian Inference)
+* Radmir Sultamuratov (GS; Research: Optimal Control, Machine Learning; co-advised with Dr. R. Azencott)
+
 
 
 ### Former Team Members
