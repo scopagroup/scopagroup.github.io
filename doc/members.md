@@ -5,6 +5,7 @@ Go back to [README.md](../README.md).
 
 ### Current Team Members
 * Jae Youn Kim (GS; Research: Optimal Control, Inverse Problems)
+* Jannatul Chhoa (GS; Research: Optimal Control, Inverse Problems)
 * German Villalobos (GS; Research: Machine Learning, Bayesian Inference)
 * Radmir Sultamuratov (GS; Research: Optimal Control, Machine Learning; co-advised with Dr. R. Azencott)
 
@@ -16,7 +17,7 @@ Go back to [README.md](../README.md).
 * Dr. Saeed Sarmadi (PhD; co-advised with Dr. R. Azencott; 2017-2020).
 * Haley Rosso (UG; SURF Recipient; SU 2020).
 * Dr. James L. Herring (PD; 2018-2019).
-* Gundeep Singh (UG; SU 2019).
+* Gundeep Singh (UG; PURS Recipient; SU 2019 & FA 2021).
 * Felix Huber (VS; co-advised with Dr. M. Schulte; 2018-2019).
 * Brenda Gonzalez (UG; SURF Recipient; SU 2018).
 * Orion Lowy (UG; co-advised with Dr. B. Bodmann; SU 2018).
