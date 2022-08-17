@@ -3,6 +3,8 @@
 Go back to [README.md](../README.md).
 
 ## Talks
+* A. Mang: *Fast algorithms for initial value control problems for diffeomorphic image registration*. Contributed talk at Copper Mountain Conference on Iterative Methods 2022 (Session: Efficient Optimization Algorithms); virtual conference.
+* A. Mang: *Fast algorithms for initial value control problems*. Contributed talk at SIAM Conference on Imaging Sciences 2022 (IS22; Session: Partial Differential Equations and Control Problems); virtual conference.
 * H. Dabirian: *Automatic classification of shapes and shape deformations in 3D*. Contributed talk at Joint Mathematics Meetings (JMM22); virtual conference.
 * N. Himthani: *CLAIRE: A scalable multi-GPU solver for diffeomorphic image registration in 3D*. Contributed talk at SIAM TX-LA Annual Meeting (SIAM TX-LA21; Session: Mathematics and Computation in Biomedicine); South Padre Island, TX, 2021.
 * M. Brunn: *High-Speed Image Registration for Large-Scale Applications with CLAIRE*. Invited talk (hosted by Barbara Gris) at Workshop on Registering Medical Images, Paris, FR, 2021.
