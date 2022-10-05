@@ -3,7 +3,7 @@
 Go back to [README.md](../README.md).
 
 ## Talks
-* A. Mang: *Fast algorithms for initial value control problems for diffeomorphic image registration*. Contributed talk at Copper Mountain Conference on Iterative Methods 2022 (Session: Efficient Optimization Algorithms); virtual conference.
+* A. Mang: *Randomized algorithms for preconditioning and uncertainty quantification in inverse transport problems*. Contributed talk at SIAM Conference on Mathematics of Data Science 2022 (Session: Randomized Methods in Large-Scale Inference and Data Problems), San Diego, CA, US.
 * A. Mang: *Fast algorithms for initial value control problems*. Contributed talk at SIAM Conference on Imaging Sciences 2022 (IS22; Session: Partial Differential Equations and Control Problems); virtual conference.
 * H. Dabirian: *Automatic classification of shapes and shape deformations in 3D*. Contributed talk at Joint Mathematics Meetings (JMM22); virtual conference.
 * N. Himthani: *CLAIRE: A scalable multi-GPU solver for diffeomorphic image registration in 3D*. Contributed talk at SIAM TX-LA Annual Meeting (SIAM TX-LA21; Session: Mathematics and Computation in Biomedicine); South Padre Island, TX, 2021.
@@ -14,7 +14,7 @@ Go back to [README.md](../README.md).
 * A. Mang: *CLAIRE: Scalable multi-GPU algorithms for diffeomorphic image registration in 3D*. Contributed talk at SIAM Conference on Optimization 2021 (OPT21; Session: Large-Scale Optimization for Inverse Problems and Learning in Medical Imaging); virtual conference.
 * A. Mang: *Uncertainty quantification for inverse transport problems*. Contributed talk at SIAM Conference on Computational Science and Engineering 2021 (CSE21; Session Uncertainty Quantification for Data-Intensive Inverse Problems and Learning); virtual conference.
 * A. Mang: *Fast algorithms for nonlinear optimal control of geodesic flows of diffeomorphisms*. Invited talk (hosted by Tan Bui-Thanh) at Oden Seminar at the Oden Institute for Computational Engineering and Sciences, University of Texas at Austin, TX, US, 2021; virtual seminar.
-* N. Himthani: *Multi-Node Multi-GPU Diffeomorphic Image Registration for Large-Scale Imaging Problems*. Talk at Supercomputing 2020 (SC20), 11/2020; (virtual conference).
+* N. Himthani: *Multi-Node Multi-GPU Diffeomorphic Image Registration for Large-Scale Imaging Problems*. Talk at Supercomputing 2020 (SC20); (virtual conference).
 * A. Mang: *Statistical analysis of shapes and shape deformations in 3D*. Contributed talk at Joint Mathematics Meetings (JMM20; Session: AMS Special Session on Geometry in the Mathematics of Data Science); virtual conference.
 * A. Mang: *Classification of 3D shapes and shape deformations*. Contributed talk at Annual Meeting of the SIAM Texas-Louisiana Section 2020 (SIAM TX-LA 20; Session: Scientific Machine Learning); virtual conference.
 * A. Mang: *Fast GPU-accelerated diffeomorphic image registration in 3D*. Contributed talk at SIAM Imaging Science Conference 2020 (IS20; Session: Fast Algorithms for Inverse Problems and their Applications); virtual conference.

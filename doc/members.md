@@ -6,7 +6,6 @@ Go back to [README.md](../README.md).
 
 ### Current Team Members
 * Jannatul Chhoa (GS; Research: Optimal Control, Inverse Problems)
-* Danial Khan (UG; Research: Bayesian Inference)
 * Jae Youn Kim (GS; Research: Optimal Control, Inverse Problems)
 * Radmir Sultamuratov (GS; Research: Optimal Control, Machine Learning; co-advised with Dr. R. Azencott)
 * German Villalobos (GS; Research: Machine Learning, Bayesian Inference)
@@ -14,6 +13,7 @@ Go back to [README.md](../README.md).
 
 
 ### Former Team Members
+* Danial Khan (UG; SURF Recipient; SU 2022)
 * Syed Abidi (UG; PURS & SURF Recipient; SP & SU 2021)
 * Yaseen Syed (UG; PURS Recipient; SP 2021).
 * Saeed Sarmadi (PhD; co-advised with Dr. R. Azencott; 2017-2020).
