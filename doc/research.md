@@ -19,6 +19,6 @@ CLAIRE has been released under the GNU General Public License and is avaialbe fo
 * since 2022: NSF CAREER Award (Computational Mathematics) ([DMS-2145845](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2145845))
 * since 2020: NSF Applied Mathematics ([DMS-2009923](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2009923))
 * since 2020: NSF Computational Mathematics ([DMS-2012825](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2012825))
-* since 2019: NSF CDS&E-MSS ([DMS-1854853](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1854853))
+* 2019--2022: NSF CDS&E-MSS ([DMS-1854853](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1854853))
 * 2019: NVIDIA Corporation GPU Grant Program (Accelerated Data Science Call)
 * 2018: SIMONS Foundation Collaboration Grants for Mathematicians (Award 586055)
