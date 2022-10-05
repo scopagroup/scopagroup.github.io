@@ -29,6 +29,7 @@ Go back to [README.md](../README.md).
 ### Contact
 ```
 Andreas Mang [/an'dre:as maŋ/]
+Assistant Professor
 Department of Mathematics
 College of Natural Sciences & Mathematics
 University of Houston

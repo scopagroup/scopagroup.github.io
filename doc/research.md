@@ -2,18 +2,17 @@
 
 Go back to [README.md](../README.md).
 
-[comment]: Below, we describe different areas research the SCOPA group has contributed to.
+Below, you can find a description of several areas of research the SCOPA group has contributed to. Code related to our research is deployed at [https://github.com/scopagroup](https://github.com/scopagroup).
 
-[comment]: ## Numerical Optimization
-[comment]: We developed Gauss--Newton--Krylov algorithms algorithms for large-scale optimization problems goverened by dynamical systems. We have designed different preconditioners for the reduced space Hessian system. 
-[comment]: ## Parallel and Distributed Computing
-[comment]: We have deployed parallel algorithms on high-performance computing platforms. The computational kernels include spectral differentiation, interpolation, and finite differences.
-[comment]: ## Personalized Modeling of Tumor Growth
-[comment]: We have designed different approaches for calibrating PDEs to medical imaging data.
-[comment]: ## Shape Matching and Shape Classification
-[comment]: We have developed methodology for shape classification and shape matching.
-[comment]: ## Diffeomorphic Image Registration
-[comment]: We have developed different algorithms for diffeomorphic image registration.
+
+
+##Diffeomorphic Image Registration
+
+We have developed the software tool CLAIRE for diffeomorphic image registration in 3D. CLAIRE stands for <em>Constrained Large Deformation Diffeomorphic Image Registration</em>. It is a C/C++ software package for velocity-based diffeomorphic image registration. Its performance is optimized for multi-core CPU systems (cpu branch) and multi-node, multi-GPU architectures (gpu branch; default). The CPU version uses MPI for data parallelism, and has been demonstrated to scale on several supercomputing platforms. CLAIRE can be executed on large-scale state-of-the-art computing systems as well as on local compute systems with limited resources.
+
+CLAIRE has been released under the GNU General Public License and is avaialbe for download at [https://github.com/andreasmang/claire](https://github.com/andreasmang/claire). The deployment page is [https://andreasmang.github.io/claire](https://andreasmang.github.io/claire).
+
+
 
 
 ## Support
