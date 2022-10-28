@@ -10,6 +10,21 @@ Go back to [README.md](../README.md).
 <!-- ####################################### -->
 <tr>
 <td>
+<!-- 
+<p align="center"><img src="pics/2021-brunn-JOSS.jpg" alt="brunnJOSS21"  width="240"/></p>
+-->
+</td>
+<td>
+"<i>CLAIRE—Parallelized Diffeomorphic Image Registration for Large-Scale Biomedical Imaging Applications</i>"
+by M. Brunn, N. Himthani, J. Y. Kim, M. Schulte, A. Mang G. Biros in
+Journal of Imaging 8 (9), 251.
+<br>
+<!-- ####################################### -->
+[<a href="https://doi.org/10.21105/joss.03038">doi:10.21105/joss.03038</a>]
+</td>
+</tr>
+<tr>
+<td>
 <p align="center"><img src="pics/2021-brunn-JOSS.jpg" alt="brunnJOSS21"  width="240"/></p>
 </td>
 <td>
