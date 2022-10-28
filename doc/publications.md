@@ -15,14 +15,29 @@ Go back to [README.md](../README.md).
 -->
 </td>
 <td>
-"<i>CLAIRE—Parallelized Diffeomorphic Image Registration for Large-Scale Biomedical Imaging Applications</i>"
+"<i>CLAIRE---Parallelized diffeomorphic image registration for large-scale biomedical imaging applications</i>"
 by M. Brunn, N. Himthani, J. Y. Kim, M. Schulte, A. Mang G. Biros in
-Journal of Imaging 8 (9), 251.
+Journal of Imaging 8 (9), 251, 2022.
 <br>
+[<a href="http://dx.doi.org/10.3390/jimaging8090251">doi:10.3390/jimaging8090251</a>]
+</td>
 <!-- ####################################### -->
-[<a href="https://doi.org/10.21105/joss.03038">doi:10.21105/joss.03038</a>]
+</tr>
+<tr>
+<td>
+<!-- 
+<p align="center"><img src="pics/2021-brunn-JOSS.jpg" alt="brunnJOSS21"  width="240"/></p>
+-->
+</td>
+<td>
+"<i>Stochastic neural networks for automatic cell tracking in microscopy image sequences of bacterial colonies</i>"
+by S Sarmadi, JJ Winkle, RN Alnahhas, MR Bennett, K Josić, A Mang & R. Azencott in
+Mathematical and Computational Applications 27 (2), 22, 2022
+<br>
+[<a href="http://dx.doi.org/10.3390/mca27020022">doi:10.3390/mca27020022</a>]
 </td>
 </tr>
+<!-- ####################################### -->
 <tr>
 <td>
 <p align="center"><img src="pics/2021-brunn-JOSS.jpg" alt="brunnJOSS21"  width="240"/></p>
