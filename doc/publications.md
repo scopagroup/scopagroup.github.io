@@ -32,7 +32,7 @@ Journal of Imaging 8 (9), 251, 2022.
 <td>
 "<i>Stochastic neural networks for automatic cell tracking in microscopy image sequences of bacterial colonies</i>"
 by S Sarmadi, JJ Winkle, RN Alnahhas, MR Bennett, K Josić, A Mang & R. Azencott in
-Mathematical and Computational Applications 27 (2), 22, 2022
+Mathematical and Computational Applications 27 (2), 22, 2022.
 <br>
 [<a href="http://dx.doi.org/10.3390/mca27020022">doi:10.3390/mca27020022</a>]
 </td>

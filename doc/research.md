@@ -5,7 +5,6 @@ Go back to [README.md](../README.md).
 Below, you can find a description of several areas of research the SCOPA group has contributed to. Code related to our research is deployed at [https://github.com/scopagroup](https://github.com/scopagroup).
 
 
-
 ## Diffeomorphic Image Registration
 
 We have developed the software tool CLAIRE for diffeomorphic image registration in 3D. CLAIRE stands for <em>Constrained Large Deformation Diffeomorphic Image Registration</em>. It is a C/C++ software package for velocity-based diffeomorphic image registration. Its performance is optimized for multi-core CPU systems (cpu branch) and multi-node, multi-GPU architectures (gpu branch; default). The CPU version uses MPI for data parallelism, and has been demonstrated to scale on several supercomputing platforms. CLAIRE can be executed on large-scale state-of-the-art computing systems as well as on local compute systems with limited resources.
