@@ -51,6 +51,9 @@ Go back to [README.md](../README.md).
 
 
 ## Poster Presentations
+* J. Kim: *Fast evaluation of PDE operators for optimization and uncertainty quantification in problems governed by transport equations*, SIAM TX LA Sectional Meeting 2022, University of Houston, Houston, TX.
+* G. Villalobos: *Inference for the Fitzhugh-Nagumo Model through ANNs*, SIAM TX LA Sectional Meeting 2022, University of Houston, Houston, TX.
+* R. Sultamuratov: *Automatic classification of deformable shapes*, SIAM TX LA Sectional Meeting 2022, University of Houston, Houston, TX.
 * Y. Syed: *Fast evaluation of kernel distances*, Undergraduate Research Day 2020, University of Houston.
 * A. H. A. Syed: *Optimization and optimal control in machine learning*, Undergraduate Research Day 2020, University of Houston.
 * H. Rosso: *Regularization schemes for linear inverse problems*, Undergraduate Research Day 2020, University of Houston.
