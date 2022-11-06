@@ -10,7 +10,7 @@ Go back to [README.md](../README.md).
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2022-himthani-IMAG.png" alt="himthaniJIMAG22"  width="240"/></p>
+<p align="center"><img src="pics/2022-himthani-JIMAG.png" alt="himthaniJIMAG22"  width="240"/></p>
 </td>
 <td>
 "<i>CLAIRE---Parallelized diffeomorphic image registration for large-scale biomedical imaging applications</i>"
