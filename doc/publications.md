@@ -9,11 +9,11 @@ Go back to [README.md](../README.md).
 <tbody>
 <!-- ####################################### -->
 <tr>
-<td>
 <!-- 
+<td>
 <p align="center"><img src="pics/2021-brunn-JOSS.jpg" alt="brunnJOSS21"  width="240"/></p>
--->
 </td>
+-->
 <td>
 "<i>CLAIRE---Parallelized diffeomorphic image registration for large-scale biomedical imaging applications</i>"
 by M. Brunn, N. Himthani, J. Y. Kim, M. Schulte, A. Mang G. Biros in
@@ -24,11 +24,11 @@ Journal of Imaging 8 (9), 251, 2022.
 <!-- ####################################### -->
 </tr>
 <tr>
-<td>
 <!-- 
+<td>
 <p align="center"><img src="pics/2021-brunn-JOSS.jpg" alt="brunnJOSS21"  width="240"/></p>
--->
 </td>
+-->
 <td>
 "<i>Stochastic neural networks for automatic cell tracking in microscopy image sequences of bacterial colonies</i>"
 by S Sarmadi, JJ Winkle, RN Alnahhas, MR Bennett, K Josić, A Mang & R. Azencott in
@@ -39,9 +39,11 @@ Mathematical and Computational Applications 27 (2), 22, 2022.
 </tr>
 <!-- ####################################### -->
 <tr>
+<!-- 
 <td>
 <p align="center"><img src="pics/2021-brunn-JOSS.jpg" alt="brunnJOSS21"  width="240"/></p>
 </td>
+-->
 <td>
 "<i>CLAIRE: Constrained large deformation diffeomorphic image registration on parallel computing architectures</i>"
 by M. Brunn, N. Himthani, G. Biros, M. Mehl & A. Mang in

@@ -10,4 +10,4 @@ SCOPA targets various applications of computational and data-enabled sciences wi
 * [Team](doc/members.md)
 * [Research](doc/research.md)
 * [Publications](doc/publications.md)
-* [Talks](doc/talks.md)
+* [Conference Presentations](doc/talks.md)
