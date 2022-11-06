@@ -10,7 +10,7 @@ Go back to [README.md](../README.md).
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2022-himthani-IMAG.jpg" alt="himthaniJIMAG22"  width="240"/></p>
+<p align="center"><img src="pics/2022-himthani-IMAG.png" alt="himthaniJIMAG22"  width="240"/></p>
 </td>
 <td>
 "<i>CLAIRE---Parallelized diffeomorphic image registration for large-scale biomedical imaging applications</i>"
@@ -36,9 +36,7 @@ Mathematical and Computational Applications 27 (2), 22, 2022.
 <!-- ####################################### -->
 <tr>
 <td>
-<!-- 
 <p align="center"><img src="pics/2021-brunn-JOSS.jpg" alt="brunnJOSS21"  width="240"/></p>
--->
 </td>
 <td>
 "<i>CLAIRE: Constrained large deformation diffeomorphic image registration on parallel computing architectures</i>"
