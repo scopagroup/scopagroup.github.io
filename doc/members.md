@@ -9,6 +9,7 @@ Go back to [README.md](../README.md).
 * Jae Youn Kim (GS; Research: Optimal Control, Inverse Problems)
 * Radmir Sultamuratov (GS; Research: Optimal Control, Machine Learning; co-advised with Dr. R. Azencott)
 * German Villalobos (GS; Research: Machine Learning, Bayesian Inference)
+* Li Meng (GS; Research: Bayesian Inference)
 
 
 
