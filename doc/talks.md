@@ -3,8 +3,9 @@
 Go back to [README.md](../README.md).
 
 ## Talks
-* J. Y. Kim: *Numerical methods for Bayesian inference for inverse transport problems*. Contributed talk at at Joint Mathematics Meetings (JMM23) in Boston, MA, 2023.
-* A. Mang: *CLAIRE: Scalable Multi-GPU Algorithms for Diffeomorphic Image Registration in 3D*. Contributed talk at at Joint Mathematics Meetings (JMM23) in Boston, MA, 2023.
+* J. Chhoa: *CLAIRE: A framework for constrained large deformation diffeomorphic image registration*. Invited talk at Texas Women In Mathematics Symposium in Austin, TX, 2023.
+* J. Y. Kim: *Numerical methods for Bayesian inference for inverse transport problems*. Contributed talk at Joint Mathematics Meetings (JMM23) in Boston, MA, 2023.
+* A. Mang: *CLAIRE: Scalable Multi-GPU Algorithms for Diffeomorphic Image Registration in 3D*. Contributed talk at Joint Mathematics Meetings (JMM23) in Boston, MA, 2023.
 * A. Mang: *Fast algorithms for nonlinear optimal control of geodesic flows of diffeomorphisms*. Invited talk (host: H. Antil) at CMAI Colloquium at the Center for Mathematics and Artificial Intelligence, George Mason University, Fairfax, VA, US, 2022.
 * A. Mang: *Randomized algorithms for preconditioning and uncertainty quantification in inverse transport problems*. Contributed talk at SIAM Conference on Mathematics of Data Science 2022 (Session: Randomized Methods in Large-Scale Inference and Data Problems), San Diego, CA, US.
 * A. Mang: *Fast algorithms for initial value control problems*. Contributed talk at SIAM Conference on Imaging Sciences 2022 (IS22; Session: Partial Differential Equations and Control Problems); virtual conference.
