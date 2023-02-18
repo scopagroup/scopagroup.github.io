@@ -25,9 +25,7 @@ Research: Bayesian Inference<br>
 <!-- ####################################### -->
 <tr>
 <td>
-<!--
-<p align="center"><img src="pics/li-meng-2023.jpeg" alt="Li Meng"  width="300"/></p>
- -->
+<p align="center"><img src="pics/scopa-plant.jpeg" alt="Jannatul Chhoa"  width="300"/></p>
 </td>
 <td>
 Jannatul Chhoa<br>
@@ -41,9 +39,7 @@ Research: Optimal Control, Inverse Problems<br>
 <!-- ####################################### -->
 <tr>
 <td>
-<!--
-<p align="center"><img src="pics/li-meng-2023.jpeg" alt="Li Meng"  width="300"/></p>
- -->
+<p align="center"><img src="pics/scopa-plant.jpeg" alt="Jae Youn Kim"  width="300"/></p>
 </td>
 <td>
 Jae Youn Kim<br>
@@ -57,9 +53,7 @@ Research: Optimal Control, Inverse Problems<br>
 <!-- ####################################### -->
 <tr>
 <td>
-<!--
-<p align="center"><img src="pics/li-meng-2023.jpeg" alt="Li Meng"  width="300"/></p>
- -->
+<p align="center"><img src="pics/scopa-plant.jpeg" alt="Radmir Sultamuratov"  width="300"/></p>
 </td>
 <td>
 Radmir Sultamuratov<br>
@@ -73,9 +67,7 @@ Research: Optimal Control, Machine Learning<br>
 <!-- ####################################### -->
 <tr>
 <td>
-<!--
-<p align="center"><img src="pics/li-meng-2023.jpeg" alt="Li Meng"  width="300"/></p>
- -->
+<p align="center"><img src="pics/scopa-plant.jpeg" alt="German Villalobos"  width="300"/></p>
 </td>
 <td>
 German Villalobos<br>
