@@ -21,6 +21,7 @@ Role: Graduate Student<br>
 Research: Bayesian Inference<br>
 [<a href="https://github.com/limeng-math">https://github.com/limeng-math</a>]
 </td>
+</tr>
 </tbody>
 </table>
 
