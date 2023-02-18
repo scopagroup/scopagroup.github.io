@@ -22,16 +22,72 @@ Research: Bayesian Inference<br>
 [<a href="https://github.com/limeng-math">https://github.com/limeng-math</a>]
 </td>
 </tr>
+<!-- ####################################### -->
+<tr>
+<td>
+<!--
+<p align="center"><img src="pics/li-meng-2023.jpeg" alt="Li Meng"  width="300"/></p>
+ -->
+</td>
+<td>
+Jannatul Chhoa<br>
+Role: Graduate Student<br>
+Research: Optimal Control, Inverse Problems<br>
+<!--
+[<a href="https://github.com/limeng-math">https://github.com/limeng-math</a>]
+ -->
+</td>
+</tr>
+<!-- ####################################### -->
+<tr>
+<td>
+<!--
+<p align="center"><img src="pics/li-meng-2023.jpeg" alt="Li Meng"  width="300"/></p>
+ -->
+</td>
+<td>
+Jae Youn Kim<br>
+Role: Graduate Student<br>
+Research: Optimal Control, Inverse Problems<br>
+<!--
+[<a href="https://github.com/limeng-math">https://github.com/limeng-math</a>]
+ -->
+</td>
+</tr>
+<!-- ####################################### -->
+<tr>
+<td>
+<!--
+<p align="center"><img src="pics/li-meng-2023.jpeg" alt="Li Meng"  width="300"/></p>
+ -->
+</td>
+<td>
+Radmir Sultamuratov<br>
+Role: Graduate Student<br>
+Research: Optimal Control, Machine Learning<br>
+<!--
+[<a href="https://github.com/limeng-math">https://github.com/limeng-math</a>]
+ -->
+</td>
+</tr>
+<!-- ####################################### -->
+<tr>
+<td>
+<!--
+<p align="center"><img src="pics/li-meng-2023.jpeg" alt="Li Meng"  width="300"/></p>
+ -->
+</td>
+<td>
+German Villalobos<br>
+Role: Graduate Student<br>
+Research: Machine Learning, Bayesian Inference<br>
+<!--
+[<a href="https://github.com/limeng-math">https://github.com/limeng-math</a>]
+ -->
+</td>
+</tr>
 </tbody>
 </table>
-
-
-
-* Jannatul Chhoa (GS; Research: Optimal Control, Inverse Problems)
-* Jae Youn Kim (GS; Research: Optimal Control, Inverse Problems)
-* Radmir Sultamuratov (GS; Research: Optimal Control, Machine Learning; co-advised with Dr. R. Azencott)
-* German Villalobos (GS; Research: Machine Learning, Bayesian Inference)
-
 
 
 ### Former Team Members
