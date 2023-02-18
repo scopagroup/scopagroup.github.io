@@ -5,9 +5,29 @@ Go back to [README.md](../README.md).
 
 
 ### Current Team Members
+
+<table border="0" width="100%">
+<col style="width:20%">
+<col style="width:80%">
+<tbody>
+<!-- ####################################### -->
+<tr>
+<td>
+<p align="center"><img src="pics/li-meng-2023.jpeg" alt="Li Meng"  width="240"/></p>
+</td>
+<td>
+Li Meng<br>
+Role: Graduate Student<br>
+Research: Bayesian Inference<br>
+[<a href="https://github.com/limeng-math">https://github.com/limeng-math</a>]
+</td>
+</tbody>
+</table>
+
+
+
 * Jannatul Chhoa (GS; Research: Optimal Control, Inverse Problems)
 * Jae Youn Kim (GS; Research: Optimal Control, Inverse Problems)
-* Li Meng (GS; Research: Bayesian Inference)
 * Radmir Sultamuratov (GS; Research: Optimal Control, Machine Learning; co-advised with Dr. R. Azencott)
 * German Villalobos (GS; Research: Machine Learning, Bayesian Inference)
 
