@@ -7,13 +7,13 @@ Go back to [README.md](../README.md).
 ### Current Team Members
 
 <table border="0" width="100%">
-<col style="width:20%">
-<col style="width:80%">
+<col style="width:30%">
+<col style="width:70%">
 <tbody>
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/li-meng-2023.jpeg" alt="Li Meng"  width="240"/></p>
+<p align="center"><img src="pics/li-meng-2023.jpeg" alt="Li Meng"  width="300"/></p>
 </td>
 <td>
 Li Meng<br>
