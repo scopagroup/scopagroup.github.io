@@ -25,15 +25,13 @@ Research: Bayesian Inference<br>
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/scopa-plant.jpeg" alt="Jannatul Chhoa"  width="300"/></p>
+<p align="center"><img src="pics/jannatul-ferdous-chhoa-2022.png" alt="Jannatul Chhoa"  width="300"/></p>
 </td>
 <td>
 Jannatul Chhoa<br>
 Role: Graduate Student<br>
 Research: Optimal Control, Inverse Problems<br>
-<!--
-[<a href="https://github.com/limeng-math">https://github.com/limeng-math</a>]
- -->
+[<a href="https://www.linkedin.com/in/jannatul-ferdous-chhoa-4199151b5">LinkedIn</a>]
 </td>
 </tr>
 <!-- ####################################### -->
