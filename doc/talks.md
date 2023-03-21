@@ -3,6 +3,7 @@
 Go back to [README.md](../README.md).
 
 ## Talks
+* A. Mang: *Fast algorithms for inverse problems governed by transport equations*.  Contributed talk at AMS Sectional Meeting (Session: Recent Developments on Analysis and Computation for Inverse Problems for PDEs) in Atlanta, GA, US, 2023.
 * A. Mang: *Deep learning for Bayesian inverse problems governed by nonlinear ODEs*. Contributed talk at SIAM Conference on Computational Science and Engineering (CSE23; Session: Uncertainty Quantification for Data-Intensive Inverse Problems and Learning) in Amsterdam, NL, 2023.
 * J. Chhoa: *CLAIRE: A framework for constrained large deformation diffeomorphic image registration*. Invited talk at Texas Women In Mathematics Symposium in Austin, TX, 2023.
 * J. Y. Kim: *Numerical methods for Bayesian inference for inverse transport problems*. Contributed talk at Joint Mathematics Meetings (JMM23) in Boston, MA, 2023.
