@@ -3,6 +3,8 @@
 Go back to [README.md](../README.md).
 
 ## Talks
+* A. Mang: *Numerical methods for PDE-constrained optimization problems governed by hyperbolic equations*. Invited colloquium talk at Department of Mathematical Sciences, University of Puerto Rico, US, 2023.
+* A. Mang: *CLAIRE: Scalable multi-GPU algorithms for diffeomorphic image registration in 3D*. Invited ACMD Seminar talk at National Institute of Standards and Technology, Geithersburg, MD, US, 2023.
 * A. Mang: *Fast algorithms for inverse problems governed by transport equations*.  Contributed talk at AMS Sectional Meeting (Session: Recent Developments on Analysis and Computation for Inverse Problems for PDEs) in Atlanta, GA, US, 2023.
 * A. Mang: *Deep learning for Bayesian inverse problems governed by nonlinear ODEs*. Contributed talk at SIAM Conference on Computational Science and Engineering (CSE23; Session: Uncertainty Quantification for Data-Intensive Inverse Problems and Learning) in Amsterdam, NL, 2023.
 * J. Chhoa: *CLAIRE: A framework for constrained large deformation diffeomorphic image registration*. Invited talk at Texas Women In Mathematics Symposium in Austin, TX, 2023.
