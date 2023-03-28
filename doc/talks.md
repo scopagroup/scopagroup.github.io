@@ -1,4 +1,4 @@
-# Conference Presentations
+# Talks & Posters 
 
 Go back to [README.md](../README.md).
 
