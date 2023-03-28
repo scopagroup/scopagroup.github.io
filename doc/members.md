@@ -1,4 +1,4 @@
-## The Team
+## The SCOPA Group
 
 Go back to [README.md](../README.md).
 
@@ -84,7 +84,7 @@ Research: Machine Learning, Bayesian Inference<br>
 * Danial Khan (UG; SURF Recipient; SU 2022)
 * Syed Abidi (UG; PURS & SURF Recipient; SP & SU 2021)
 * Yaseen Syed (UG; PURS Recipient; SP 2021).
-* Saeed Sarmadi (PhD; co-advised with Dr. R. Azencott; 2017-2020).
+* Saeed (Sorena) Sarmadi (PhD; co-advised with Dr. R. Azencott; 2017-2020).
 * Haley Rosso (UG; SURF Recipient; SU 2020).
 * James L. Herring (PD; 2018-2019).
 * Gundeep Singh (UG; PURS Recipient; SU 2019 & FA 2021).
