@@ -4,3 +4,4 @@ plugins:
 title: "SCOPA"
 description: "Webpage of the SCOPA Lab"
 show_sidebar: true
+fixed_navbar: top

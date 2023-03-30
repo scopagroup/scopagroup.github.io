@@ -1,8 +1,8 @@
 - name: Home
-  link: README.md
+  link: https://scopagroup.github.io
 - name: Team
-  link: doc/members.md
+  link: https://scopagroup.github.io/doc/members.html
 - name: Research
-  link: doc/research.md
+  link: https://scopagroup.github.io/doc/research.html
 - name: Presentations
-  link: doc/talks.md
+  link: https://scopagroup.github.io/doc/talks.html
