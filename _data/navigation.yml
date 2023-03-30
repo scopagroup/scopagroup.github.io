@@ -1,0 +1,8 @@
+- name: Home
+  link: README.md
+- name: Team
+  link: doc/members.md
+- name: Research
+  link: doc/research.md
+- name: Presentations
+  link: doc/talks.md
