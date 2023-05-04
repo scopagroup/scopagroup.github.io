@@ -3,6 +3,10 @@
 Go back to [README.md](../README.md).
 
 ## Talks
+
+* A. Mang: *Fast algorithms for optimal control problems governed by geodesic flows of diffeomorphisms*. Invited colloquium talk (host: J. Rudi) at the Department of Mathematics, Virginia Tech, Blacksburg, VA,US, 2023.
+* A. Mang: *Efficient numerical methods for optimal control problems governed by geodesic flows of diffeomorphisms*. Invited talk (host: S. Foucart) at Center for Approximation and Mathematical Data Analytics, Texas A&M University, College Station, TX US, 2023.
+* A. Mang: *Fast algorithms for optimal control problems governed by geodesic flows of diffeomorphisms*. Invited talk (host: S. Shontz) at Mathematical Methods and Interdisciplinary Computing Center (MMICC) at the University of Kansas, Larence, KS, US 2023.
 * A. Mang: *Numerical methods for PDE-constrained optimization problems governed by hyperbolic equations*. Invited colloquium talk (host: Juan R. Romero) at Department of Mathematical Sciences, University of Puerto Rico, US, 2023.
 * A. Mang: *CLAIRE: Scalable multi-GPU algorithms for diffeomorphic image registration in 3D*. Invited ACMD Seminar talk (host: Gunay Dogan) at National Institute of Standards and Technology, Geithersburg, MD, US, 2023.
 * A. Mang: *Fast algorithms for inverse problems governed by transport equations*.  Contributed talk at AMS Sectional Meeting (Session: Recent Developments on Analysis and Computation for Inverse Problems for PDEs) in Atlanta, GA, US, 2023.
