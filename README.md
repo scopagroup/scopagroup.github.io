@@ -35,3 +35,5 @@ Email: andreas at math dot uh dot edu
 Phone: (+1)713-743-7409
 Web: https://www.math.uh.edu/~andreas
 ```
+
+You can find out more about myself and my contributions to the Department of Mathematics at the University of Houston on my webpage: [https://www.math.uh.edu/~andreas](https://www.math.uh.edu/~andreas).
