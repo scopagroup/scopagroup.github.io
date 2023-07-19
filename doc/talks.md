@@ -3,7 +3,10 @@
 Go back to [README.md](../README.md).
 
 ## Talks
-
+* A. Mang: *Shape classification through the lens of geodesic flows of diffeomorphisms*. Invited talk at workshop entitled "Leveraging Model- and Data-Driven Methods in Medical Imaging" at Banff International Research Station for Mathematical Innovation and Discover, CA, 2023.
+* A. Mang: *Scalable algorithms for inverse problems governed by dynamical systems*. Invited talk at DSI's webinar at the Hewlett Packard Enterprise Data Science Institute, University of Houston, Houston, TX, 2023.
+* A. Mang: *Deep neural networks for Bayesian inverse problems governed by nonlinear ODEs*. Invited talk at workshop entitled Learning for Inverse Problems at Istituto Nazionale di Alta Matematica, Rome, IT, 2023.
+* A. Mang: *Fast algorithms for PDE-constrained optimization under uncertainty*. Contributed talk at SIAM Conference on Optimization (OP23; Session: Challenges in Inverse Problems with Massive Data), Seattle, US, 2023.
 * A. Mang: *Fast algorithms for optimal control problems governed by geodesic flows of diffeomorphisms*. Invited colloquium talk (host: J. Rudi) at the Department of Mathematics, Virginia Tech, Blacksburg, VA,US, 2023.
 * A. Mang: *Efficient numerical methods for optimal control problems governed by geodesic flows of diffeomorphisms*. Invited talk (host: S. Foucart) at Center for Approximation and Mathematical Data Analytics, Texas A&M University, College Station, TX US, 2023.
 * A. Mang: *Fast algorithms for optimal control problems governed by geodesic flows of diffeomorphisms*. Invited talk (host: S. Shontz) at Mathematical Methods and Interdisciplinary Computing Center (MMICC) at the University of Kansas, Larence, KS, US 2023.
