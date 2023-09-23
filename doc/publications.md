@@ -2,7 +2,6 @@
 
 Go back to [README.md](../README.md).
 
-
 <table border="0" width="100%">
 <col style="width:20%">
 <col style="width:80%">
@@ -10,7 +9,7 @@ Go back to [README.md](../README.md).
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2023-mang-JCP.png" alt="mangJCP23"  width="240"/></p>
+<p align="center"><img src="pics/2023-mang-JCP.png" alt="mangJCP23" width="240"/></p>
 </td>
 <td>
 "<i>An operator-splitting approach for variational optimal control formulations for diffeomorphic shape matching</i>"
@@ -319,3 +318,5 @@ Medical Physics, 39(7):4444--4460, 2012.
 </tr>
 </tbody>
 </table>
+
+
