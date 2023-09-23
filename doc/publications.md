@@ -10,11 +10,23 @@ Go back to [README.md](../README.md).
 <!-- ####################################### -->
 <tr>
 <td>
+<p align="center"><img src="pics/2023-mang-JCP.png" alt="mangJCP23"  width="240"/></p>
+</td>
+<td>
+"<i>An operator-splitting approach for variational optimal control formulations for diffeomorphic shape matching</i>"
+by A. Mang, J. He & R. Azencott in
+Journal of Computational Physics 493, 1124632023, 2023.
+<br>
+[<a href="http://dx.doi.org/10.1016/j.jcp.2023.112463">doi:10.1016/j.jcp.2023.112463</a>]
+</td>
+<!-- ####################################### -->
+<tr>
+<td>
 <p align="center"><img src="pics/2022-himthani-JIMAG.png" alt="himthaniJIMAG22"  width="240"/></p>
 </td>
 <td>
 "<i>CLAIRE---Parallelized diffeomorphic image registration for large-scale biomedical imaging applications</i>"
-by M. Brunn, N. Himthani, J. Y. Kim, M. Schulte, A. Mang G. Biros in
+by M. Brunn, N. Himthani, J. Y. Kim, M. Schulte, A. Mang & G. Biros in
 Journal of Imaging 8 (9), 251, 2022.
 <br>
 [<a href="http://dx.doi.org/10.3390/jimaging8090251">doi:10.3390/jimaging8090251</a>]
