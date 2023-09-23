@@ -92,8 +92,9 @@ Research: Machine Learning, Bayesian Inference<br>
 </td>
 <td>
 Dr. Jae Youn Kim<br>
-Thesis: *Efficient numerical methods for initial value control problems for diffeomorphic image registration*<br>
+Thesis: <i>Efficient numerical methods for initial value control problems for diffeomorphic image registration</i><br>
 Date of Graduation: 08/2023<br>
+Next Employment: Associate Lecturer, Department of Mathematics, University of Houston
 </td>
 </tr>
 </tbody>
