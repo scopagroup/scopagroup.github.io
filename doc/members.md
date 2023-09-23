@@ -37,20 +37,6 @@ Research: Optimal Control, Inverse Problems<br>
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/scopa-plant.jpeg" alt="Jae Youn Kim"  width="300"/></p>
-</td>
-<td>
-Jae Youn Kim<br>
-Role: Graduate Student<br>
-Research: Optimal Control, Inverse Problems<br>
-<!--
-[<a href="https://github.com/limeng-math">https://github.com/limeng-math</a>]
- -->
-</td>
-</tr>
-<!-- ####################################### -->
-<tr>
-<td>
 <p align="center"><img src="pics/scopa-plant.jpeg" alt="Radmir Sultamuratov"  width="300"/></p>
 </td>
 <td>
@@ -92,6 +78,28 @@ Research: Machine Learning, Bayesian Inference<br>
 * Brenda Gonzalez (UG; SURF Recipient; SU 2018).
 * Orion Lowy (UG; co-advised with Dr. B. Bodmann; SU 2018).
 
+
+### Former PhD Students
+<table border="0" width="100%">
+<col style="width:30%">
+<col style="width:70%">
+<tbody>
+<!-- ####################################### -->
+<tr>
+<td>
+<p align="center"><img src="pics/jaeyoun-kim-2022.jpeg" alt="Jae Youn Kim"  width="300"/></p>
+</td>
+<td>
+Dr. Jae Youn Kim<br>
+Thesis: Efficient numerical methods for initial value control problems for diffeomorphic image registration<br>
+Date of Graduation: 08/2023<br>
+<!--
+[<a href="https://github.com/limeng-math">https://github.com/limeng-math</a>]
+ -->
+</td>
+</tr>
+</tbody>
+</table>
 
 
 ### Contact
