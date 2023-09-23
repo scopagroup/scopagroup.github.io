@@ -13,7 +13,7 @@ Go back to [README.md](../README.md).
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/li-meng-2023.jpeg" alt="Li Meng"  width="300"/></p>
+<p align="center"><img src="pics/li-meng-2023.jpeg" alt="Li Meng"  width="200"/></p>
 </td>
 <td>
 Li Meng<br>
@@ -25,19 +25,19 @@ Research: Bayesian Inference<br>
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/jannatul-ferdous-chhoa-2022.png" alt="Jannatul Chhoa"  width="300"/></p>
+<p align="center"><img src="pics/jannatul-ferdous-chhoa-2022.png" alt="Jannatul Chhoa"  width="200"/></p>
 </td>
 <td>
 Jannatul Chhoa<br>
 Role: Graduate Student<br>
 Research: Optimal Control, Inverse Problems<br>
-[<a href="https://www.linkedin.com/in/jannatul-ferdous-chhoa-4199151b5">LinkedIn</a>]
+[<a href="https://chhoa.github.io">https://chhoa.github.io</a>]
 </td>
 </tr>
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/scopa-plant.jpeg" alt="Radmir Sultamuratov"  width="300"/></p>
+<p align="center"><img src="pics/scopa-plant.jpeg" alt="Radmir Sultamuratov"  width="200"/></p>
 </td>
 <td>
 Radmir Sultamuratov<br>
@@ -51,7 +51,7 @@ Research: Optimal Control, Machine Learning<br>
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/scopa-plant.jpeg" alt="German Villalobos"  width="300"/></p>
+<p align="center"><img src="pics/german-villalobos-2019.jpeg" alt="German Villalobos"  width="200"/></p>
 </td>
 <td>
 German Villalobos<br>
@@ -67,12 +67,13 @@ Research: Machine Learning, Bayesian Inference<br>
 
 
 ### Former Team Members
-* Danial Khan (UG; SURF Recipient; SU 2022)
-* Syed Abidi (UG; PURS & SURF Recipient; SP & SU 2021)
+* Dr. Jae Youn Kim (PhD student; 2018-2023).
+* Danial Khan (UG; SURF Recipient; SU 2022).
+* Syed Abidi (UG; PURS & SURF Recipient; SP & SU 2021).
 * Yaseen Syed (UG; PURS Recipient; SP 2021).
-* Saeed (Sorena) Sarmadi (PhD; co-advised with Dr. R. Azencott; 2017-2020).
+* Dr. Saeed (Sorena) Sarmadi (PhD student; co-advised with Dr. R. Azencott; 2017-2020).
 * Haley Rosso (UG; SURF Recipient; SU 2020).
-* James L. Herring (PD; 2018-2019).
+* Dr. James L. Herring (PD; 2018-2019).
 * Gundeep Singh (UG; PURS Recipient; SU 2019 & FA 2021).
 * Felix Huber (VS; co-advised with Dr. M. Schulte; 2018-2019).
 * Brenda Gonzalez (UG; SURF Recipient; SU 2018).
@@ -87,15 +88,12 @@ Research: Machine Learning, Bayesian Inference<br>
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/jaeyoun-kim-2022.jpeg" alt="Jae Youn Kim"  width="300"/></p>
+<p align="center"><img src="pics/jaeyoun-kim-2022.jpeg" alt="Jae Youn Kim"  width="200"/></p>
 </td>
 <td>
 Dr. Jae Youn Kim<br>
-Thesis: Efficient numerical methods for initial value control problems for diffeomorphic image registration<br>
+Thesis: *Efficient numerical methods for initial value control problems for diffeomorphic image registration*<br>
 Date of Graduation: 08/2023<br>
-<!--
-[<a href="https://github.com/limeng-math">https://github.com/limeng-math</a>]
- -->
 </td>
 </tr>
 </tbody>
@@ -105,7 +103,7 @@ Date of Graduation: 08/2023<br>
 ### Contact
 ```
 Andreas Mang [/an'dre:as maŋ/]
-Assistant Professor
+Associate Professor
 Department of Mathematics
 College of Natural Sciences & Mathematics
 University of Houston
