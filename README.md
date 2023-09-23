@@ -23,7 +23,7 @@ SCOPA targets various applications of computational and data-enabled sciences wi
 ## Contact
 ```
 Andreas Mang [/an'dre:as maŋ/]
-Assistant Professor
+Associate Professor
 Department of Mathematics
 College of Natural Sciences & Mathematics
 University of Houston
