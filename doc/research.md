@@ -1,8 +1,6 @@
 # Research
 
-Go back to [README.md](../README.md).
-
-Below, you can find a description of several areas of research the SCOPA group has contributed to. Code related to our research is deployed at [https://github.com/scopagroup](https://github.com/scopagroup).
+Below, you can find a description of several areas of research the SCOPA lab has contributed to. Code related to our research is deployed at [https://github.com/scopagroup](https://github.com/scopagroup).
 
 
 ## Diffeomorphic Image Registration
