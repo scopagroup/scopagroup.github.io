@@ -7,9 +7,14 @@ Below, you can find a description of several areas of research the SCOPA group h
 
 ## Diffeomorphic Image Registration
 
-We have developed the software tool CLAIRE for diffeomorphic image registration in 3D. CLAIRE stands for <em>Constrained Large Deformation Diffeomorphic Image Registration</em>. It is a C/C++ software package for velocity-based diffeomorphic image registration. Its performance is optimized for multi-core CPU systems (cpu branch) and multi-node, multi-GPU architectures (gpu branch; default). The CPU version uses MPI for data parallelism, and has been demonstrated to scale on several supercomputing platforms. CLAIRE can be executed on large-scale state-of-the-art computing systems as well as on local compute systems with limited resources.
+We have developed the software tool CLAIRE for diffeomorphic image registration in 3D. CLAIRE stands for <em>Constrained Large Deformation Diffeomorphic Image Registration</em>. It is a C/C++ software package for velocity-based diffeomorphic image registration. It is based on a PDE-constrained variational problem formulation. The governing PDEs are transport equations. Its performance is optimized for multi-core CPU systems (cpu branch) and multi-node, multi-GPU architectures (gpu branch; default). The CPU version uses MPI for data parallelism, and has been demonstrated to scale on several supercomputing platforms. CLAIRE can be executed on large-scale state-of-the-art computing systems as well as on local compute systems with limited resources.
 
 CLAIRE has been released under the GNU General Public License and is avaialbe for download at [https://github.com/andreasmang/claire](https://github.com/andreasmang/claire). The deployment page is [https://andreasmang.github.io/claire](https://andreasmang.github.io/claire).
+
+
+## Diffeomorphic Shape Matching and Shape Analysis
+
+We have developed numerical algorithms for studying the variability of shapes and shape deformations though the lens of geodesic flows of diffeomoprhisms. We formulate diffeomorphic shape matching as n ODE-constrained optimization problem. The ODDE constraint models the flow of diffeomorphisms.
 
 
 

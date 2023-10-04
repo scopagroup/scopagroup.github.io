@@ -1,8 +1,6 @@
-## The SCOPA Group
+## The SCOPA Lab
 
-Go back to [README.md](../README.md).
-
-
+Below you can find a list of the current and past members of the SCOPA lab.
 
 ### Current Team Members
 
@@ -56,7 +54,7 @@ Research: Optimal Control, Machine Learning<br>
 <td>
 German Villalobos<br>
 Role: Graduate Student<br>
-Research: Machine Learning, Bayesian Inference<br>
+Research: Scientific Machine Learning, Bayesian Inference<br>
 <!--
 [<a href="https://github.com/limeng-math">https://github.com/limeng-math</a>]
  -->
