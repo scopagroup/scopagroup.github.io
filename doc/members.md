@@ -112,8 +112,8 @@ Next Employment: Associate Lecturer, Department of Mathematics, University of Ho
 <td>
 <p align="center"><img src="pics/group-102323-01.png" alt="Group Picture 10/2023" width="200"/></p>
 </td>
-<p align="left">Li, Jae, Chhoa, Radmir, Andreas, and German</p>
 <td>
+<p align="left">Li, Jae, Chhoa, Radmir, Andreas, and German</p>
 </td>
 </tr>
 <!-- ####################################### -->
@@ -121,8 +121,8 @@ Next Employment: Associate Lecturer, Department of Mathematics, University of Ho
 <td>
 <p align="center"><img src="pics//group-102323-02.png" alt="Group Picture 10/2023" width="200"/></p>
 </td>
-<p align="left">Radmir, Li, Chhoa, Jae, Andreas, and German</p>
 <td>
+<p align="left">Radmir, Li, Chhoa, Jae, Andreas, and German</p>
 </td>
 </tr>
 </tbody>
