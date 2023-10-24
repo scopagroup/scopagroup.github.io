@@ -100,21 +100,9 @@ Next Employment: Associate Lecturer, Department of Mathematics, University of Ho
 
 
 ### Group Pictures
-<table border="0" width="100%">
-<col style="width:50%">
-<tbody>
-<tr>
-<td>
 <p align="center"><img src="pics/group-102323-01.png" alt="Group Picture 10/2023" width="200"/></p>
-</td>
-</tr>
-<tr>
-<td>
+<br>
 <p align="center"><img src="pics//group-102323-02.png" alt="Group Picture 10/2023" width="200"/></p>
-</td>
-</tr>
-</tbody>
-</table>
 
 
 ### Contact
