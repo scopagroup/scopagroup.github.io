@@ -99,6 +99,22 @@ Next Employment: Associate Lecturer, Department of Mathematics, University of Ho
 </table>
 
 
+### Group Pictures
+<table border="0" width="100%">
+<col style="width:50%">
+<col style="width:50%">
+<tr>
+<td>
+<p align="center"><img src="pics/group-102323-01.png" alt="Group Picture 10/2023"  height="200"/></p>
+</td>
+<td>
+<p align="center"><img src="pics//group-102323-02.png" alt="Group Picture 10/2023"  height="200"/></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+
 ### Contact
 ```
 Andreas Mang [/an'dre:as maŋ/]
