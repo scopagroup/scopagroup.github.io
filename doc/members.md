@@ -101,17 +101,36 @@ Next Employment: Associate Lecturer, Department of Mathematics, University of Ho
 
 ### Group Pictures
 #### October 2023 
+
+
+<table border="0" width="100%">
+<col style="width:30%">
+<col style="width:70%">
+<tbody>
+<!-- ####################################### -->
+<tr>
+<td>
 <p align="left">
 <img src="pics/group-102323-01.png" alt="Group Picture 10/2023" width="200"/>
-<br>
-Li, Jae, Chhoa, Radmir, Andreas, and German
+<br> Li, Jae, Chhoa, Radmir, Andreas, and German
 </p>
-
+</td>
+<td>
+</td>
+</tr>
+<!-- ####################################### -->
+<tr>
+<td>
 <p align="left">
 <img src="pics//group-102323-02.png" alt="Group Picture 10/2023" width="200"/>
-<br>
-Radmir, Li, Chhoa, Jae, Andreas and German
+<br> Radmir, Li, Chhoa, Jae, Andreas and German
 </p>
+</td>
+<td>
+</td>
+</tr>
+</tbody>
+</table>
 
 
 ### Contact
