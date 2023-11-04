@@ -17,7 +17,8 @@ Below you can find a list of the current and past members of the SCOPA lab.
 Li Meng<br>
 Role: Graduate Student<br>
 Research: Bayesian Inference<br>
-[<a href="https://github.com/limeng-math">https://github.com/limeng-math</a>]
+[<a href="https://github.com/limeng-math">https://github.com/limeng-math</a>]<br>
+<a href ="mailto:lmeng3@cougarnet.uh.edu">Send Email</a>
 </td>
 </tr>
 <!-- ####################################### -->
@@ -29,7 +30,9 @@ Research: Bayesian Inference<br>
 Jannatul Chhoa<br>
 Role: Graduate Student<br>
 Research: Optimal Control, Inverse Problems<br>
-[<a href="https://chhoa.github.io">https://chhoa.github.io</a>]
+[<a href="https://chhoa.github.io">https://chhoa.github.io</a>]<br>
+<a href ="mailto:jchhoa@cougarnet.uh.edu">Send Email</a>
+Jannatul Chhoa <>
 </td>
 </tr>
 <!-- ####################################### -->
@@ -44,6 +47,7 @@ Research: Optimal Control, Machine Learning<br>
 <!--
 [<a href="https://github.com/limeng-math">https://github.com/limeng-math</a>]
  -->
+<a href ="mailto:rsultamu@cougarnet.uh.edu">Send Email</a>
 </td>
 </tr>
 <!-- ####################################### -->
@@ -55,6 +59,7 @@ Research: Optimal Control, Machine Learning<br>
 German Villalobos<br>
 Role: Graduate Student<br>
 Research: Scientific Machine Learning, Bayesian Inference<br>
+<a href ="mailto:gvillal2@central.uh.edu">Send Email</a>
 <!--
 [<a href="https://github.com/limeng-math">https://github.com/limeng-math</a>]
  -->
