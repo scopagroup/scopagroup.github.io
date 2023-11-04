@@ -32,7 +32,6 @@ Role: Graduate Student<br>
 Research: Optimal Control, Inverse Problems<br>
 [<a href="https://chhoa.github.io">https://chhoa.github.io</a>]<br>
 <a href ="mailto:jchhoa@cougarnet.uh.edu">Send Email</a>
-Jannatul Chhoa <>
 </td>
 </tr>
 <!-- ####################################### -->
