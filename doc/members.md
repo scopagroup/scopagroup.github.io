@@ -76,18 +76,6 @@ Research: Optimal Control, Machine Learning<br>
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/jaeyoun-kim-2022.jpeg" alt="Jae Youn Kim"  width="200"/></p>
-</td>
-<td>
-Dr. Jae Youn Kim<br>
-Thesis: <i>Efficient numerical methods for initial value control problems for diffeomorphic image registration</i><br>
-Date of Graduation: 08/2023<br>
-Next Employment: Associate Lecturer, Department of Mathematics, University of Houston
-</td>
-</tr>
-<!-- ####################################### -->
-<tr>
-<td>
 <p align="center"><img src="pics/german-villalobos-2019.jpeg" alt="German Villalobos"  width="200"/></p>
 </td>
 <td>
@@ -100,13 +88,23 @@ Date of Graduation: 12/2023<br>
  -->
 </td>
 </tr>
+<!-- ####################################### -->
+<tr>
+<td>
+<p align="center"><img src="pics/jaeyoun-kim-2022.jpeg" alt="Jae Youn Kim"  width="200"/></p>
+</td>
+<td>
+Dr. Jae Youn Kim<br>
+Thesis: <i>Efficient numerical methods for initial value control problems for diffeomorphic image registration</i><br>
+Date of Graduation: 08/2023<br>
+Next Employment: Associate Lecturer, Department of Mathematics, University of Houston
+</td>
+</tr>
 </tbody>
 </table>
 
 
 ### Group Pictures
-#### October 2023 
-
 
 <table border="0" width="100%">
 <col style="width:30%">
@@ -118,7 +116,7 @@ Date of Graduation: 12/2023<br>
 <p align="center"><img src="pics//group-111523.jpg" alt="Group Picture 11/2023" width="200"/></p>
 </td>
 <td>
-<p align="left">Radmir, Jae, Andreas, German, Li, and Chhoa</p>
+<p align="left">Radmir, Jae, Andreas, German, Li, and Chhoa (November 2023)</p>
 </td>
 </tr>
 <!-- ####################################### -->
@@ -127,7 +125,7 @@ Date of Graduation: 12/2023<br>
 <p align="center"><img src="pics/group-102323-01.png" alt="Group Picture 10/2023" width="200"/></p>
 </td>
 <td>
-<p align="left">Li, Jae, Chhoa, Radmir, Andreas, and German</p>
+<p align="left">Li, Jae, Chhoa, Radmir, Andreas, and German (October 2023)</p>
 </td>
 </tr>
 <!-- ####################################### -->
@@ -136,7 +134,7 @@ Date of Graduation: 12/2023<br>
 <p align="center"><img src="pics//group-102323-02.png" alt="Group Picture 10/2023" width="200"/></p>
 </td>
 <td>
-<p align="left">Radmir, Li, Chhoa, Jae, Andreas, and German</p>
+<p align="left">Radmir, Li, Chhoa, Jae, Andreas, and German (October 2023)</p>
 </td>
 </tr>
 </tbody>
