@@ -49,27 +49,13 @@ Research: Optimal Control, Machine Learning<br>
 <a href ="mailto:rsultamu@cougarnet.uh.edu">Send Email</a>
 </td>
 </tr>
-<!-- ####################################### -->
-<tr>
-<td>
-<p align="center"><img src="pics/german-villalobos-2019.jpeg" alt="German Villalobos"  width="200"/></p>
-</td>
-<td>
-German Villalobos<br>
-Role: Graduate Student<br>
-Research: Scientific Machine Learning, Bayesian Inference<br>
-<a href ="mailto:gvillal2@central.uh.edu">Send Email</a>
-<!--
-[<a href="https://github.com/limeng-math">https://github.com/limeng-math</a>]
- -->
-</td>
-</tr>
 </tbody>
 </table>
 
 
 ### Former Team Members
-* Dr. Jae Youn Kim (PhD student; 2018-2023).
+* Dr. German Villalobos (PhD student; 2020-2023).
+* Dr. Jae Youn Kim (PhD student; 2019-2023).
 * Danial Khan (UG; SURF Recipient; SU 2022).
 * Syed Abidi (UG; PURS & SURF Recipient; SP & SU 2021).
 * Yaseen Syed (UG; PURS Recipient; SP 2021).
@@ -99,6 +85,21 @@ Date of Graduation: 08/2023<br>
 Next Employment: Associate Lecturer, Department of Mathematics, University of Houston
 </td>
 </tr>
+<!-- ####################################### -->
+<tr>
+<td>
+<p align="center"><img src="pics/german-villalobos-2019.jpeg" alt="German Villalobos"  width="200"/></p>
+</td>
+<td>
+Dr. German Villalobos<br>
+Thesis: <i>Scientific machine learning for Bayesian inverse problems governed by the FitzHugh–Nagumo model</i><br>
+Date of Graduation: 12/2023<br>
+<!--
+<a href ="mailto:gvillal2@central.uh.edu">Send Email</a>
+[<a href="https://github.com/limeng-math">https://github.com/limeng-math</a>]
+ -->
+</td>
+</tr>
 </tbody>
 </table>
 
@@ -111,6 +112,15 @@ Next Employment: Associate Lecturer, Department of Mathematics, University of Ho
 <col style="width:30%">
 <col style="width:70%">
 <tbody>
+<!-- ####################################### -->
+<tr>
+<td>
+<p align="center"><img src="pics//group-111523.jpg" alt="Group Picture 11/2023" width="200"/></p>
+</td>
+<td>
+<p align="left">Radmir, Jae, Andreas, German, Li, and Chhoa</p>
+</td>
+</tr>
 <!-- ####################################### -->
 <tr>
 <td>
