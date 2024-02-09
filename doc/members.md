@@ -81,11 +81,8 @@ Research: Optimal Control, Machine Learning<br>
 <td>
 Dr. German Villalobos<br>
 Thesis: <i>Scientific machine learning for Bayesian inverse problems governed by the FitzHugh–Nagumo model</i><br>
+<a href="https://hdl.handle.net/10657/16107">https://hdl.handle.net/10657/16107</a><br>
 Date of Graduation: 12/2023<br>
-<!--
-<a href ="mailto:gvillal2@central.uh.edu">Send Email</a>
-[<a href="https://github.com/limeng-math">https://github.com/limeng-math</a>]
- -->
 </td>
 </tr>
 <!-- ####################################### -->
@@ -95,9 +92,12 @@ Date of Graduation: 12/2023<br>
 </td>
 <td>
 Dr. Jae Youn Kim<br>
-Thesis: <i>Efficient numerical methods for initial value control problems for diffeomorphic image registration</i><br>
+Thesis: <i>Efficient numerical methods for initial value control problems for diffeomorphic image registration</i> <br>
+<a href="https://hdl.handle.net/10657/15999">https://hdl.handle.net/10657/15999</a><br>
 Date of Graduation: 08/2023<br>
+<!-- 
 Next Employment: Associate Lecturer, Department of Mathematics, University of Houston
+-->
 </td>
 </tr>
 </tbody>
