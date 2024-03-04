@@ -1,6 +1,7 @@
 # Talks & Posters 
 
 ## Talks
+* A. Mang:  *CLAIRE: Scalable Algorithms for Diffeomorphic Image Registration*. Contributed talk at the SIAM Conference on Uncertainty Quantification (UQ24; Session: Computational Tools for Large-Scale Inverse Problems and UQ), Trieste, IT, 2024.
 * A. Mang: *Efficient algorithms for inverse problems governed by dynamical systems*. Invited talk (host: K. B. Nakshatrala) at the Department of Civil and Environmental Engineering, University of Houston, TX, 2023.
 * A. Mang: *Fast algorithms for nonlinear optimal control of geodesic flows of diffeomorphisms*. Contributed talk at the U.S. National Congress on Computational Mechanics (USNCCM7; Session: Recent Advances in Large-Scale Optimal Engineering Design), Albuquerque, NM, 2023.
 * A. Mang: *Shape classification through the lens of geodesic flows of diffeomorphisms*. Invited talk at workshop entitled "Leveraging Model- and Data-Driven Methods in Medical Imaging" at Banff International Research Station for Mathematical Innovation and Discover, CA, 2023.
