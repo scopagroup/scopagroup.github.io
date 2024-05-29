@@ -1,7 +1,9 @@
 # Talks & Posters 
 
 ## Talks
-* A. Mang: *Efficient algorithms for inverse problems governed by dynamical systems*. Invited talk (host: K. B. Nakshatrala) at the Department of Civil and Environmental Engineering, University of Houston, TX, 2023.
+* A. Mang: *CLAIRE: Scalable algorithms for diffeomorphic image registration*. Contributed talk at SIAM Conference on Imaging Sciences (IS24; Session: Model- and Data-Driven Approaches in Motion Analysis), Atlanta, GA, US, 2024.
+* C. Jannatul: *Efficient numerical methods for optimization problems governed by transport equations*. Contributed talk at SIAM Conference on Imaging Sciences (IS24; Session: Frontiers in Deep Image Reconstruction, Restoration Across Diverse Modalities), Atlanta, GA, US, 2024.
+* J. Y. Kim: *Fast iterative solvers for PDE-constrained optimization in diffeomorphic image registration*. Contributed talk at SIAM Conference on Imaging Sciences (IS24; Session: Shapes, Manifolds and Geometry in Imaging), Atlanta, GA, US, 2024.* A. Mang: *Efficient algorithms for inverse problems governed by dynamical systems*. Invited talk (host: K. B. Nakshatrala) at the Department of Civil and Environmental Engineering, University of Houston, TX, 2023.
 * A. Mang: *Fast algorithms for nonlinear optimal control of geodesic flows of diffeomorphisms*. Contributed talk at the U.S. National Congress on Computational Mechanics (USNCCM7; Session: Recent Advances in Large-Scale Optimal Engineering Design), Albuquerque, NM, 2023.
 * A. Mang: *Shape classification through the lens of geodesic flows of diffeomorphisms*. Invited talk at workshop entitled "Leveraging Model- and Data-Driven Methods in Medical Imaging" at Banff International Research Station for Mathematical Innovation and Discover, CA, 2023.
 * A. Mang: *Scalable algorithms for inverse problems governed by dynamical systems*. Invited talk at DSI's webinar at the Hewlett Packard Enterprise Data Science Institute, University of Houston, Houston, TX, 2023.
