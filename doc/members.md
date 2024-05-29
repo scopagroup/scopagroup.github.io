@@ -54,6 +54,7 @@ Research: Optimal Control, Machine Learning<br>
 
 
 ### Former Team Members
+* Brayan Gutierrez (UG; 2023 SURF Recipient, SU 2023).
 * Dr. German Villalobos (PhD student; 2020-2023).
 * Dr. Jae Youn Kim (PhD student; 2019-2023).
 * Danial Khan (UG; SURF Recipient; SU 2022).
