@@ -1,6 +1,6 @@
 ## Overview
 
-This webpage showcases some of the work of the Scientific Computing, Optimization, and Parallel Algorithms (SCOPA) lab at UH's [Department of Mathematics](https://uh.edu/nsm/math). Broadly speaking, the areas of research of the SCOPA lab include the following:
+This is a webpage for the *Scientific Computing, Optimization, and Parallel Algorithms* (SCOPA) lab at UH's [Department of Mathematics](https://uh.edu/nsm/math). Broadly speaking, the areas of research of the SCOPA lab include the following:
 * scientific computing & numerical methods
 * statistical & deterministic inverse problems (governed by dynamical systems)
 * numerical optimization & variational techniques
