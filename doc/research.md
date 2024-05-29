@@ -12,9 +12,12 @@ CLAIRE has been released under the GNU General Public License and is avaialbe fo
 
 ## Diffeomorphic Shape Matching and Shape Analysis
 
-We have developed numerical algorithms for studying the variability of shapes and shape deformations though the lens of geodesic flows of diffeomoprhisms. We formulate diffeomorphic shape matching as n ODE-constrained optimization problem. The ODDE constraint models the flow of diffeomorphisms.
+We have developed numerical algorithms for studying the variability of shapes and shape deformations though the lens of geodesic flows of diffeomoprhisms. We formulate diffeomorphic shape matching as n ODE-constrained optimization problem. The ODE constraint models the flow of diffeomorphisms. We model the velocity in a reproducing kernel Hilbert space. We consider a Douglas--Rachford splitting method for numerical optimization. We have applied our algorithm to the classification of mitral valve data to distinguish healthy patients from those diagnosed with regurgitation.
 
 
+## Scientific Machine Learning for Inference
+
+We have developed a mathematical framework based on neural networks to estimate parameters of non-linear ordinary differential equations. Our applications are in neurosciences. 
 
 
 ## Support
