@@ -1,3 +1,8 @@
+---
+layout: default
+title: The SCOPA Lab
+---
+
 ## The SCOPA Lab
 
 Below you can find a list of the current and past members of the SCOPA lab.
