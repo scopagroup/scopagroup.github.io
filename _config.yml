@@ -15,13 +15,13 @@ source: ./
 destination: ./_site
 
 # build settings
-permalink   : /:year/:title/
-markdown    : kramdown
-highlighter : rouge
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
 
 # author settings
 author:
-  name     : "Andreas Mang"
+  name: "Andreas Mang"
 
 # social settings
 og_locale: "en_US"

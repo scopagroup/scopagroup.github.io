@@ -11,7 +11,7 @@ Below you can find a list of the current and past members of the SCOPA lab.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/li-meng-2023.jpeg" alt="Li Meng"  width="200"/></p>
+<p align="center"><img src="doc/pics/li-meng-2023.jpeg" alt="Li Meng"  width="200"/></p>
 </td>
 <td>
 Li Meng<br>
