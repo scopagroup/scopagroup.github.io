@@ -1,4 +1,33 @@
 title: "SCOPA"
+
+url: https://scopagroup.github.io
+repo: https://github.com/scopagroup/scopagroup.github.io 
+
+plugins:
+  - jekyll-last-modified-at
+  - jekyll-sitemap
+
 description: "Webpage of the SCOPA Lab"
 show_sidebar: true
 fixed_navbar: top
+
+source: ./
+destination: ./_site
+
+# build settings
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : rouge
+
+# author settings
+author:
+  name     : "Andreas Mang"
+
+# social settings
+og_locale: "en_US"
+
+kramdown:
+  syntax_highlighter: rouge
+  input: GFM
+  auto_ids:       true
+  toc_levels:     1..3
