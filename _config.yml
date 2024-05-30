@@ -1,6 +1,7 @@
 title: "SCOPA"
 
-theme: bulma-clean-theme
+#theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 
 url: https://scopagroup.github.io
 repo: https://github.com/scopagroup/scopagroup.github.io 
