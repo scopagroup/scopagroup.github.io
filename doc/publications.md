@@ -19,6 +19,7 @@ Journal of Computational Physics 493, 1124632023, 2023.
 <br>
 [<a href="http://dx.doi.org/10.1016/j.jcp.2023.112463">doi:10.1016/j.jcp.2023.112463</a>]
 </td>
+</tr>
 <!-- ####################################### -->
 <tr>
 <td>
@@ -31,8 +32,8 @@ Journal of Imaging 8 (9), 251, 2022.
 <br>
 [<a href="http://dx.doi.org/10.3390/jimaging8090251">doi:10.3390/jimaging8090251</a>]
 </td>
-<!-- ####################################### -->
 </tr>
+<!-- ####################################### -->
 <tr>
 <td>
 <p align="center"><img src="../pics/2022-sarmadi-MCA.png" alt="sarmadiMCA22"  width="240"/></p>
