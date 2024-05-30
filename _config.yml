@@ -11,6 +11,10 @@ description: "Webpage of the SCOPA Lab"
 show_sidebar: true
 fixed_navbar: top
 
+header_pages:
+  - index.html
+  - doc/members.html
+
 source: ./
 destination: ./_site
 
