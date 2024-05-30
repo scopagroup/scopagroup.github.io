@@ -10,7 +10,7 @@ Below you can find a list of some of the publications of members of the SCOPA la
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2023-mang-JCP.png" alt="mangJCP23" width="240"/></p>
+<p align="center"><img src="../pics/2023-mang-JCP.png" alt="mangJCP23" width="240"/></p>
 </td>
 <td>
 "<i>An operator-splitting approach for variational optimal control formulations for diffeomorphic shape matching</i>"
@@ -22,7 +22,7 @@ Journal of Computational Physics 493, 1124632023, 2023.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2022-himthani-JIMAG.png" alt="himthaniJIMAG22"  width="240"/></p>
+<p align="center"><img src="../pics/2022-himthani-JIMAG.png" alt="himthaniJIMAG22"  width="240"/></p>
 </td>
 <td>
 "<i>CLAIRE---Parallelized diffeomorphic image registration for large-scale biomedical imaging applications</i>"
@@ -35,7 +35,7 @@ Journal of Imaging 8 (9), 251, 2022.
 </tr>
 <tr>
 <td>
-<p align="center"><img src="pics/2022-sarmadi-MCA.png" alt="sarmadiMCA22"  width="240"/></p>
+<p align="center"><img src="../pics/2022-sarmadi-MCA.png" alt="sarmadiMCA22"  width="240"/></p>
 </td>
 <td>
 "<i>Stochastic neural networks for automatic cell tracking in microscopy image sequences of bacterial colonies</i>"
@@ -48,7 +48,7 @@ Mathematical and Computational Applications 27 (2), 22, 2022.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2021-brunn-JOSS.jpg" alt="brunnJOSS21"  width="240"/></p>
+<p align="center"><img src="../pics/2021-brunn-JOSS.jpg" alt="brunnJOSS21"  width="240"/></p>
 </td>
 <td>
 "<i>CLAIRE: Constrained large deformation diffeomorphic image registration on parallel computing architectures</i>"
@@ -61,7 +61,7 @@ Journal of Open Source Software, 6(61), 3038, 2021.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2021-zhang-JOTA.png" alt="zhangJOTA21"  width="240"/></p>
+<p align="center"><img src="../pics/2021-zhang-JOTA.png" alt="zhangJOTA21"  width="240"/></p>
 </td>
 <td>
 "<i>Diffeomorphic shape matching by operator splitting in 3D cardiology imaging</i>"
@@ -75,7 +75,7 @@ Journal of Optimization Theory and Applications, 188:143--168, 2021.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2021-pati-BRLS.png" alt="patiBRLS21"  width="240"/></p>
+<p align="center"><img src="../pics/2021-pati-BRLS.png" alt="patiBRLS21"  width="240"/></p>
 </td>
 <td>
 "<i>Estimating glioblastoma biophysical growth parameters using deep learning regression</i>"
@@ -88,7 +88,7 @@ Proc. International MICCAI Brainlesion Workshop, LNCS 12658, pp. 157--167, 2021.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2021-brunn-JPDC.png" alt="brunnJPDC21"  width="240"/></p>
+<p align="center"><img src="../pics/2021-brunn-JPDC.png" alt="brunnJPDC21"  width="240"/></p>
 </td>
 <td>
 "<i>Fast GPU 3D diffeomorphic image registration</i>"
@@ -102,7 +102,7 @@ Journal of Parallel and Distributed Computing, 149:149--162, 2021.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2020-brunn-SC.png" alt="brunnSC20"  width="240"/></p>
+<p align="center"><img src="../pics/2020-brunn-SC.png" alt="brunnSC20"  width="240"/></p>
 </td>
 <td>
 "<i>Multi-node multi-GPU diffeomorphic image registration for large-scale imaging problems</i>"
@@ -116,7 +116,7 @@ Proc ACM/IEEE Conference on Supercomputing, pp. 523–539, 2020.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2020-mang-ARBE.png" alt="mangARBE20"  width="240"/></p>
+<p align="center"><img src="../pics/2020-mang-ARBE.png" alt="mangARBE20"  width="240"/></p>
 </td>
 <td>
 "<i>Integrated biophysical modeling and image analysis: Application to neuro-oncology</i>"
@@ -130,7 +130,7 @@ Annual Review of Biomedical Engineering, 22:309--341, 2020.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2020-scheufele-SISC.png" alt="scheufeleSISC20"  width="240"/></p>
+<p align="center"><img src="../pics/2020-scheufele-SISC.png" alt="scheufeleSISC20"  width="240"/></p>
 </td>
 <td>
 "<i>Image-driven biophysical tumor growth model calibration</i>"
@@ -144,7 +144,7 @@ SIAM Journal on Scientific Computing, 42(3):B549--B580, 2020.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2019-mang-SISC.png" alt="mangSISC19"  width="240"/></p>
+<p align="center"><img src="../pics/2019-mang-SISC.png" alt="mangSISC19"  width="240"/></p>
 </td>
 <td>
 "<i>CLAIRE: A distributed-memory solver for constrained large deformation diffeomorphic image registration</i>"
@@ -158,7 +158,7 @@ SIAM Journal on Scientific Computing, 41(5):C548--C584, 2019.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2019-scheufele-CMAME.png" alt="scheufeleCMAME19"  width="240"/></p>
+<p align="center"><img src="../pics/2019-scheufele-CMAME.png" alt="scheufeleCMAME19"  width="240"/></p>
 </td>
 <td>
 "<i>Coupling brain-tumor biophysical models and diffeomorphic image registration</i>"
@@ -171,7 +171,7 @@ Computer Methods in Applied Mechanics and Engineering, 347:533--567, 2019.<br>
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2018-mang-OPTE.png" alt="mangOPTE18"  width="240"/></p>
+<p align="center"><img src="../pics/2018-mang-OPTE.png" alt="mangOPTE18"  width="240"/></p>
 </td>
 <td>
 "<i>PDE-constrained optimization in medical image analysis</i>"
@@ -185,7 +185,7 @@ Optimization and Engineering, 19(3):765--812, 2018.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2017-mang-SISCa.png" alt="mangSISC17"  width="240"/></p>
+<p align="center"><img src="../pics/2017-mang-SISCa.png" alt="mangSISC17"  width="240"/></p>
 </td>
 <td>
 "<i>A semi-Lagrangian two-level preconditioned Newton–Krylov solver for constrained diffeomorphic image registration</i>"
@@ -199,7 +199,7 @@ SIAM Journal on Scientific Computing, 39(6):B1064--B1101, 2017.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2017-mang-SISCb.png" alt="mangSISC17"  width="240"/></p>
+<p align="center"><img src="../pics/2017-mang-SISCb.png" alt="mangSISC17"  width="240"/></p>
 </td>
 <td>
 "<i>A Lagrangian Gauss--Newton--Krylov solver for intensity- and mass-preserving diffeomorphic image registration</i>"
@@ -213,7 +213,7 @@ SIAM Journal on Scientific Computing, 39(5):B860--B885, 2017.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2017-gholami-SC.png" alt="gholamiSC17"  width="240"/></p>
+<p align="center"><img src="../pics/2017-gholami-SC.png" alt="gholamiSC17"  width="240"/></p>
 </td>
 <td>
 "<i>A framework for scalable biophysics-based image analysis</i>"
@@ -226,7 +226,7 @@ Proc ACM/IEEE Conference on SuperComputing, 19:1–19:13, 2017.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2016-gholami-JMB.png" alt="gholamiJMB16"  width="240"/></p>
+<p align="center"><img src="../pics/2016-gholami-JMB.png" alt="gholamiJMB16"  width="240"/></p>
 </td>
 <td>
 "<i>An inverse problem formulation for parameter estimation of a reaction-diffusion model for low grade gliomas</i>"
@@ -240,7 +240,7 @@ Journal on Mathematical Biology, 72(1):409–433, 2016.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2016-mang-SC.png" alt="mangSC16"  width="240"/></p>
+<p align="center"><img src="../pics/2016-mang-SC.png" alt="mangSC16"  width="240"/></p>
 </td>
 <td>
 "<i>Distributed-memory large deformation diffeomorphic 3D image registration</i>"
@@ -254,7 +254,7 @@ Proc ACM/IEEE Conference on SuperComputing, 72:842-853, 2016.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2016-mang-SIIMS.png" alt="mangSIIMS16"  width="240"/></p>
+<p align="center"><img src="../pics/2016-mang-SIIMS.png" alt="mangSIIMS16"  width="240"/></p>
 </td>
 <td>
 "<i>Constrained H1 regularization schemes for diffeomorphic image registration</i>"
@@ -268,7 +268,7 @@ SIAM Journal on Imaging Sciences, 9(3):1154-1194, 2016.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2015-mang-SIIMS.png" alt="mangSIIMS15"  width="240"/></p>
+<p align="center"><img src="../pics/2015-mang-SIIMS.png" alt="mangSIIMS15"  width="240"/></p>
 </td>
 <td>
 "<i>An inexact Newton-Krylov algorithm for constrained diffeomorphic image registration</i>"
@@ -282,7 +282,7 @@ SIAM Journal on Imaging Sciences, 8(2):1030-1069, 2015.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2014-mang-PHD.png" alt="mangPHD14"  width="240"/></p>
+<p align="center"><img src="../pics/2014-mang-PHD.png" alt="mangPHD14"  width="240"/></p>
 </td>
 <td>
 "<i>Methoden zur numerischen Simulation der Progression von Gliomen: Modellentwicklung, Numerik und Parameteridentifikation</i>"
@@ -294,7 +294,7 @@ by A. Mang Springer, 2014.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2012-mang-VMV.png" alt="mangVMV12"  width="240"/></p>
+<p align="center"><img src="../pics/2012-mang-VMV.png" alt="mangVMV12"  width="240"/></p>
 </td>
 <td>
 "<i>Cyclic numerical time integration in variational non-rigid image registration based on quadratic regularisation</i>"
@@ -307,7 +307,7 @@ In Proc Vision Modeling and Visualization Workshop, pages 143--150, 2012.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/2012-mang-MEDPH.png" alt="mangMEDPH12"  width="240"/></p>
+<p align="center"><img src="../pics/2012-mang-MEDPH.png" alt="mangMEDPH12"  width="240"/></p>
 </td>
 <td>
 "<i>Biophysical modeling of brain tumor progression: From unconditionally stable explicit time integration to an inverse problem with parabolic PDE constraints for model calibration</i>"
