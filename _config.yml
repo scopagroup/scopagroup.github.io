@@ -11,6 +11,7 @@ plugins:
 
 description: "Webpage of the SCOPA Lab"
 show_sidebar: true
+show_navbar: true
 fixed_navbar: top
 
 header_pages:
