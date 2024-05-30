@@ -9,6 +9,7 @@ repo: https://github.com/scopagroup/scopagroup.github.io
 plugins:
   - jekyll-last-modified-at
   - jekyll-sitemap
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 description: "Webpage of the SCOPA Lab"
 show_sidebar: true
