@@ -1,3 +1,8 @@
+---
+layout: default
+title: Talks
+---
+
 # Talks & Posters 
 
 ## Talks

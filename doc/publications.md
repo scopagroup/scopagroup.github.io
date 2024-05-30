@@ -1,3 +1,8 @@
+---
+layout: default
+title: Publications
+---
+
 # Publications
 
 Below you can find a list of some of the publications of members of the SCOPA lab.
