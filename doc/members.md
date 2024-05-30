@@ -24,7 +24,7 @@ Research: Bayesian Inference<br>
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/jannatul-ferdous-chhoa-2022.png" alt="Jannatul Chhoa"  width="200"/></p>
+<p align="center"><img src="../pics/jannatul-ferdous-chhoa-2022.png" alt="Jannatul Chhoa"  width="200"/></p>
 </td>
 <td>
 Jannatul Chhoa<br>
@@ -37,7 +37,7 @@ Research: Optimal Control, Inverse Problems<br>
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/scopa-plant.jpeg" alt="Radmir Sultamuratov"  width="200"/></p>
+<p align="center"><img src="../pics/scopa-plant.jpeg" alt="Radmir Sultamuratov"  width="200"/></p>
 </td>
 <td>
 Radmir Sultamuratov<br>
@@ -77,7 +77,7 @@ Research: Optimal Control, Machine Learning<br>
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/german-villalobos-2019.jpeg" alt="German Villalobos"  width="200"/></p>
+<p align="center"><img src="../pics/german-villalobos-2019.jpeg" alt="German Villalobos"  width="200"/></p>
 </td>
 <td>
 Dr. German Villalobos<br>
@@ -89,7 +89,7 @@ Date of Graduation: 12/2023<br>
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/jaeyoun-kim-2022.jpeg" alt="Jae Youn Kim"  width="200"/></p>
+<p align="center"><img src="../pics/jaeyoun-kim-2022.jpeg" alt="Jae Youn Kim"  width="200"/></p>
 </td>
 <td>
 Dr. Jae Youn Kim<br>
@@ -114,7 +114,7 @@ Next Employment: Associate Lecturer, Department of Mathematics, University of Ho
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics//group-111523.jpg" alt="Group Picture 11/2023" width="200"/></p>
+<p align="center"><img src="../pics/group-111523.jpg" alt="Group Picture 11/2023" width="200"/></p>
 </td>
 <td>
 <p align="left">Radmir, Jae, Andreas, German, Li, and Chhoa (November 2023)</p>
@@ -123,7 +123,7 @@ Next Employment: Associate Lecturer, Department of Mathematics, University of Ho
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/group-102323-01.png" alt="Group Picture 10/2023" width="200"/></p>
+<p align="center"><img src="../pics/group-102323-01.png" alt="Group Picture 10/2023" width="200"/></p>
 </td>
 <td>
 <p align="left">Li, Jae, Chhoa, Radmir, Andreas, and German (October 2023)</p>
@@ -132,7 +132,7 @@ Next Employment: Associate Lecturer, Department of Mathematics, University of Ho
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics//group-102323-02.png" alt="Group Picture 10/2023" width="200"/></p>
+<p align="center"><img src="../pics/group-102323-02.png" alt="Group Picture 10/2023" width="200"/></p>
 </td>
 <td>
 <p align="left">Radmir, Li, Chhoa, Jae, Andreas, and German (October 2023)</p>
