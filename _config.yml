@@ -30,6 +30,12 @@ author:
 # social settings
 og_locale: "en_US"
 
+# use a logo image in your nav bar.
+use_logo: true
+
+# logo image to use
+logo: assets/scopa-plant.jpeg
+
 kramdown:
   syntax_highlighter: rouge
   input: GFM
