@@ -2,6 +2,7 @@
 
 Below you can find a list of some of the publications of members of the SCOPA lab.
 
+
 <table border="0" width="100%">
 <col style="width:20%">
 <col style="width:80%">
