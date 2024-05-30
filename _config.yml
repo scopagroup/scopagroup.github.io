@@ -41,3 +41,18 @@ kramdown:
   input: GFM
   auto_ids:       true
   toc_levels:     1..3
+
+
+uistring:
+    title: SCOPA Lab # title to appear in nav bar and page meta
+    description: Webpresence of the SCOPA Lab # Displays as site description meta tag for site
+    copyright: 2024 SCOPA # appears in footer
+    breadcrumb_home_name: Home # display name for "Home" path in the breadcrumb
+    tableofcontents: Table of Contents # text that appears before in-page table of contents
+    expandall: Expand All # appears as text in sidebar to expand all levels
+    collapseall: Collapse All # appears as text in sidebar to collapse all levels
+    search_placeholder_text: Search ... # appears as placeholder in search field
+    no_search_results_found: No matches found. Try using other keywords?
+    feedback_link_name: Feedback # name of Feedback link
+    feedback_subject_line: Feedback about docs # Auto-filled Subject link of email
+    github_edit_button_text: Edit on GitHub # text for github button
