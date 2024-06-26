@@ -6,6 +6,8 @@ title: Talks
 # Talks & Posters 
 
 ## Talks
+* J. Rudi: *Data representations for parameter estimation with deep learning models for a dynamical system*. Contributed talk at International Conference on Computational and Mathematical Biomedical Engineering (CMBE24; Session: Inverse Problems and Uncertainty Quantification in Biological and Medical Applications), Fairfax, VA, US, 2024.
+* A. Mang: *Efficient numerical schemes for uncertainty quantification in diffeomorphic image registration governed by transport equations*. Contributed talk at International Conference on Computational and Mathematical Biomedical Engineering (CMBE24; Session: Inverse Problems and Uncertainty Quantification in Biological and Medical Applications), Fairfax, VA, US, 2024.
 * C. Jannatul: *Efficient numerical methods for optimization problems governed by transport equations*. Contributed talk at SIAM Conference on Imaging Sciences (IS24; Session: Frontiers in Deep Image Reconstruction, Restoration Across Diverse Modalities), Atlanta, GA, US, 2024.
 * J. Y. Kim: *Fast iterative solvers for PDE-constrained optimization in diffeomorphic image registration*. Contributed talk at SIAM Conference on Imaging Sciences (IS24; Session: Shapes, Manifolds and Geometry in Imaging), Atlanta, GA, US, 2024.
 * A. Mang: *CLAIRE: Scalable algorithms for diffeomorphic image registration*. Contributed talk at SIAM Conference on Imaging Sciences (IS24; Session: Model- and Data-Driven Approaches in Motion Analysis), Atlanta, GA, US, 2024.
