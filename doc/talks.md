@@ -1,6 +1,13 @@
 # Talks & Posters 
 
 ## Talks
+* A. Mang: Fast iterative methods for large-scale initial value control problems. Contributed talk at at SIAM Texas-Louisiana Sectional Meetings (SIAM TX-LA;; Session: Recent Developments in Computational Inversion and Reduced Order Modelling), Baylor University, Waco, TX, US, 2024.
+* A. Mang: Fast iterative methods for large-scale initial value control problems. Contributed talk at the Modeling and Optimization: Theory and Applications Conference (MOPTA; Session: Computational and Theoretical Methods for High-dimensional Optimization Problems), Lehigh University, Bethlehem, PA, USA, 2025.
+* A. Mang: Efficient numerical schemes for uncertainty quantification in diffeomorphic image registration governed by transport equations. Contributed talk at the International Conference on Computational and Mathematical Biomedical Engineering (CMBE24; Session: Inverse Problems and Uncertainty Quantification in Biological and Medical Applications), Arlington, VA, USA, 2024.
+* A. Mang: CLAIRE: Scalable algorithms for diffeomorphic image registration. Contributed talk at the SIAM Conference on Imaging Sciences (IS24; Session: Model- and Data-Driven Approaches in Motion Analysis), Atlanta, US, 2024.
+* J. Chhoa: Efficient Numerical Methods for Optimization Problems Governed by Transport Equations. Contributed talk at the SIAM Conference on Imaging Sciences (IS24; Session: Frontiers in Deep Image Reconstruction, Restoration Across Diverse Modalities), Atlanta, US, 2024.
+* J. Y. Kim: Fast Iterative Solvers for PDE-constrained Optimization in Diffeomorphic Image Registration. Contributed talk at the SIAM Conference on Imaging Sciences (IS24; Session: Shapes, Manifolds and Geometry in Imaging), Atlanta, US, 2024.
+* A. Mang: Fast iterative solvers for initial value control problems with application to diffeomorphic image registration. Contributed talk at the INFORMS Optimization Society Conference (IOS; Session: Optimization of Complex Physics-Based Systems), Houston, TX, 2024.
 * A. Mang:  *CLAIRE: Scalable Algorithms for Diffeomorphic Image Registration*. Contributed talk at the SIAM Conference on Uncertainty Quantification (UQ24; Session: Computational Tools for Large-Scale Inverse Problems and UQ), Trieste, IT, 2024.
 * A. Mang: *Efficient algorithms for inverse problems governed by dynamical systems*. Invited talk (host: K. B. Nakshatrala) at the Department of Civil and Environmental Engineering, University of Houston, TX, 2023.
 * A. Mang: *Fast algorithms for nonlinear optimal control of geodesic flows of diffeomorphisms*. Contributed talk at the U.S. National Congress on Computational Mechanics (USNCCM7; Session: Recent Advances in Large-Scale Optimal Engineering Design), Albuquerque, NM, 2023.
@@ -66,6 +73,9 @@
 
 
 ## Poster Presentations
+* M. Konduri: *DNNs for Parameter Identification in Semi-Linear Parabolic PDEs*, SIAM TX LA Sectional Meeting 2024, University of Houston, Houston, TX.
+* B. Gutierrez: *Stochastic Newton–MCMC for Bayesian inference*, Undergraduate Research Day 2023, University of Houston.
+* B. Gutierrez: *Stochastic Newton–MCMC for Bayesian inference*, National Diversity in STEM Conference, Phoenix, AZ, US, 2023.
 * J. Kim: *Fast evaluation of PDE operators for optimization and uncertainty quantification in problems governed by transport equations*, SIAM TX LA Sectional Meeting 2022, University of Houston, Houston, TX.
 * G. Villalobos: *Inference for the Fitzhugh-Nagumo Model through ANNs*, SIAM TX LA Sectional Meeting 2022, University of Houston, Houston, TX.
 * R. Sultamuratov: *Automatic classification of deformable shapes*, SIAM TX LA Sectional Meeting 2022, University of Houston, Houston, TX.
