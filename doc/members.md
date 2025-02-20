@@ -54,27 +54,13 @@ Research: Optimal Control, Inverse Problems<br>
 <a href ="mailto:jchhoa@cougarnet.uh.edu">Send Email</a>
 </td>
 </tr>
-<!-- ####################################### -->
-<tr>
-<td>
-<p align="center"><img src="../pics/scopa-plant.jpeg" alt="Radmir Sultamuratov"  width="200"/></p>
-</td>
-<td>
-Radmir Sultamuratov<br>
-Role: Graduate Student<br>
-Research: Optimal Control, Machine Learning<br>
-<!--
-[<a href="https://github.com/limeng-math">https://github.com/limeng-math</a>]
- -->
-<a href ="mailto:rsultamu@cougarnet.uh.edu">Send Email</a>
-</td>
-</tr>
 </tbody>
 </table>
 
 
 ### Former Team Members
 * Brayan Gutierrez (UG; 2023 SURF Recipient, SU 2023).
+* Dr. Radmir Sultamuratov PhD student; 2021-2024).
 * Li Meng (Graduate Student; 2023-2024).
 * Mayank Konduri (High School student; 2023-2024).
 * Dr. German Villalobos (PhD student; 2020-2023).
