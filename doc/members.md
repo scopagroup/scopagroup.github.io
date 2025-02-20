@@ -16,7 +16,7 @@ Below you can find a list of the current and past members of the SCOPA lab.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/amiri-pegah-2023.jpeg" alt="Amiri Pegah"  width="200"/></p>
+<p align="center"><img src="../pics/amiri-pegah-2023.jpeg" alt="Amiri Pegah"  width="200"/></p>
 </td>
 <td>
 Pegah Amiri<br>
@@ -30,7 +30,7 @@ Research: Bayesian Inference<br>
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/islam-asikul-2024.jpeg" alt="Asikul Islam"  width="200"/></p>
+<p align="center"><img src="../pics/islam-asikul-2024.jpeg" alt="Asikul Islam"  width="200"/></p>
 </td>
 <td>
 Asikul Islam<br>
@@ -38,7 +38,7 @@ Role: Graduate Student<br>
 Research: Inverse Problems<br>
 <!-- 
 [<a href="https://github.com/limeng-math">https://github.com/limeng-math</a>]<br>--->
-<a href ="mailto:pamiri@cougarnet.uh.edu">Send Email</a>
+<a href ="mailto:aislam25@cougarnet.uh.edu">Send Email</a>
 </td>
 </tr>
 <!-- ####################################### -->
@@ -99,7 +99,7 @@ Research: Optimal Control, Machine Learning<br>
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/radmir-sultamuratov-2024.png" alt="Radmir Sultamuratov"  width="200"/></p>
+<p align="center"><img src="../pics/radmir-sultamuratov-2024.png" alt="Radmir Sultamuratov"  width="200"/></p>
 </td>
 <td>
 Dr. Radmir Sultamuratov<br>
@@ -115,7 +115,7 @@ Date of Graduation: 12/2024<br>
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="pics/german-villalobos-2019.jpeg" alt="German Villalobos"  width="200"/></p>
+<p align="center"><img src="../pics/german-villalobos-2019.jpeg" alt="German Villalobos"  width="200"/></p>
 </td>
 <td>
 Dr. German Villalobos<br>
