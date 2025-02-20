@@ -16,14 +16,15 @@ Below you can find a list of the current and past members of the SCOPA lab.
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="../pics/li-meng-2023.jpeg" alt="Li Meng"  width="200"/></p>
+<p align="center"><img src="pics/amiri-pegah-2023.jpeg" alt="Amiri Pegah"  width="200"/></p>
 </td>
 <td>
-Li Meng<br>
+Pegah Amiri<br>
 Role: Graduate Student<br>
 Research: Bayesian Inference<br>
-[<a href="https://github.com/limeng-math">https://github.com/limeng-math</a>]<br>
-<a href ="mailto:lmeng3@cougarnet.uh.edu">Send Email</a>
+<!-- 
+[<a href="https://github.com/limeng-math">https://github.com/limeng-math</a>]<br>--->
+<a href ="mailto:pamiri@cougarnet.uh.edu">Send Email</a>
 </td>
 </tr>
 <!-- ####################################### -->
@@ -60,6 +61,8 @@ Research: Optimal Control, Machine Learning<br>
 
 ### Former Team Members
 * Brayan Gutierrez (UG; 2023 SURF Recipient, SU 2023).
+* Li Meng (Graduate Student; 2023-2024).
+* Mayank Konduri (High School student; 2023-2024).
 * Dr. German Villalobos (PhD student; 2020-2023).
 * Dr. Jae Youn Kim (PhD student; 2019-2023).
 * Danial Khan (UG; SURF Recipient; SU 2022).
@@ -82,7 +85,24 @@ Research: Optimal Control, Machine Learning<br>
 <!-- ####################################### -->
 <tr>
 <td>
-<p align="center"><img src="../pics/german-villalobos-2019.jpeg" alt="German Villalobos"  width="200"/></p>
+<p align="center"><img src="pics/radmir-sultamuratov-2024.png" alt="Radmir Sultamuratov"  width="200"/></p>
+</td>
+<td>
+Dr. Radmir Sultamuratov<br>
+Thesis: <i>Distance-based classification and clustering of smooth surfaces</i><br>
+<a href="https://hdl.handle.net/10657/18318">https://hdl.handle.net/10657/18318</a>><br>
+Date of Graduation: 12/2024<br>
+<!--
+[<a href="https://github.com/limeng-math">https://github.com/limeng-math</a>]
+ -->
+<a href ="mailto:rsultamu@cougarnet.uh.edu">Send Email</a>
+</td>
+</tr>
+<!-- ####################################### -->
+<tr>
+<td>
+<p align="center"><img src="pics/german-villalobos-2019.jpeg" alt="German Villalobos"  width="200"/></p>
+>>>>>>> master
 </td>
 <td>
 Dr. German Villalobos<br>
