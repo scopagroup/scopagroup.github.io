@@ -26,7 +26,9 @@ We have developed a mathematical framework based on neural networks to estimate 
 
 
 ## Support
+* 2025: UH DOR GEAR Award
 * since 2022: NSF CAREER Award (Computational Mathematics) ([DMS-2145845](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2145845))
+* 2023: Allocation on the Neocortex Supercomputer at the Pittsburgh Supercomputing Center
 * 2020--2023: NSF Applied Mathematics ([DMS-2009923](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2009923))
 * 2020--2023: NSF Computational Mathematics ([DMS-2012825](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2012825))
 * 2019--2022: NSF CDS&E-MSS ([DMS-1854853](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1854853))
