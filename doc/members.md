@@ -92,10 +92,6 @@ Dr. Radmir Sultamuratov<br>
 Thesis: <i>Distance-based classification and clustering of smooth surfaces</i><br>
 <a href="https://hdl.handle.net/10657/18318">https://hdl.handle.net/10657/18318</a>><br>
 Date of Graduation: 12/2024<br>
-<!--
-[<a href="https://github.com/limeng-math">https://github.com/limeng-math</a>]
- -->
-<a href ="mailto:rsultamu@cougarnet.uh.edu">Send Email</a>
 </td>
 </tr>
 <!-- ####################################### -->
