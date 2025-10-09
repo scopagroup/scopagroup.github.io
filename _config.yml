@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
-title: SCOPA 
+title: "SCOPA" 
 description: "Computational Mathematics • Scientific ML • Inverse Problems"
-url: https://scopagroup.github.io
-baseurl: /scopagroup
-repository: scopagroup/scopagroup
+url: "https://scopagroup.github.io"
+baseurl: "/scopagroup"
+repository: "scopagroup/scopagroup"
 locale: en-US
 
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
@@ -11,8 +11,8 @@ remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 markdown: kramdown
 kramdown:
   input: GFM
-permalink: /:categories/:title/
-timezone: America/Chicago
+permalink: "/:categories/:title/"
+timezone: "America/Chicago"
 
 plugins:
   - jekyll-remote-theme
@@ -23,32 +23,46 @@ plugins:
   - jekyll-redirect-from
   - jekyll-include-cache
 
-paginate: 10
-paginate_path: /page:num/
-
-# data-driven nav (file below)
 collections:
-  people:      { output: true, permalink: /people/:name/ }
-  projects:    { output: true, permalink: /projects/:name/ }
-  publications:{ output: true, permalink: /publications/:title/ }
-  seminars:    { output: true, permalink: /seminars/:name/ }
+  people:
+    output: true
+    permalink: "/people/:name/"
+  publications:
+    output: true
+    permalink: "/publications/:title/"
+  teaching:
+    output: true
+    permalink: "/teaching/:name/"
 
 defaults:
-  - scope: { path: "", type: pages }
+  - scope:
+      path: ""
+      type: pages
     values:
-      layout: single
-      author_profile: false
-      sidebar: { nav: main }
-  - scope: { path: "", type: posts }
+      layout: "single"
+      author_profile: true
+      sidebar:
+        nav: "main"
+  - scope:
+      path: ""
+      type: posts
     values:
-      layout: single
-      author_profile: false
+      layout: "single"
       read_time: true
-  - scope: { path: "", type: people }
-    values: { layout: single, sidebar: { nav: people } }
-  - scope: { path: "", type: projects }
-    values: { layout: single, sidebar: { nav: projects } }
-  - scope: { path: "", type: publications }
-    values: { layout: single, sidebar: { nav: publications } }
-  - scope: { path: "", type: seminars }
-    values: { layout: single, sidebar: { nav: seminars } }
+      author_profile: true
+      share: true
+  - scope:
+      path: ""
+      type: people
+    values:
+      layout: "single"
+      author_profile: false
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: "single"
+      author_profile: false
+
+paginate: 5
+paginate_path: "/page:num/"
