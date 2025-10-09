@@ -8,10 +8,13 @@ repo: https://github.com/scopagroup/scopagroup.github.io
 #theme: bulma-clean-theme
 #remote_theme: chrisrhymes/bulma-clean-theme@v1.0.0
 #remote_theme: pages-themes/cayman@v0.2.0
-remote_theme: pages-themes/tactile@v0.2.0
+#remote_theme: pages-themes/tactile@v0.2.0
+remote_theme: mmistakes/minimal-mistakes
+plugins: [jekyll-include-cache]
+markdown: kramdown
 
-plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
+#plugins:
+#  - jekyll-remote-theme # add this line to the plugins list if you already have one
 #  - jekyll-last-modified-at
 #  - jekyll-sitemap
 
@@ -45,7 +48,7 @@ logo: assets/scopa-plant.jpeg
 uistring:
     title: SCOPA Lab # title to appear in nav bar and page meta
     description: Webpresence of the SCOPA Lab # Displays as site description meta tag for site
-    copyright: 2024 SCOPA # appears in footer
+    copyright: 2025 SCOPA # appears in footer
     breadcrumb_home_name: Home # display name for "Home" path in the breadcrumb
     tableofcontents: Table of Contents # text that appears before in-page table of contents
     expandall: Expand All # appears as text in sidebar to expand all levels

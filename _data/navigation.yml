@@ -1,3 +1,15 @@
+
+main:
+  - title: "Team"
+    url: /team/
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /pubs/
+  - title: "Presentations"
+    url: /presentations/
+
+
 - name: Team
   link: https://scopagroup.github.io/doc/members.html
 - name: Research
