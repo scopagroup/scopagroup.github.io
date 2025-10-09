@@ -1,14 +1,8 @@
-title: "SCOPA"
-
-url: https://github.com/scopagroup/scopagroup.github.io
-repo: scopagroup.github.io 
-
 title: SCOPA 
 description: "Computational Mathematics • Scientific ML • Inverse Problems"
 # Replace with your org/user and repo. For user/organization sites, set baseurl: "".
 url: https://scopagroup.github.io
-baseurl: /scopagroup.github.io
-repository: scopagroup/scopagroup.github.io
+baseurl: /scopagroup
 locale: en-US
 
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
