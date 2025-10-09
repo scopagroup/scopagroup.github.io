@@ -7,3 +7,23 @@ repository: scopagroup/scopagroup
 locale: en-US
 
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: /:categories/:title/
+timezone: America/Chicago
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-include-cache
+
+paginate: 10
+paginate_path: /page:num/
+
