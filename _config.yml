@@ -3,5 +3,7 @@ title: SCOPA
 description: "Computational Mathematics • Scientific ML • Inverse Problems"
 url: https://scopagroup.github.io
 baseurl: /scopagroup
+repository: scopagroup/scopagroup
 locale: en-US
 
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
