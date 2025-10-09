@@ -29,7 +29,6 @@ collections:
   people:      { output: true, permalink: /people/:name/ }
   projects:    { output: true, permalink: /projects/:name/ }
   publications:{ output: true, permalink: /publications/:title/ }
-  seminars:    { output: true, permalink: /seminars/:name/ }
 
 defaults:
   - scope: { path: "", type: pages }
@@ -48,5 +47,3 @@ defaults:
     values: { layout: single, sidebar: { nav: projects } }
   - scope: { path: "", type: publications }
     values: { layout: single, sidebar: { nav: publications } }
-  - scope: { path: "", type: seminars }
-    values: { layout: single, sidebar: { nav: seminars } }
