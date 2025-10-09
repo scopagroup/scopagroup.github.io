@@ -11,7 +11,7 @@ baseurl: /scopagroup.github.io
 repository: scopagroup/scopagroup.github.io
 locale: en-US
 
-remote_theme: mmistakes/minimal-mistakes@latest
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 minimal_mistakes_skin: default  # other options: dark, air, contrast, etc.
 
 markdown: kramdown
