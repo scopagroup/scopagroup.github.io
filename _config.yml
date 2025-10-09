@@ -23,7 +23,6 @@ timezone: America/Chicago
 # Only GitHub Pages–safe plugins listed below
 plugins:
   - jekyll-remote-theme
-  - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-paginate
@@ -82,12 +81,12 @@ defaults:
         nav: publications
 
 
-logo: /assets/images/logo.png       # optional
-favicon: /assets/images/favicon.ico  # optional
+logo: _assets/scopa-plant.jpeg       # optional
+#favicon: /assets/images/favicon.ico  # optional
 
 author:
   name: "SCOPA Group"
-  avatar: /assets/images/logo.png    # optional
+  avatar: _assets/scopa-plant.jpeg    # optional
   bio: "Department of Mathematics, University of Houston"
   links:
     - label: "GitHub"
@@ -96,11 +95,6 @@ author:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:anreas@math.uh.edu"
-
-feed:
-  path: feed.xml
-  categories:
-    - news
 
 exclude:
   - README.md
