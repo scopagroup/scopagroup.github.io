@@ -16,7 +16,6 @@ timezone: America/Chicago
 
 plugins:
   - jekyll-remote-theme
-  - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-paginate
@@ -27,3 +26,29 @@ plugins:
 paginate: 10
 paginate_path: /page:num/
 
+# data-driven nav (file below)
+collections:
+  people:      { output: true, permalink: /people/:name/ }
+  projects:    { output: true, permalink: /projects/:name/ }
+  publications:{ output: true, permalink: /publications/:title/ }
+  seminars:    { output: true, permalink: /seminars/:name/ }
+
+defaults:
+  - scope: { path: "", type: pages }
+    values:
+      layout: single
+      author_profile: false
+      sidebar: { nav: main }
+  - scope: { path: "", type: posts }
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+  - scope: { path: "", type: people }
+    values: { layout: single, sidebar: { nav: people } }
+  - scope: { path: "", type: projects }
+    values: { layout: single, sidebar: { nav: projects } }
+  - scope: { path: "", type: publications }
+    values: { layout: single, sidebar: { nav: publications } }
+  - scope: { path: "", type: seminars }
+    values: { layout: single, sidebar: { nav: seminars } }
