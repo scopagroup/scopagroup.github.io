@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Research
+layout: single
+title: "Research"
+permalink: /research/
 ---
 
 # Research
