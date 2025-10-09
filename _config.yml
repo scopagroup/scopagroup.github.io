@@ -10,7 +10,7 @@ title: "SCOPA"
 description: "Computational Mathematics • Scientific ML • Inverse Problems"
 
 # simple list of pages used by our custom nav include (titles must match page front matter)
-nav_pages:
-  - { title: "Home", url: "/" }
-  - { title: "Research", url: "/research/" }
-  - { title: "Contact", url: "/contact/" }
+# nav_pages:
+#  - { title: "Home", url: "/" }
+#  - { title: "Research", url: "/research/" }
+#  - { title: "Contact", url: "/contact/" }
