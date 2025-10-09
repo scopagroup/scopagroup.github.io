@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
 title: "SCOPA" 
 description: "Computational Mathematics • Scientific ML • Inverse Problems"
-remote_theme: pages-themes/leap-day@v0.2.0
+#remote_theme: pages-themes/leap-day@v0.2.0
+theme: jekyll-theme-leap-day
 
 plugins:
   - jekyll-remote-theme
