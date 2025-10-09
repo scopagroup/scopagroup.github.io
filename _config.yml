@@ -29,6 +29,7 @@ plugins:
   - jekyll-paginate
   - jemoji
   - jekyll-redirect-from
+  - jekyll-include-cache
 
 paginate: 10
 paginate_path: /page:num/
