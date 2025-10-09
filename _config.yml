@@ -1,60 +1,109 @@
 title: "SCOPA"
 
-url: https://scopagroup.github.io
+url: 
 repo: https://github.com/scopagroup/scopagroup.github.io 
 
+title: SCOPA 
+description: "Computational Mathematics • Scientific ML • Inverse Problems"
+# Replace with your org/user and repo. For user/organization sites, set baseurl: "".
+url: https://scopagroup.github.io
+baseurl: /scopagroup.github.io
+repository: scopagroup/scopagroup.github.io
+locale: en-US
 
+remote_theme: mmistakes/minimal-mistakes@latest
+minimal_mistakes_skin: default  # other options: dark, air, contrast, etc.
 
-#theme: bulma-clean-theme
-#remote_theme: chrisrhymes/bulma-clean-theme@v1.0.0
-#remote_theme: pages-themes/cayman@v0.2.0
-#remote_theme: pages-themes/tactile@v0.2.0
-remote_theme: mmistakes/minimal-mistakes
-plugins: [jekyll-include-cache]
 markdown: kramdown
+kramdown:
+  input: GFM
+permalink: /:categories/:title/
+timezone: America/Chicago
 
-#plugins:
-#  - jekyll-remote-theme # add this line to the plugins list if you already have one
-#  - jekyll-last-modified-at
-#  - jekyll-sitemap
+# Only GitHub Pages–safe plugins listed below
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jemoji
+  - jekyll-redirect-from
 
-description: "Webpage of the SCOPA Lab"
-show_sidebar: true
-show_navbar: true
-fixed_navbar: top
+paginate: 10
+paginate_path: /page:num/
 
-source: ./
-destination: ./_site
+collections:
+  people:
+    output: true
+    permalink: /people/:name/
+  projects:
+    output: true
+    permalink: /projects/:name/
+  publications:
+    output: true
+    permalink: /publications/:title/
 
-# build settings
-permalink: /:year/:title/
-markdown: kramdown
-highlighter: rouge
+defaults:
+  # Pages (About, Contact, etc.)
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: main
+  # People collection
+  - scope:
+      path: ""
+      type: people
+    values:
+      layout: single
+      author_profile: false
+      sidebar:
+        nav: people
+  # Projects collection
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      sidebar:
+        nav: projects
+  # Publications collection
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      sidebar:
+        nav: publications
 
-# author settings
+
+logo: /assets/images/logo.png       # optional
+favicon: /assets/images/favicon.ico  # optional
+
 author:
-  name: "Andreas Mang"
+  name: "SCOPA Group"
+  avatar: /assets/images/logo.png    # optional
+  bio: "Department of Mathematics, University of Houston"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/andreasmang"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:anreas@math.uh.edu"
 
-# social settings
-og_locale: "en_US"
+feed:
+  path: feed.xml
+  categories:
+    - news
 
-# use a logo image in your nav bar.
-use_logo: true
-
-# logo image to use
-logo: assets/scopa-plant.jpeg
-
-
-uistring:
-    title: SCOPA Lab # title to appear in nav bar and page meta
-    description: Webpresence of the SCOPA Lab # Displays as site description meta tag for site
-    copyright: 2025 SCOPA # appears in footer
-    breadcrumb_home_name: Home # display name for "Home" path in the breadcrumb
-    tableofcontents: Table of Contents # text that appears before in-page table of contents
-    expandall: Expand All # appears as text in sidebar to expand all levels
-    collapseall: Collapse All # appears as text in sidebar to collapse all levels
-    search_placeholder_text: Search ... # appears as placeholder in search field
-    no_search_results_found: No matches found. Try using other keywords?
-    feedback_link_name: Feedback # name of Feedback link
-    feedback_subject_line: Feedback about docs # Auto-filled Subject link of email
-    github_edit_button_text: Edit on GitHub # text for github button
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
