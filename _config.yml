@@ -1,19 +1,14 @@
-title: "SCOPA" 
-description: "Computational Mathematics • Scientific ML • Inverse Problems"
+title: "SCOPA — Scientific Computing, Optimization, and Parallel Algorithms"
+description: "Research group at the University of Houston"
 remote_theme: pages-themes/leap-day@v0.2.0
 
 plugins:
-  - jekyll-seo-tag
   - jekyll-remote-theme
+  - jekyll-seo-tag
   - jekyll-sitemap
 
-
-
-# simple list of pages used by our custom nav include (titles must match page front matter)
-nav_pages:
- - { title: "Home", url: "/" }
- - { title: "Research", url: "/research/" }
- - { title: "Contact", url: "/contact/" }
-
+# organization site settings
+url: "https://scopagroup.github.io"
+baseurl: ""
 
 show_downloads: false
