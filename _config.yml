@@ -11,4 +11,10 @@ plugins:
 url: "https://scopagroup.github.io"
 baseurl: ""
 
+# simple list of pages used by our custom nav include (titles must match page front matter)
+nav_pages:
+ - { title: "Home", url: "/" }
+ - { title: "Research", url: "/research/" }
+ - { title: "Contact", url: "/contact/" }
+
 show_downloads: false
