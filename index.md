@@ -17,14 +17,6 @@ This is a webpage for the *Scientific Computing, Optimization, and Parallel Algo
 SCOPA targets various applications of computational and data-enabled sciences with the ultimate aspiration to (i) aid data analysis, (ii) support decision-making, and (iii) enable model-based prediction. Follow the links below to find out more about our activities and our lab.
 
 
-## Content
-* [Team](doc/members.md)
-* [Research](doc/research.md)
-* [Publications](doc/publications.md)
-* [Talks & Posters](doc/talks.md)
-
-
-
 ## Contact
 ```
 Andreas Mang [/an'dre:as maŋ/]

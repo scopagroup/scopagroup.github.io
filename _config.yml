@@ -2,6 +2,7 @@ theme: jekyll-theme-leap-day
 remote_theme: pages-themes/leap-day@v0.2.0
 
 plugins:
+  - jekyll-seo-tag
   - jekyll-remote-theme
   - jekyll-sitemap
 
@@ -12,5 +13,5 @@ description: "Computational Mathematics • Scientific ML • Inverse Problems"
 # simple list of pages used by our custom nav include (titles must match page front matter)
 nav_pages:
  - { title: "Home", url: "/" }
- - { title: "Research", url: "/_research/" }
- - { title: "Contact", url: "/_contact/" }
+ - { title: "Research", url: "/research/" }
+ - { title: "Contact", url: "/contact/" }
