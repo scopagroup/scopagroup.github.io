@@ -42,7 +42,10 @@ We have developed a mathematical framework based on neural networks to estimate 
 
 ## Talks & Posters 
 
-### Talks
+* A. Mang: *A generalized alternating nonlinear GMRES acceleration method*. Contributed talk at SIAM Texas-Louisiana Sectional Meetings (SIAM TX-LA;; Session: High-Performance Solvers and Rapid PDE-Constrained Optimization), University of Texas at Austin, Austin, TX, US, 2025
+* A. Mang: *Numerical methods for PDE-based diffeomorphic image registration*. Contributed talk at SIAM Annual Meeting (SIAMAN25; Session: Image Analysis and Learning with Variational Models and PDEs), Montreal, CA, 2025.
+* A. Mang: *CLAIRE: Constrained large deformation diffeomorphic image registration*. Contributed talk at International Conference on Continuous Optimization (ICCOPT; Session: Recent Advances on PDE-constrained optimization packages and libraries), University of Southern California, Los Angeles, CA, US, 2025.
+* A. Mang: *Data- and model-driven approaches for solving inverse problems*. Invited talk (hosts: D. Mishra (TAMU), M. Zhong (UH), X. Chen (TAMU), D. Casey (TAMU)) at the Scientific Machine Learning (SciML) Summer School 2025 at the Institute of Data Science, Texas AM, College Station, TX, US, 2025.
 * P. Amiri: *Transport-Based Variational Bayesian Inference*. Contributed talk at at SIAM Conference on Computational Sciences and Engineering  (SIAM CSE; Session: Decision Making for Coupled Systems), Fort Worth, TX, US, 2025.
 * C. Jannatul: *Efficient Numerical Methods for PDE-constrained Optimization Problems in Diffeomorphic Image Registration*. Contributed talk at at SIAM Conference on Computational Sciences and Engineering  (SIAM CSE; Session: Methods for Image Processing and Numerical Modeling in Computational Medicine), Fort Worth, TX, US, 2025.
 * A. Mang: *Bayesian Inference for Large Scale Inverse Problems Governed by Hyperbolic Dynamical Systems*. Contributed talk at at SIAM Conference on Computational Sciences and Engineering  (SIAM CSE; Session: Investigating Inverse Problems using Bayesian Inference: Challenges and Advances), Fort Worth, TX, US, 2025.
@@ -124,9 +127,16 @@ We have developed a mathematical framework based on neural networks to estimate 
 
 
 ## Poster Presentations
-* M. Konduri: *DNNs for Parameter Identification in Semi-Linear Parabolic PDEs*, SIAM TX LA Sectional Meeting 2024, University of Houston, Houston, TX.
-* B. Gutierrez: *Stochastic Newton–MCMC for Bayesian inference*, Undergraduate Research Day 2023, University of Houston.
-* B. Gutierrez: *Stochastic Newton–MCMC for Bayesian inference*, National Diversity in STEM Conference, Phoenix, AZ, US, 2023.
+* P. Amiri: *Bayesian inference on SPD manifolds: Geometry-aware learning of posterior covariances*, SIAM TX LA Sectional Meeting 2025, University of Texas at Austin, Austin, TX.
+* I. Asikul: *Efficient numerical methods for multispecies tumor growth simulations*, SIAM TX LA Sectional Meeting 2025, University of Texas at Austin, Austin, TX.
+* M. Konduri: *Model-constrained deep learning for parameter estimation in semi-linear parabolic PDEs∗, SIAM TX LA Sectional Meeting 2025, University of Texas at Austin, Austin, TX.
+* I. Asikul: *Efficient numerical methods for multispecies tumor growth simulations*, ChAMELEON Summer School 2025, University of Houston, Houston, TX, US.
+* A. Nair: *Exploration of the workings of neural networks,* Undergraduate Research Day, University of Houston 2025, Houston, TX, US.
+* G. Villalobos: *Neural networks for inference in optimal control governed by the FitzHugh–Nagumo model*, SIAM Conference on Mathematics of Data Science 2024, Atlanta, GA, US.
+* J. Shi: *Efficient clustering on Riemannian manifolds using Fréchet embeddings,* SIAM Conference on Mathematics of Data Science 2024, Atlanta, GA, US.
+* M. Konduri: *DNNs for Parameter Identification in Semi-Linear Parabolic PDEs*, SIAM TX LA Sectional Meeting 2024, University of Baylor, Waco, TX, US.
+* B. Gutierrez: *Stochastic Newton–MCMC for Bayesian inference*, Undergraduate Research Day 2023, University of Houston, Houston, TX, US.
+* B. Gutierrez: *Stochastic Newton–MCMC for Bayesian inference*, National Diversity in STEM Conference 2023, Phoenix, AZ, US.
 * J. Kim: *Fast evaluation of PDE operators for optimization and uncertainty quantification in problems governed by transport equations*, SIAM TX LA Sectional Meeting 2022, University of Houston, Houston, TX.
 * G. Villalobos: *Inference for the Fitzhugh-Nagumo Model through ANNs*, SIAM TX LA Sectional Meeting 2022, University of Houston, Houston, TX.
 * R. Sultamuratov: *Automatic classification of deformable shapes*, SIAM TX LA Sectional Meeting 2022, University of Houston, Houston, TX.
