@@ -1,5 +1,6 @@
-<nav id="site-nav" style="text-align:center; margin:1em 0;">
-  <a href="{{ site.baseurl }}/">Home</a> |
-  <a href="{{ site.baseurl }}/research/">Research</a> |
-  <a href="{{ site.baseurl }}/contact/">Contact</a>
+<!-- _includes/nav.html -->
+<nav id="site-nav">
+  <a class="{% if page.url == '/' %}active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+  <a class="{% if page.url == '/research/' or page.url contains '/research/' %}active{% endif %}" href="{{ site.baseurl }}/research/">Research</a>
+  <a class="{% if page.url == '/contact/' or page.url contains '/contact/' %}active{% endif %}" href="{{ site.baseurl }}/contact/">Contact</a>
 </nav>
