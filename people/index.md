@@ -12,12 +12,10 @@ Below you can find a list of the current and past members of the SCOPA lab.
 
 <div class="people-grid">
 <div class="person-card">
-<img src="/_pages/pics/amiri-pegah-2023.jpeg" alt="Pegah Amiri">
 <div class="person-name">Pegah Amiri</div>
 <div class="person-role">Graduate Student</div>
 </div>
 <div class="person-card">
-<img src="/_pages/pics/islam-asikul-2024.jpeg" alt="Asikul Islam">
 <div class="person-name">Asikul Islam</div>
 <div class="person-role">Graduate Student</div>
 </div>
