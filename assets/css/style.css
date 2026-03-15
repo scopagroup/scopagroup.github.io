@@ -9,8 +9,9 @@
   --color-bg-content:  #fafbfc;
   --color-text:        #2d3748;
   --color-heading:     #1a202c;
-  --color-accent:      #2a9d8f;
-  --color-accent-hover:#e76f51;
+  --color-accent:      #3172AE;
+  --color-accent-hover:#4a9ad4;
+  --color-accent-light: rgba(49, 114, 174, 0.08);
   --color-header-bg:   #1a202c;
   --color-header-text: #ffffff;
   --color-footer-bg:   #f7f8fa;
@@ -81,6 +82,7 @@ img {
   top: 0;
   z-index: 1000;
   box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  border-top: 3px solid var(--color-accent);
 }
 
 .header-container {
@@ -301,7 +303,7 @@ tbody tr:nth-child(even) {
   background: #f7f9fb;
 }
 tbody tr:hover {
-  background: #eef6f5;
+  background: #eef2f8;
 }
 
 /* ============================================================
@@ -394,6 +396,108 @@ details > p:first-of-type {
 }
 
 /* ============================================================
+   HERO / INTRO SECTION
+   ============================================================ */
+.hero {
+  background: linear-gradient(135deg, #1a202c 0%, #2d3a4a 100%);
+  color: #fff;
+  padding: 3rem 2rem;
+  border-radius: var(--radius);
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.hero h1 {
+  color: #fff;
+  font-size: 2.2rem;
+  margin-bottom: 0.5rem;
+  letter-spacing: 0.03em;
+}
+
+.hero p {
+  color: rgba(255,255,255,0.8);
+  font-size: 1.1rem;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.hero .hero-accent {
+  color: var(--color-accent);
+  font-weight: 600;
+}
+
+/* ============================================================
+   PEOPLE GRID
+   ============================================================ */
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.person-card {
+  text-align: center;
+  padding: 1.25rem 1rem;
+  background: #fff;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.person-card:hover {
+  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+}
+
+.person-card img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 0.75rem;
+  border: 3px solid var(--color-accent-light);
+  box-shadow: none;
+}
+
+.person-card .person-name {
+  font-weight: 600;
+  color: var(--color-heading);
+  font-size: 0.95rem;
+  margin-bottom: 0.2rem;
+}
+
+.person-card .person-role {
+  font-size: 0.82rem;
+  color: var(--color-muted);
+}
+
+/* ============================================================
+   RESEARCH CARDS
+   ============================================================ */
+.research-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.research-card {
+  background: #fff;
+  border: 1px solid var(--color-border);
+  border-left: 4px solid var(--color-accent);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+  box-shadow: var(--shadow-sm);
+}
+
+.research-card h3 {
+  margin-top: 0;
+  color: var(--color-accent);
+}
+
+/* ============================================================
    RESPONSIVE -- Tablet & Mobile
    ============================================================ */
 @media (max-width: 768px) {
@@ -423,6 +527,9 @@ details > p:first-of-type {
   }
   h1 { font-size: 1.6rem; }
   h2 { font-size: 1.3rem; }
+  .hero { padding: 2rem 1.25rem; }
+  .hero h1 { font-size: 1.6rem; }
+  .people-grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 1rem; }
   .content-container {
     padding: 1.75rem 1.15rem 2rem;
   }
