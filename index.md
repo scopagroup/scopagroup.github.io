@@ -14,10 +14,10 @@ permalink: /
 The **Scientific Computing, Optimization, and Parallel Algorithms** (SCOPA) lab is part of UH's [Department of Mathematics](https://uh.edu/nsm/math). Our research spans:
 
 - Scientific computing & numerical methods
+- Machine learning & data science
 - Statistical & deterministic inverse problems (governed by dynamical systems)
 - Numerical optimization & variational techniques
 - Nonlinear optimal control
-- Machine learning & data science
 - Parallel & distributed-memory algorithms
 
 We target various applications of computational and data-enabled sciences with the ultimate aspiration to (i) aid data analysis, (ii) support decision-making, and (iii) enable model-based prediction. Follow the links above to find out more about our activities and our lab.
