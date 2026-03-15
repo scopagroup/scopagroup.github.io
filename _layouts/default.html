@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-container">
+      <a href="{{ '/' | relative_url }}" class="site-logo">
+        <span class="logo-text">SCOPA</span>
+        <span class="logo-sub">Scientific Computing, Optimization &amp; Parallel Algorithms</span>
+      </a>
+      <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+      <nav class="site-nav">
+        <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a>
+        <a href="{{ '/research/' | relative_url }}" class="{% if page.url contains '/research' %}active{% endif %}">Research</a>
+        <a href="{{ '/people/' | relative_url }}" class="{% if page.url contains '/people' %}active{% endif %}">People</a>
+        <a href="{{ '/contact/' | relative_url }}" class="{% if page.url contains '/contact' %}active{% endif %}">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="site-content">
+    <div class="content-container">
+      {{ content }}
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-container">
+      <p>&copy; {{ site.time | date: '%Y' }} SCOPA Lab &mdash; <a href="https://uh.edu/nsm/math">Department of Mathematics</a>, University of Houston</p>
+      <p class="footer-links">
+        <a href="https://github.com/scopagroup">GitHub</a> &middot;
+        <a href="{{ '/contact/' | relative_url }}">Contact</a>
+      </p>
+    </div>
+  </footer>
+
+  <script>
+  (function(){
+    var btn = document.querySelector('.nav-toggle');
+    var nav = document.querySelector('.site-nav');
+    if (btn && nav) {
+      btn.addEventListener('click', function(){
+        var expanded = this.getAttribute('aria-expanded') === 'true';
+        this.setAttribute('aria-expanded', !expanded);
+        nav.classList.toggle('is-open');
+        this.classList.toggle('is-active');
+      });
+    }
+  })();
+  </script>
+</body>
+</html>

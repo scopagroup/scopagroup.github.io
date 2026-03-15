@@ -5,8 +5,6 @@ permalink: /people/
 ---
 
 
-{% include nav.html %}
-
 # The SCOPA Lab
 
 Below you can find a list of the current and past members of the SCOPA lab.
@@ -22,7 +20,7 @@ Below you can find a list of the current and past members of the SCOPA lab.
 ## Former PhD Students
 * Dr. Jannatul Ferdous Chhoa<br>
 Thesis: <i>CLAIRE-MG: Efficient diffeomorphic image registration using multigrid-preconditioned Newton–Krylov methods</i><br>
-<a href="https://hdl.handle.net/10657/18318">https://hdl.handle.net/10657/20613</a><br>
+<a href="https://hdl.handle.net/10657/20613">https://hdl.handle.net/10657/20613</a><br>
 Date of Graduation: 08/2025<br>
 
 * Dr. Radmir Sultamuratov<br>
