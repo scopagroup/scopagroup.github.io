@@ -21,7 +21,7 @@ Below you can find a list of the current and past members of the SCOPA lab.
 </div>
 <div class="person-card">
 <div class="person-name"><a href="https://scholar.google.com/citations?user=x4Th7jYAAAAJ">Samundra Regmi</a></div>
-<div class="person-role">Graduate Student (co-advised with Dr. N. Charon)</div>
+<div class="person-role">Graduate Student</div>
 </div>
 <div class="person-card">
 <div class="person-name"><a href="https://sites.google.com/view/chrischukwu/home">Christopher Chukwuemeka</a></div>
