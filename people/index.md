@@ -12,7 +12,7 @@ Below you can find a list of the current and past members of the SCOPA lab.
 
 <div class="people-grid">
 <div class="person-card">
-<div class="person-name">Pegah Amiri</div>
+<div class="person-name"><a href="https://www.linkedin.com/in/pegah-amiri-a32272150">Pegah Amiri</a></div>
 <div class="person-role">Graduate Student</div>
 </div>
 <div class="person-card">
@@ -20,11 +20,11 @@ Below you can find a list of the current and past members of the SCOPA lab.
 <div class="person-role">Graduate Student</div>
 </div>
 <div class="person-card">
-<div class="person-name">Samundra Regmi</div>
-<div class="person-role">Graduate Student</div>
+<div class="person-name"><a href="https://scholar.google.com/citations?user=x4Th7jYAAAAJ">Samundra Regmi</a></div>
+<div class="person-role">Graduate Student (co-advised with Dr. N. Charon)</div>
 </div>
 <div class="person-card">
-<div class="person-name">Christopher Chukwuemeka</div>
+<div class="person-name"><a href="https://sites.google.com/view/chrischukwu/home">Christopher Chukwuemeka</a></div>
 <div class="person-role">Graduate Student</div>
 </div>
 </div>
@@ -49,17 +49,20 @@ Below you can find a list of the current and past members of the SCOPA lab.
 
 ## Alumni
 
-* Dinh Binh Le, Undergraduate Student (2025 SURF Recipient; SU 2025)
-* Brayan Gutierrez (UG; 2023 SURF Recipient, SU 2023)
+* Dinh Binh Le (Undergraduate; 2025 SURF Recipient; SU 2025)
+* Anjalee Nair (Undergraduate; 2024 SURF Recipient; SU 2024)
 * Li Meng (Graduate Student; 2023-2024)
 * Mayank Konduri (High School Student; 2023-2024)
-* Danial Khan (UG; SURF Recipient; SU 2022)
-* Syed Abidi (UG; PURS & SURF Recipient; SP & SU 2021)
-* Yaseen Syed (UG; PURS Recipient; SP 2021)
+* Brayan Gutierrez (Undergraduate; 2023 SURF Recipient; SU 2023)
+* Danial Khan (Undergraduate; 2022 SURF Recipient; SU 2022)
+* Ali Hamza Abidi Syed (Undergraduate; PURS & SURF Recipient; SP & SU 2021)
+* Yaseen Syed (Undergraduate; PURS Recipient; SP 2021)
+* Gundeep Singh (Undergraduate; PURS Recipient; SU 2019 & FA 2021)
 * Dr. Saeed (Sorena) Sarmadi (PhD Student; co-advised with Dr. R. Azencott; 2017-2020)
-* Haley Rosso (UG; SURF Recipient; SU 2020)
+* Haley Rosso (Undergraduate; 2020 SURF Recipient; SU 2020)
+* Hossein Dabirian (Graduate Student; co-advised with Dr. R. Azencott; 2019-2021)
 * Dr. James L. Herring (Postdoctoral Researcher; 2018-2019)
-* Gundeep Singh (UG; PURS Recipient; SU 2019 & FA 2021)
 * Felix Huber (Visiting Student; co-advised with Dr. M. Schulte; 2018-2019)
-* Brenda Gonzalez (UG; SURF Recipient; SU 2018)
-* Orion Lowy (UG; co-advised with Dr. B. Bodmann; SU 2018)
+* Erin Gabrysch (Graduate Student; co-advised with Dr. A. Quaini; 2018-2019)
+* Brenda Gonzalez (Undergraduate; 2018 SURF Recipient; SU 2018)
+* Orion Lowy (Undergraduate; co-advised with Dr. B. Bodmann; SU 2018)

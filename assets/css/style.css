@@ -468,6 +468,16 @@ details > p:first-of-type {
   margin-bottom: 0.2rem;
 }
 
+.person-card .person-name a {
+  color: var(--color-accent);
+  text-decoration: none;
+}
+
+.person-card .person-name a:hover {
+  color: var(--color-accent-hover);
+  text-decoration: underline;
+}
+
 .person-card .person-role {
   font-size: 0.82rem;
   color: var(--color-muted);
