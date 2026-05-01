@@ -54,8 +54,9 @@ Our algorithms are designed to run efficiently on modern high-performance comput
 
 
 ## Talks & Posters 
-
-* A. Mang: *A generalized alternating nonlinear GMRES acceleration method*. Contributed talk at SIAM Texas-Louisiana Sectional Meetings (SIAM TX-LA; Session: High-Performance Solvers and Rapid PDE-Constrained Optimization), University of Texas at Austin, Austin, TX, US, 2025
+* A. Mang: *Manifold-valued data: classification, clustering, and embeddings*. Invited talk (host: M. Vasilyeva) at the Department of Mathematics & Statistics, Texas A&M University -- Corpus Christi, Corpus Christi, TX, 2026.
+* A. Mang: *Principled computational methods informed by Riemannian geometry*. Invited talk (host: T. G. Anderson) at the Department of Computational Applied Mathematics & Operations Research, Rice University, Houston, TX, 2026.
+* A. Mang: *A generalized alternating nonlinear GMRES acceleration method*. Contributed talk at SIAM Texas-Louisiana Sectional Meetings (SIAM TX-LA; Session: High-Performance Solvers and Rapid PDE-Constrained Optimization), University of Texas at Austin, Austin, TX, US, 2025.
 * A. Mang: *Numerical methods for PDE-based diffeomorphic image registration*. Contributed talk at SIAM Annual Meeting (SIAMAN25; Session: Image Analysis and Learning with Variational Models and PDEs), Montreal, CA, 2025.
 * A. Mang: *CLAIRE: Constrained large deformation diffeomorphic image registration*. Contributed talk at International Conference on Continuous Optimization (ICCOPT; Session: Recent Advances on PDE-constrained optimization packages and libraries), University of Southern California, Los Angeles, CA, US, 2025.
 * A. Mang: *Data- and model-driven approaches for solving inverse problems*. Invited talk (hosts: D. Mishra (TAMU), M. Zhong (UH), X. Chen (TAMU), D. Casey (TAMU)) at the Scientific Machine Learning (SciML) Summer School 2025 at the Institute of Data Science, Texas A&M, College Station, TX, US, 2025.
