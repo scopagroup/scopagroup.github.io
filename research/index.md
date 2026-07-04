@@ -139,6 +139,7 @@ Our algorithms are designed to run efficiently on modern high-performance comput
 
 
 ## Poster Presentations
+* P. Amiri: *Stein Variational Inference for Bayesian Parameter Estimation in the FitzHugh–Nagumo Model*, ICERM workshop "Bayesian Inverse Problems and UQ", Providence, RI, US, 2026.
 * P. Amiri: *Bayesian inference on SPD manifolds: Geometry-aware learning of posterior covariances*, SIAM TX LA Sectional Meeting 2025, University of Texas at Austin, Austin, TX.
 * I. Asikul: *Efficient numerical methods for multispecies tumor growth simulations*, SIAM TX LA Sectional Meeting 2025, University of Texas at Austin, Austin, TX.
 * M. Konduri: *Model-constrained deep learning for parameter estimation in semi-linear parabolic PDEs∗, SIAM TX LA Sectional Meeting 2025, University of Texas at Austin, Austin, TX.
