@@ -54,6 +54,7 @@ Our algorithms are designed to run efficiently on modern high-performance comput
 
 
 ## Talks & Posters 
+* A. Islam: *Tensorial Surrogate Models for Parametric Brain Tumor Growth Dynamics in Many-Query Regimes*. Contributed talk at SIAM Annual Meeting (SIAMAN26; Session: Scalable and Hardware-Aware Algorithms for Large-Scale Inverse Problems), Cleveland, OH, US, 2026.
 * A. Mang: *Manifold-valued data: classification, clustering, and embeddings*. Invited talk (host: M. Vasilyeva) at the Department of Mathematics & Statistics, Texas A&M University -- Corpus Christi, Corpus Christi, TX, 2026.
 * A. Mang: *Principled computational methods informed by Riemannian geometry*. Invited talk (host: T. G. Anderson) at the Department of Computational Applied Mathematics & Operations Research, Rice University, Houston, TX, 2026.
 * A. Mang: *A generalized alternating nonlinear GMRES acceleration method*. Contributed talk at SIAM Texas-Louisiana Sectional Meetings (SIAM TX-LA; Session: High-Performance Solvers and Rapid PDE-Constrained Optimization), University of Texas at Austin, Austin, TX, US, 2025.
