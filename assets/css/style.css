@@ -25,6 +25,7 @@
   --font-mono:         "SFMono-Regular", Consolas, "Liberation Mono", Menlo,
                        Courier, monospace;
   --content-width:     880px;
+  --header-width:      1040px;
   --header-height:     64px;
   --radius:            6px;
   --shadow-sm:         0 1px 3px rgba(0,0,0,0.08);
@@ -86,7 +87,9 @@ img {
 }
 
 .header-container {
-  max-width: var(--content-width);
+  /* Wider than --content-width so the full lab name and all five nav
+     items fit on one line without truncating. */
+  max-width: var(--header-width);
   margin: 0 auto;
   padding: 0 1.5rem;
   display: flex;
@@ -115,7 +118,7 @@ img {
 }
 
 .logo-sub {
-  font-size: 0.72rem;
+  font-size: 0.7rem;
   font-weight: 400;
   opacity: 0.7;
   letter-spacing: 0.02em;
@@ -134,9 +137,9 @@ img {
 
 .site-nav a {
   color: rgba(255,255,255,0.8);
-  font-size: 0.9rem;
+  font-size: 0.88rem;
   font-weight: 500;
-  padding: 0.35rem 0.7rem;
+  padding: 0.35rem 0.62rem;
   white-space: nowrap;
   border-radius: var(--radius);
   text-decoration: none;
@@ -494,7 +497,7 @@ details > p:first-of-type {
    ============================================================ */
 .research-grid {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   gap: 1.5rem;
   margin: 1.5rem 0;
 }
@@ -512,6 +515,8 @@ details > p:first-of-type {
   margin-top: 0;
   color: var(--color-accent);
 }
+
+.research-card p:last-child { margin-bottom: 0; }
 
 /* ============================================================
    PUBLICATIONS
@@ -531,8 +536,11 @@ details > p:first-of-type {
 }
 
 .pub-filter {
+  -webkit-appearance: none;   /* Safari draws native button chrome otherwise */
+  appearance: none;
   font: inherit;
   font-size: 0.82rem;
+  line-height: 1.4;
   padding: 0.3rem 0.7rem;
   border: 1px solid var(--color-accent);
   background: transparent;
@@ -609,10 +617,13 @@ details > p:first-of-type {
 /* ============================================================
    RESPONSIVE -- Tablet & Mobile
    ============================================================ */
+/* Below the header's full width there is no longer room for the spelled-out
+   lab name next to five nav items, so drop it rather than truncate it. */
+@media (max-width: 1000px) {
+  .logo-sub { display: none; }
+}
+
 @media (max-width: 768px) {
-  .logo-sub {
-    display: none;
-  }
   .nav-toggle {
     display: flex;
   }
