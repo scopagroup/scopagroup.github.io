@@ -8,7 +8,6 @@
 #   doi      – full DOI URL (optional)
 #   arxiv    – full arXiv URL (optional)
 #   category – journal | preprint | conference | book | bookchapter
-#   thumb    – file name in assets/pics/ (optional)
 
 - title: "Tensor-based reduced-order modeling for optimization-based inverse problems"
   authors: "S. Islam, A. Mang & M. Olshanskii"
@@ -92,7 +91,6 @@
   doi: "https://doi.org/10.1016/j.jcp.2023.112463"
   arxiv: "https://arxiv.org/abs/2307.10114"
   category: "journal"
-  thumb: "2023-mang-JCP.png"
 
 - title: "CLAIRE—Parallelized diffeomorphic image registration for large-scale biomedical imaging applications"
   authors: "M. Brunn, N. Himthani, J. Y. Kim, M. Schulte, A. Mang & G. Biros"
@@ -101,7 +99,6 @@
   doi: "https://doi.org/10.3390/jimaging8090251"
   arxiv: "https://arxiv.org/abs/2209.08189"
   category: "journal"
-  thumb: "2022-himthani-JIMAG.png"
 
 - title: "Stochastic neural networks for automatic cell tracking in microscopy image sequences of bacterial colonies"
   authors: "S. Sarmadi, J. J. Winkle, R. N. Alnahhas, M. R. Bennett, K. Josić, A. Mang & R. Azencott"
@@ -110,7 +107,6 @@
   doi: "https://doi.org/10.3390/mca27020022"
   arxiv: "https://arxiv.org/abs/2104.13482"
   category: "journal"
-  thumb: "2022-sarmadi-MCA.png"
 
 - title: "CLAIRE: Constrained large deformation diffeomorphic image registration on parallel computing architectures"
   authors: "M. Brunn, N. Himthani, G. Biros, M. Mehl & A. Mang"
@@ -118,7 +114,6 @@
   year: 2021
   doi: "https://doi.org/10.21105/joss.03038"
   category: "journal"
-  thumb: "2021-brunn-JOSS.jpg"
 
 - title: "Diffeomorphic shape matching by operator splitting in 3D cardiology imaging"
   authors: "P. Zhang, A. Mang, J. He, R. Azencott, K. C. El-Tallawi & W. A. Zoghbi"
@@ -127,7 +122,6 @@
   doi: "https://doi.org/10.1007/s10957-020-01789-5"
   arxiv: "https://arxiv.org/abs/2011.10165"
   category: "journal"
-  thumb: "2021-zhang-JOTA.png"
 
 - title: "Estimating glioblastoma biophysical growth parameters using deep learning regression"
   authors: "S. Pati, V. Sharma, H. Aslam, S. Thakur, H. Akbari, A. Mang, S. Subramanian, G. Biros, C. Davatzikos & S. Bakas"
@@ -135,7 +129,6 @@
   year: 2021
   doi: "https://doi.org/10.1007/978-3-030-72084-1_15"
   category: "conference"
-  thumb: "2021-pati-BRLS.png"
 
 - title: "Fast GPU 3D diffeomorphic image registration"
   authors: "M. Brunn, N. Himthani, G. Biros, M. Mehl & A. Mang"
@@ -144,7 +137,6 @@
   doi: "https://doi.org/10.1016/j.jpdc.2020.11.006"
   arxiv: "https://arxiv.org/abs/2004.08893"
   category: "journal"
-  thumb: "2021-brunn-JPDC.png"
 
 - title: "Multi-node multi-GPU diffeomorphic image registration for large-scale imaging problems"
   authors: "M. Brunn, N. Himthani, G. Biros, M. Mehl & A. Mang"
@@ -153,7 +145,6 @@
   doi: "https://doi.org/10.1109/SC41405.2020.00042"
   arxiv: "https://arxiv.org/abs/2008.12820"
   category: "conference"
-  thumb: "2020-brunn-SC.png"
 
 - title: "Integrated biophysical modeling and image analysis: Application to neuro-oncology"
   authors: "A. Mang, S. Bakas, S. Subramanian, G. Biros & C. Davatzikos"
@@ -162,7 +153,6 @@
   doi: "https://doi.org/10.1146/annurev-bioeng-062117-121105"
   arxiv: "https://arxiv.org/abs/2002.09628"
   category: "journal"
-  thumb: "2020-mang-ARBE.png"
 
 - title: "Image-driven biophysical tumor growth model calibration"
   authors: "K. Scheufele, S. Subramanian, A. Mang, G. Biros & M. Mehl"
@@ -171,7 +161,6 @@
   doi: "https://doi.org/10.1137/19M1275280"
   arxiv: "https://arxiv.org/abs/1907.07774"
   category: "journal"
-  thumb: "2020-scheufele-SISC.png"
 
 - title: "CLAIRE: A distributed-memory solver for constrained large deformation diffeomorphic image registration"
   authors: "A. Mang, A. Gholami, C. Davatzikos & G. Biros"
@@ -180,7 +169,6 @@
   doi: "https://doi.org/10.1137/18M1207818"
   arxiv: "https://arxiv.org/abs/1808.04487"
   category: "journal"
-  thumb: "2019-mang-SISC.png"
 
 - title: "Coupling brain-tumor biophysical models and diffeomorphic image registration"
   authors: "K. Scheufele, A. Mang, A. Gholami, C. Davatzikos, G. Biros & M. Mehl"
@@ -189,7 +177,6 @@
   doi: "https://doi.org/10.1016/j.cma.2018.12.008"
   arxiv: "https://arxiv.org/abs/1710.06420"
   category: "journal"
-  thumb: "2019-scheufele-CMAME.png"
 
 - title: "Identifying the best machine learning algorithms for brain tumor segmentation, progression assessment, and overall survival prediction in the BRATS challenge"
   authors: "S. Bakas, M. Reyes, A. Jakab et al. (incl. A. Mang)"
@@ -205,7 +192,6 @@
   doi: "https://doi.org/10.1007/s11081-018-9390-9"
   arxiv: "https://arxiv.org/abs/1803.00058"
   category: "journal"
-  thumb: "2018-mang-OPTE.png"
 
 - title: "A semi-Lagrangian two-level preconditioned Newton–Krylov solver for constrained diffeomorphic image registration"
   authors: "A. Mang & G. Biros"
@@ -214,7 +200,6 @@
   doi: "https://doi.org/10.1137/16M1070475"
   arxiv: "https://arxiv.org/abs/1604.02153"
   category: "journal"
-  thumb: "2017-mang-SISCa.png"
 
 - title: "A Lagrangian Gauss–Newton–Krylov solver for intensity- and mass-preserving diffeomorphic image registration"
   authors: "A. Mang & L. Ruthotto"
@@ -223,7 +208,6 @@
   doi: "https://doi.org/10.1137/17M1114132"
   arxiv: "https://arxiv.org/abs/1703.04446"
   category: "journal"
-  thumb: "2017-mang-SISCb.png"
 
 - title: "A framework for scalable biophysics-based image analysis"
   authors: "A. Gholami, A. Mang, K. Scheufele, C. Davatzikos, M. Mehl & G. Biros"
@@ -231,7 +215,6 @@
   year: 2017
   doi: "https://doi.org/10.1145/3126908.3126930"
   category: "conference"
-  thumb: "2017-gholami-SC.png"
 
 - title: "An inverse problem formulation for parameter estimation of a reaction-diffusion model for low grade gliomas"
   authors: "A. Gholami, A. Mang & G. Biros"
@@ -240,7 +223,6 @@
   doi: "https://doi.org/10.1007/s00285-015-0888-x"
   arxiv: "https://arxiv.org/abs/1408.6221"
   category: "journal"
-  thumb: "2016-gholami-JMB.png"
 
 - title: "Distributed-memory large deformation diffeomorphic 3D image registration"
   authors: "A. Mang, A. Gholami & G. Biros"
@@ -249,7 +231,6 @@
   doi: "https://doi.org/10.1109/SC.2016.71"
   arxiv: "https://arxiv.org/abs/1608.03630"
   category: "conference"
-  thumb: "2016-mang-SC.png"
 
 - title: "Constrained H1 regularization schemes for diffeomorphic image registration"
   authors: "A. Mang & G. Biros"
@@ -258,7 +239,6 @@
   doi: "https://doi.org/10.1137/15M1010919"
   arxiv: "https://arxiv.org/abs/1503.00757"
   category: "journal"
-  thumb: "2016-mang-SIIMS.png"
 
 - title: "An inexact Newton–Krylov algorithm for constrained diffeomorphic image registration"
   authors: "A. Mang & G. Biros"
@@ -267,7 +247,6 @@
   doi: "https://doi.org/10.1137/140984002"
   arxiv: "https://arxiv.org/abs/1408.6299"
   category: "journal"
-  thumb: "2015-mang-SIIMS.png"
 
 - title: "Methoden zur numerischen Simulation der Progression von Gliomen: Modellentwicklung, Numerik und Parameteridentifikation"
   authors: "A. Mang"
@@ -275,7 +254,6 @@
   year: 2014
   doi: "https://doi.org/10.1007/978-3-658-05246-1"
   category: "book"
-  thumb: "2014-mang-PHD.png"
 
 - title: "Cyclic numerical time integration in variational non-rigid image registration based on quadratic regularisation"
   authors: "A. Mang, T. A. Schuetz, S. Becker, A. Toma & T. M. Buzug"
@@ -283,7 +261,6 @@
   year: 2012
   doi: "https://doi.org/10.2312/PE/VMV/VMV12/143-150"
   category: "conference"
-  thumb: "2012-mang-VMV.png"
 
 - title: "Biophysical modeling of brain tumor progression: From unconditionally stable explicit time integration to an inverse problem with parabolic PDE constraints for model calibration"
   authors: "A. Mang, A. Toma, T. A. Schuetz, S. Becker, C. Mohr, T. Eckey, D. Petersen & T. M. Buzug"
@@ -291,4 +268,3 @@
   year: 2012
   doi: "https://doi.org/10.1118/1.4722749"
   category: "journal"
-  thumb: "2012-mang-MEDPH.png"

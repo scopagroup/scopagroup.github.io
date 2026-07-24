@@ -547,22 +547,7 @@ details > p:first-of-type {
   color: #fff;
 }
 
-.pub-year-filter {
-  font-size: 0.82rem;
-  color: var(--color-muted);
-  display: inline-flex;
-  align-items: center;
-  gap: 0.4rem;
-}
-.pub-year-filter select {
-  font: inherit;
-  font-size: 0.82rem;
-  padding: 0.25rem 0.45rem;
-  border: 1px solid var(--color-border);
-  border-radius: 4px;
-  background: #fff;
-  color: var(--color-text);
-}
+.output-section[hidden] { display: none; }
 
 .pub-list {
   list-style: none;
@@ -571,40 +556,12 @@ details > p:first-of-type {
 }
 
 .pub-list .pub-item {
-  display: flex;
-  gap: 1.25rem;
-  align-items: flex-start;
-  padding: 1.25rem 0;
+  padding: 0.85rem 0;
   margin: 0;
   border-bottom: 1px solid var(--color-border);
 }
 .pub-list .pub-item:last-child { border-bottom: none; }
-
-.pub-thumb {
-  flex: 0 0 160px;
-  width: 160px;
-}
-.pub-thumb img {
-  width: 100%;
-  display: block;
-  border-radius: var(--radius);
-}
-
-.pub-thumb-placeholder {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 90px;
-  border: 1px dashed var(--color-border);
-  border-radius: var(--radius);
-  background: var(--color-accent-light);
-  color: var(--color-muted);
-  font-size: 1.1rem;
-  font-weight: 600;
-  letter-spacing: 0.05em;
-}
-
-.pub-body { flex: 1 1 auto; min-width: 0; }
+.pub-list .pub-item[hidden] { display: none; }
 
 .pub-title {
   font-weight: 600;
@@ -646,6 +603,8 @@ details > p:first-of-type {
 .pub-category.conference  { background: rgba(0, 163, 173, 0.18);  color: #007079; }
 .pub-category.book        { background: rgba(243, 113, 33, 0.18); color: #b34e00; }
 .pub-category.bookchapter { background: rgba(140, 71, 153, 0.18); color: #6b3275; }
+.pub-category.talk        { background: rgba(76, 132, 96, 0.18);  color: #2f6b45; }
+.pub-category.poster      { background: rgba(176, 62, 106, 0.16); color: #94305a; }
 
 /* ============================================================
    RESPONSIVE -- Tablet & Mobile
@@ -677,9 +636,6 @@ details > p:first-of-type {
   }
   h1 { font-size: 1.6rem; }
   h2 { font-size: 1.3rem; }
-  .pub-list .pub-item { flex-direction: column; gap: 0.75rem; }
-  .pub-thumb { flex-basis: auto; width: 100%; max-width: 240px; }
-  .pub-thumb-placeholder { display: none; }
   .hero { padding: 2rem 1.25rem; }
   .hero h1 { font-size: 1.6rem; }
   .people-grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 1rem; }

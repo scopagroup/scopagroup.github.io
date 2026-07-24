@@ -1,0 +1,702 @@
+# Talks given by members of the SCOPA lab, sorted by year (newest first).
+#
+# Fields:
+#   speaker  -- initials + surname, e.g. "A. Mang"
+#   title    -- sentence case, acronyms and proper nouns preserved
+#   kind     -- "Contributed talk" | "Invited talk" | "Invited colloquium talk"
+#               | "Invited seminar talk"
+#   host     -- optional, for invited talks
+#   venue    -- conference, workshop, seminar or department
+#   acronym  -- optional short code for the meeting, e.g. "AN26"
+#   session  -- optional minisymposium / special session title
+#   location -- "[Institution, ]City, [State, ]Country" or "virtual"
+#   year     -- used by the year filter
+
+- speaker: "A. Islam"
+  title: "Tensorial surrogate models for parametric brain tumor growth dynamics in many-query regimes"
+  kind: "Contributed talk"
+  venue: "SIAM Annual Meeting"
+  acronym: "AN26"
+  session: "Scalable and Hardware-Aware Algorithms for Large-Scale Inverse Problems"
+  location: "Cleveland, OH, US"
+  year: 2026
+
+- speaker: "A. Mang"
+  title: "Manifold-valued data: Classification, clustering, and embeddings"
+  kind: "Invited talk"
+  host: "M. Vasilyeva"
+  venue: "Department of Mathematics & Statistics, Texas A&M University–Corpus Christi"
+  location: "Corpus Christi, TX, US"
+  year: 2026
+
+- speaker: "A. Mang"
+  title: "Principled computational methods informed by Riemannian geometry"
+  kind: "Invited talk"
+  host: "T. G. Anderson"
+  venue: "Department of Computational Applied Mathematics & Operations Research, Rice University"
+  location: "Houston, TX, US"
+  year: 2026
+
+- speaker: "A. Mang"
+  title: "A generalized alternating nonlinear GMRES acceleration method"
+  kind: "Contributed talk"
+  venue: "SIAM Texas-Louisiana Sectional Meeting"
+  acronym: "SIAM TX-LA 25"
+  session: "High-Performance Solvers and Rapid PDE-Constrained Optimization"
+  location: "University of Texas at Austin, Austin, TX, US"
+  year: 2025
+
+- speaker: "A. Mang"
+  title: "Numerical methods for PDE-based diffeomorphic image registration"
+  kind: "Contributed talk"
+  venue: "SIAM Annual Meeting"
+  acronym: "AN25"
+  session: "Image Analysis and Learning with Variational Models and PDEs"
+  location: "Montreal, QC, CA"
+  year: 2025
+
+- speaker: "A. Mang"
+  title: "CLAIRE: Constrained large deformation diffeomorphic image registration"
+  kind: "Contributed talk"
+  venue: "International Conference on Continuous Optimization"
+  acronym: "ICCOPT"
+  session: "Recent Advances on PDE-Constrained Optimization Packages and Libraries"
+  location: "University of Southern California, Los Angeles, CA, US"
+  year: 2025
+
+- speaker: "A. Mang"
+  title: "Data- and model-driven approaches for solving inverse problems"
+  kind: "Invited talk"
+  host: "D. Mishra, M. Zhong, X. Chen & D. Casey"
+  venue: "Scientific Machine Learning (SciML) Summer School, Institute of Data Science, Texas A&M University"
+  location: "College Station, TX, US"
+  year: 2025
+
+- speaker: "P. Amiri"
+  title: "Transport-based variational Bayesian inference"
+  kind: "Contributed talk"
+  venue: "SIAM Conference on Computational Science and Engineering"
+  acronym: "CSE25"
+  session: "Decision Making for Coupled Systems"
+  location: "Fort Worth, TX, US"
+  year: 2025
+
+- speaker: "J. Chhoa"
+  title: "Efficient numerical methods for PDE-constrained optimization problems in diffeomorphic image registration"
+  kind: "Contributed talk"
+  venue: "SIAM Conference on Computational Science and Engineering"
+  acronym: "CSE25"
+  session: "Methods for Image Processing and Numerical Modeling in Computational Medicine"
+  location: "Fort Worth, TX, US"
+  year: 2025
+
+- speaker: "A. Mang"
+  title: "Bayesian inference for large-scale inverse problems governed by hyperbolic dynamical systems"
+  kind: "Contributed talk"
+  venue: "SIAM Conference on Computational Science and Engineering"
+  acronym: "CSE25"
+  session: "Investigating Inverse Problems Using Bayesian Inference: Challenges and Advances"
+  location: "Fort Worth, TX, US"
+  year: 2025
+
+- speaker: "A. Mang"
+  title: "Efficient numerical methods for inverse problems governed by transport equations"
+  kind: "Contributed talk"
+  venue: "3rd IACM Digital Twins in Engineering Conference & 1st ECCOMAS Conference on Artificial Intelligence and Computational Methods in Applied Sciences"
+  acronym: "DTE & AICOMAS 25"
+  session: "Inverse Problems and Data Assimilation for Digital Twins"
+  location: "Paris, FR"
+  year: 2025
+
+- speaker: "A. Mang"
+  title: "Fast iterative methods for large-scale initial value control problems"
+  kind: "Contributed talk"
+  venue: "SIAM Texas-Louisiana Sectional Meeting"
+  acronym: "SIAM TX-LA 24"
+  session: "Recent Developments in Computational Inversion and Reduced Order Modelling"
+  location: "Baylor University, Waco, TX, US"
+  year: 2024
+
+- speaker: "A. Mang"
+  title: "Deep learning for Bayesian inverse problems governed by nonlinear ODEs"
+  kind: "Contributed talk"
+  venue: "SIAM Conference on Mathematics of Data Science"
+  acronym: "MDS24"
+  session: "Recent Advances in Scientific Deep Learning"
+  location: "Atlanta, GA, US"
+  year: 2024
+
+- speaker: "A. Mang"
+  title: "Fast iterative methods for large-scale initial value control problems"
+  kind: "Contributed talk"
+  venue: "Modeling and Optimization: Theory and Applications Conference"
+  acronym: "MOPTA"
+  session: "Computational and Theoretical Methods for High-Dimensional Optimization Problems"
+  location: "Lehigh University, Bethlehem, PA, US"
+  year: 2024
+
+- speaker: "A. Mang"
+  title: "Efficient numerical schemes for uncertainty quantification in diffeomorphic image registration governed by transport equations"
+  kind: "Contributed talk"
+  venue: "International Conference on Computational and Mathematical Biomedical Engineering"
+  acronym: "CMBE24"
+  session: "Inverse Problems and Uncertainty Quantification in Biological and Medical Applications"
+  location: "Fairfax, VA, US"
+  year: 2024
+
+- speaker: "J. Rudi"
+  title: "Data representations for parameter estimation with deep learning models for a dynamical system"
+  kind: "Contributed talk"
+  venue: "International Conference on Computational and Mathematical Biomedical Engineering"
+  acronym: "CMBE24"
+  session: "Inverse Problems and Uncertainty Quantification in Biological and Medical Applications"
+  location: "Fairfax, VA, US"
+  year: 2024
+
+- speaker: "A. Mang"
+  title: "CLAIRE: Scalable algorithms for diffeomorphic image registration"
+  kind: "Contributed talk"
+  venue: "SIAM Conference on Imaging Sciences"
+  acronym: "IS24"
+  session: "Model- and Data-Driven Approaches in Motion Analysis"
+  location: "Atlanta, GA, US"
+  year: 2024
+
+- speaker: "J. Chhoa"
+  title: "Efficient numerical methods for optimization problems governed by transport equations"
+  kind: "Contributed talk"
+  venue: "SIAM Conference on Imaging Sciences"
+  acronym: "IS24"
+  session: "Frontiers in Deep Image Reconstruction, Restoration Across Diverse Modalities"
+  location: "Atlanta, GA, US"
+  year: 2024
+
+- speaker: "J. Y. Kim"
+  title: "Fast iterative solvers for PDE-constrained optimization in diffeomorphic image registration"
+  kind: "Contributed talk"
+  venue: "SIAM Conference on Imaging Sciences"
+  acronym: "IS24"
+  session: "Shapes, Manifolds and Geometry in Imaging"
+  location: "Atlanta, GA, US"
+  year: 2024
+
+- speaker: "A. Mang"
+  title: "Fast iterative solvers for initial value control problems with application to diffeomorphic image registration"
+  kind: "Contributed talk"
+  venue: "INFORMS Optimization Society Conference"
+  acronym: "IOS24"
+  session: "Optimization of Complex Physics-Based Systems"
+  location: "Houston, TX, US"
+  year: 2024
+
+- speaker: "A. Mang"
+  title: "CLAIRE: Scalable algorithms for diffeomorphic image registration"
+  kind: "Contributed talk"
+  venue: "SIAM Conference on Uncertainty Quantification"
+  acronym: "UQ24"
+  session: "Computational Tools for Large-Scale Inverse Problems and UQ"
+  location: "Trieste, IT"
+  year: 2024
+
+- speaker: "A. Mang"
+  title: "Efficient algorithms for inverse problems governed by dynamical systems"
+  kind: "Invited talk"
+  host: "K. B. Nakshatrala"
+  venue: "Department of Civil and Environmental Engineering, University of Houston"
+  location: "Houston, TX, US"
+  year: 2023
+
+- speaker: "A. Mang"
+  title: "Fast algorithms for nonlinear optimal control of geodesic flows of diffeomorphisms"
+  kind: "Contributed talk"
+  venue: "U.S. National Congress on Computational Mechanics"
+  acronym: "USNCCM17"
+  session: "Recent Advances in Large-Scale Optimal Engineering Design"
+  location: "Albuquerque, NM, US"
+  year: 2023
+
+- speaker: "A. Mang"
+  title: "Shape classification through the lens of geodesic flows of diffeomorphisms"
+  kind: "Invited talk"
+  venue: "Workshop on Leveraging Model- and Data-Driven Methods in Medical Imaging, Banff International Research Station for Mathematical Innovation and Discovery"
+  location: "Banff, AB, CA"
+  year: 2023
+
+- speaker: "A. Mang"
+  title: "Scalable algorithms for inverse problems governed by dynamical systems"
+  kind: "Invited seminar talk"
+  venue: "DSI Webinar, Hewlett Packard Enterprise Data Science Institute, University of Houston"
+  location: "Houston, TX, US"
+  year: 2023
+
+- speaker: "A. Mang"
+  title: "Deep neural networks for Bayesian inverse problems governed by nonlinear ODEs"
+  kind: "Invited talk"
+  venue: "Workshop on Learning for Inverse Problems, Istituto Nazionale di Alta Matematica"
+  location: "Rome, IT"
+  year: 2023
+
+- speaker: "A. Mang"
+  title: "Fast algorithms for PDE-constrained optimization under uncertainty"
+  kind: "Contributed talk"
+  venue: "SIAM Conference on Optimization"
+  acronym: "OP23"
+  session: "Challenges in Inverse Problems with Massive Data"
+  location: "Seattle, WA, US"
+  year: 2023
+
+- speaker: "A. Mang"
+  title: "Fast algorithms for optimal control problems governed by geodesic flows of diffeomorphisms"
+  kind: "Invited colloquium talk"
+  host: "J. Rudi"
+  venue: "Department of Mathematics, Virginia Tech"
+  location: "Blacksburg, VA, US"
+  year: 2023
+
+- speaker: "A. Mang"
+  title: "Efficient numerical methods for optimal control problems governed by geodesic flows of diffeomorphisms"
+  kind: "Invited talk"
+  host: "S. Foucart"
+  venue: "Center for Approximation and Mathematical Data Analytics, Texas A&M University"
+  location: "College Station, TX, US"
+  year: 2023
+
+- speaker: "A. Mang"
+  title: "Fast algorithms for optimal control problems governed by geodesic flows of diffeomorphisms"
+  kind: "Invited talk"
+  host: "S. Shontz"
+  venue: "Mathematical Methods and Interdisciplinary Computing Center (MMICC), University of Kansas"
+  location: "Lawrence, KS, US"
+  year: 2023
+
+- speaker: "A. Mang"
+  title: "Numerical methods for PDE-constrained optimization problems governed by hyperbolic equations"
+  kind: "Invited colloquium talk"
+  host: "J. R. Romero"
+  venue: "Department of Mathematical Sciences, University of Puerto Rico"
+  location: "Puerto Rico, US"
+  year: 2023
+
+- speaker: "A. Mang"
+  title: "CLAIRE: Scalable multi-GPU algorithms for diffeomorphic image registration in 3D"
+  kind: "Invited seminar talk"
+  host: "G. Dogan"
+  venue: "ACMD Seminar, National Institute of Standards and Technology"
+  location: "Gaithersburg, MD, US"
+  year: 2023
+
+- speaker: "A. Mang"
+  title: "Fast algorithms for inverse problems governed by transport equations"
+  kind: "Contributed talk"
+  venue: "AMS Sectional Meeting"
+  session: "Recent Developments on Analysis and Computation for Inverse Problems for PDEs"
+  location: "Atlanta, GA, US"
+  year: 2023
+
+- speaker: "A. Mang"
+  title: "Deep learning for Bayesian inverse problems governed by nonlinear ODEs"
+  kind: "Contributed talk"
+  venue: "SIAM Conference on Computational Science and Engineering"
+  acronym: "CSE23"
+  session: "Uncertainty Quantification for Data-Intensive Inverse Problems and Learning"
+  location: "Amsterdam, NL"
+  year: 2023
+
+- speaker: "J. Chhoa"
+  title: "CLAIRE: A framework for constrained large deformation diffeomorphic image registration"
+  kind: "Invited talk"
+  venue: "Texas Women in Mathematics Symposium"
+  location: "Austin, TX, US"
+  year: 2023
+
+- speaker: "J. Y. Kim"
+  title: "Numerical methods for Bayesian inference for inverse transport problems"
+  kind: "Contributed talk"
+  venue: "Joint Mathematics Meetings"
+  acronym: "JMM23"
+  location: "Boston, MA, US"
+  year: 2023
+
+- speaker: "A. Mang"
+  title: "CLAIRE: Scalable multi-GPU algorithms for diffeomorphic image registration in 3D"
+  kind: "Contributed talk"
+  venue: "Joint Mathematics Meetings"
+  acronym: "JMM23"
+  location: "Boston, MA, US"
+  year: 2023
+
+- speaker: "A. Mang"
+  title: "Fast algorithms for nonlinear optimal control of geodesic flows of diffeomorphisms"
+  kind: "Invited colloquium talk"
+  host: "H. Antil"
+  venue: "CMAI Colloquium, Center for Mathematics and Artificial Intelligence, George Mason University"
+  location: "Fairfax, VA, US"
+  year: 2022
+
+- speaker: "A. Mang"
+  title: "Randomized algorithms for preconditioning and uncertainty quantification in inverse transport problems"
+  kind: "Contributed talk"
+  venue: "SIAM Conference on Mathematics of Data Science"
+  acronym: "MDS22"
+  session: "Randomized Methods in Large-Scale Inference and Data Problems"
+  location: "San Diego, CA, US"
+  year: 2022
+
+- speaker: "A. Mang"
+  title: "Fast algorithms for initial value control problems"
+  kind: "Contributed talk"
+  venue: "SIAM Conference on Imaging Sciences"
+  acronym: "IS22"
+  session: "Partial Differential Equations and Control Problems"
+  location: "virtual"
+  year: 2022
+
+- speaker: "H. Dabirian"
+  title: "Automatic classification of shapes and shape deformations in 3D"
+  kind: "Contributed talk"
+  venue: "Joint Mathematics Meetings"
+  acronym: "JMM22"
+  location: "virtual"
+  year: 2022
+
+- speaker: "N. Himthani"
+  title: "CLAIRE: A scalable multi-GPU solver for diffeomorphic image registration in 3D"
+  kind: "Contributed talk"
+  venue: "SIAM Texas-Louisiana Sectional Meeting"
+  acronym: "SIAM TX-LA 21"
+  session: "Mathematics and Computation in Biomedicine"
+  location: "South Padre Island, TX, US"
+  year: 2021
+
+- speaker: "M. Brunn"
+  title: "High-speed image registration for large-scale applications with CLAIRE"
+  kind: "Invited talk"
+  host: "B. Gris"
+  venue: "Workshop on Registering Medical Images"
+  location: "Paris, FR"
+  year: 2021
+
+- speaker: "J. Y. Kim"
+  title: "Efficient numerical methods for initial value control problems"
+  kind: "Contributed talk"
+  venue: "SIAM Annual Meeting"
+  acronym: "AN21"
+  session: "Fast Analysis Based Algorithms for Solution of Forward and Inverse Problems"
+  location: "virtual"
+  year: 2021
+
+- speaker: "A. Mang"
+  title: "Uncertainty quantification in diffeomorphic image registration"
+  kind: "Contributed talk"
+  venue: "SIAM Annual Meeting"
+  acronym: "AN21"
+  session: "Uncertainty Quantification Strategies for Data-Driven, Large-Scale Problems"
+  location: "virtual"
+  year: 2021
+
+- speaker: "M. Brunn"
+  title: "Fast multi-GPU diffeomorphic image registration for large-scale applications"
+  kind: "Contributed talk"
+  venue: "U.S. National Congress on Computational Mechanics"
+  acronym: "USNCCM16"
+  session: "Imaging-Based Methods in Computational Medicine"
+  location: "virtual"
+  year: 2021
+
+- speaker: "A. Mang"
+  title: "CLAIRE: Scalable multi-GPU algorithms for diffeomorphic image registration in 3D"
+  kind: "Contributed talk"
+  venue: "SIAM Conference on Optimization"
+  acronym: "OP21"
+  session: "Large-Scale Optimization for Inverse Problems and Learning in Medical Imaging"
+  location: "virtual"
+  year: 2021
+
+- speaker: "A. Mang"
+  title: "Uncertainty quantification for inverse transport problems"
+  kind: "Contributed talk"
+  venue: "SIAM Conference on Computational Science and Engineering"
+  acronym: "CSE21"
+  session: "Uncertainty Quantification for Data-Intensive Inverse Problems and Learning"
+  location: "virtual"
+  year: 2021
+
+- speaker: "A. Mang"
+  title: "Fast algorithms for nonlinear optimal control of geodesic flows of diffeomorphisms"
+  kind: "Invited seminar talk"
+  host: "T. Bui-Thanh"
+  venue: "Oden Seminar, Oden Institute for Computational Engineering and Sciences, University of Texas at Austin"
+  location: "virtual"
+  year: 2021
+
+- speaker: "N. Himthani"
+  title: "Multi-node multi-GPU diffeomorphic image registration for large-scale imaging problems"
+  kind: "Contributed talk"
+  venue: "ACM/IEEE Conference on Supercomputing"
+  acronym: "SC20"
+  location: "virtual"
+  year: 2020
+
+- speaker: "A. Mang"
+  title: "Statistical analysis of shapes and shape deformations in 3D"
+  kind: "Contributed talk"
+  venue: "Joint Mathematics Meetings"
+  acronym: "JMM20"
+  session: "AMS Special Session on Geometry in the Mathematics of Data Science"
+  location: "virtual"
+  year: 2020
+
+- speaker: "A. Mang"
+  title: "Classification of 3D shapes and shape deformations"
+  kind: "Contributed talk"
+  venue: "SIAM Texas-Louisiana Sectional Meeting"
+  acronym: "SIAM TX-LA 20"
+  session: "Scientific Machine Learning"
+  location: "virtual"
+  year: 2020
+
+- speaker: "A. Mang"
+  title: "Fast GPU-accelerated diffeomorphic image registration in 3D"
+  kind: "Contributed talk"
+  venue: "SIAM Conference on Imaging Sciences"
+  acronym: "IS20"
+  session: "Fast Algorithms for Inverse Problems and Their Applications"
+  location: "virtual"
+  year: 2020
+
+- speaker: "A. Mang"
+  title: "Automatic classification of 3D shapes and shape deformations"
+  kind: "Contributed talk"
+  venue: "SIAM Conference on Mathematics of Data Science"
+  acronym: "MDS20"
+  session: "Integration of Model-Based and Data-Based Methods with Medical Imaging"
+  location: "virtual"
+  year: 2020
+
+- speaker: "A. Mang"
+  title: "Estimating oncogenic parameters via biophysical brain tumor growth modeling"
+  kind: "Invited talk"
+  venue: "Annual Meeting of the Society for Neuro-Oncology"
+  acronym: "SNO19"
+  session: "Computational Neuro-Oncology"
+  location: "Phoenix, AZ, US"
+  year: 2019
+
+- speaker: "A. Mang"
+  title: "Fast GPU-accelerated diffeomorphic image registration in 3D"
+  kind: "Contributed talk"
+  venue: "SIAM Texas-Louisiana Sectional Meeting"
+  acronym: "SIAM TX-LA 19"
+  session: "Recent Advances in Inverse Problems and Imaging"
+  location: "Southern Methodist University, Dallas, TX, US"
+  year: 2019
+
+- speaker: "S. Subramanian"
+  title: "MRI-driven inverse problems for brain tumor growth models in personalized medicine"
+  kind: "Contributed talk"
+  venue: "SIAM Texas-Louisiana Sectional Meeting"
+  acronym: "SIAM TX-LA 19"
+  session: "Recent Advances in Inverse Problems and Imaging"
+  location: "Southern Methodist University, Dallas, TX, US"
+  year: 2019
+
+- speaker: "A. Mang"
+  title: "Fast algorithms for nonlinear optimal control for diffeomorphic registration"
+  kind: "Invited talk"
+  host: "R. Herzog"
+  venue: "Special Semester on Optimization, Workshop on New Trends in PDE-Constrained Optimization, Johann Radon Institute for Computational and Applied Mathematics (RICAM)"
+  location: "Linz, AT"
+  year: 2019
+
+- speaker: "A. Mang"
+  title: "Uncertainty quantification in nonlinear optimal control problems for diffeomorphic registration"
+  kind: "Contributed talk"
+  venue: "AMS Sectional Meeting"
+  session: "Uncertainty Quantification Strategies for Physics Applications"
+  location: "University of Wisconsin–Madison, Madison, WI, US"
+  year: 2019
+
+- speaker: "A. Mang"
+  title: "Fast algorithms for nonlinear optimal control problems for diffeomorphic registration"
+  kind: "Invited colloquium talk"
+  host: "C. Brune"
+  venue: "Department of Applied Mathematics (DAMUT Colloquium), University of Twente"
+  location: "Enschede, NL"
+  year: 2019
+
+- speaker: "J. Herring"
+  title: "Fast ADMM-type algorithms for diffeomorphic shape matching"
+  kind: "Contributed talk"
+  venue: "International Congress on Industrial and Applied Mathematics"
+  acronym: "ICIAM19"
+  session: "Fast Iterative Methods for Large-Scale Inverse Problems in Imaging"
+  location: "Valencia, ES"
+  year: 2019
+
+- speaker: "A. Mang"
+  title: "Fast diffeomorphic image registration in 3D"
+  kind: "Contributed talk"
+  venue: "International Congress on Industrial and Applied Mathematics"
+  acronym: "ICIAM19"
+  session: "Fast Iterative Methods for Large-Scale Inverse Problems in Imaging"
+  location: "Valencia, ES"
+  year: 2019
+
+- speaker: "J. Herring"
+  title: "Fast algorithms for optimal control based diffeomorphic shape matching"
+  kind: "Contributed talk"
+  venue: "Applied Inverse Problems Conference"
+  acronym: "AIP19"
+  session: "Numerical Methods for Optimal Control Problems in Imaging"
+  location: "Grenoble, FR"
+  year: 2019
+
+- speaker: "A. Mang"
+  title: "Fast algorithms for initial value control problems in image registration"
+  kind: "Contributed talk"
+  venue: "Applied Inverse Problems Conference"
+  acronym: "AIP19"
+  session: "Analysis and Fast Numerical Methods for Inverse Problems and Their Applications"
+  location: "Grenoble, FR"
+  year: 2019
+
+- speaker: "A. Mang"
+  title: "Diffeomorphic shape matching: Fast algorithms for nonlinear optimal control problems"
+  kind: "Invited talk"
+  host: "M. Mougeot"
+  venue: "Éléments de mathématique pour l'intelligence artificielle, École Normale Supérieure Paris-Saclay"
+  location: "Cachan, FR"
+  year: 2019
+
+- speaker: "A. Mang"
+  title: "Optimal control of PDEs: Application to brain tumor modeling"
+  kind: "Contributed talk"
+  venue: "AMS Sectional Meeting"
+  session: "Validation and Verification Strategies in Multiphysics Problems"
+  location: "University of Arkansas, Fayetteville, AR, US"
+  year: 2018
+
+- speaker: "A. Mang"
+  title: "Fast solvers for inverse transport problems"
+  kind: "Contributed talk"
+  venue: "SIAM Annual Meeting"
+  acronym: "AN18"
+  session: "Inverse Problems"
+  location: "Portland, OR, US"
+  year: 2018
+
+- speaker: "A. Mang"
+  title: "CLAIRE: A parallel solver for constrained diffeomorphic image registration"
+  kind: "Invited talk"
+  host: "J. Kast"
+  venue: "Mint Medical GmbH"
+  location: "Heidelberg, DE"
+  year: 2018
+
+- speaker: "K. Scheufele"
+  title: "Coupling brain-tumor biophysical models and diffeomorphic image registration"
+  kind: "Contributed talk"
+  venue: "SIAM Conference on Imaging Sciences"
+  acronym: "IS18"
+  session: "Imaging, Modeling, Visualization and Biomedical Computing"
+  location: "Bologna, IT"
+  year: 2018
+
+- speaker: "K. Scheufele"
+  title: "Block-Newton iterative solvers for joint inverse tumor growth and image registration"
+  kind: "Contributed talk"
+  venue: "Copper Mountain Conference on Iterative Methods"
+  session: "Imaging"
+  location: "Copper Mountain, CO, US"
+  year: 2018
+
+- speaker: "A. Mang"
+  title: "Parallel algorithms for hyperbolic PDE-constrained optimization problems"
+  kind: "Contributed talk"
+  venue: "International Workshop on Parallel Matrix Algorithms and Applications"
+  acronym: "PMAA18"
+  session: "Krylov and Regularization Methods for Large-Scale Inverse Problems"
+  location: "ETH Zürich, Zürich, CH"
+  year: 2018
+
+- speaker: "A. Mang"
+  title: "CLAIRE: A parallel solver for constrained large deformation diffeomorphic image registration"
+  kind: "Invited talk"
+  host: "M. Mehl"
+  venue: "Department of Computer Science, University of Stuttgart"
+  location: "Stuttgart, DE"
+  year: 2018
+
+- speaker: "A. Mang"
+  title: "CLAIRE: A parallel solver for constrained large deformation diffeomorphic image registration"
+  kind: "Contributed talk"
+  venue: "SIAM Conference on Imaging Sciences"
+  acronym: "IS18"
+  session: "Diffeomorphic Image Registration: Numerics, Applications, and Theory"
+  location: "Bologna, IT"
+  year: 2018
+
+- speaker: "A. Mang"
+  title: "CLAIRE: A distributed-memory solver for constrained diffeomorphic image registration"
+  kind: "Invited talk"
+  host: "J. Chan"
+  venue: "Computational and Applied Mathematics Department, Rice University"
+  location: "Houston, TX, US"
+  year: 2018
+
+- speaker: "A. Mang"
+  title: "Computational mathematics meets medicine: Formulations, numerics, and parallel computing"
+  kind: "Invited seminar talk"
+  host: "J. Nagy"
+  venue: "Numerical Analysis and Scientific Computing Seminar, Department of Mathematics & Computer Science, Emory University"
+  location: "Atlanta, GA, US"
+  year: 2018
+
+- speaker: "A. Mang"
+  title: "Preconditioners for the reduced space Hessian in hyperbolic optimal control problems"
+  kind: "Contributed talk"
+  venue: "International Conference on Preconditioning Techniques for Scientific and Industrial Applications"
+  session: "Preconditioning Methods in Large-Scale Ill-Posed Inverse Problems"
+  location: "Vancouver, BC, CA"
+  year: 2017
+
+- speaker: "A. Mang"
+  title: "A distributed-memory Newton–Krylov solver for inverse transport problems"
+  kind: "Contributed talk"
+  venue: "U.S. National Congress on Computational Mechanics"
+  acronym: "USNCCM14"
+  session: "Advances in Computational Methods for Inverse Problems"
+  location: "Montreal, QC, CA"
+  year: 2017
+
+- speaker: "A. Mang"
+  title: "A distributed-memory Newton–Krylov solver for constrained diffeomorphic image registration"
+  kind: "Contributed talk"
+  venue: "Applied Inverse Problems Conference"
+  acronym: "AIP17"
+  location: "Hangzhou, CN"
+  year: 2017
+
+- speaker: "A. Gholami"
+  title: "A framework for scalable biophysics-based image analysis"
+  kind: "Contributed talk"
+  venue: "ACM/IEEE Conference on Supercomputing"
+  acronym: "SC17"
+  location: "Denver, CO, US"
+  year: 2017
+
+- speaker: "A. Mang"
+  title: "Parallel algorithms for optimal control based diffeomorphic image registration"
+  kind: "Contributed talk"
+  venue: "Houston Imaging Sciences Symposium"
+  location: "Houston, TX, US"
+  year: 2017
+
+- speaker: "A. Mang"
+  title: "Parallel algorithms for PDE-constrained optimization problems with hyperbolic constraints"
+  kind: "Contributed talk"
+  venue: "SIAM Conference on Computational Science and Engineering"
+  acronym: "CSE17"
+  session: "Fast Solvers for Large-Scale Inverse Problems in Imaging"
+  location: "Atlanta, GA, US"
+  year: 2017

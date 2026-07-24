@@ -1,0 +1,161 @@
+# Posters presented by members of the SCOPA lab, sorted by year (newest first).
+#
+# Fields:
+#   speaker  -- initials + surname, e.g. "A. Mang"
+#   title    -- sentence case, acronyms and proper nouns preserved
+#   venue    -- conference, workshop or symposium
+#   acronym  -- optional short code for the meeting, e.g. "MDS26"
+#   location -- "[Institution, ]City, [State, ]Country"
+#   year     -- year the poster was presented
+
+- speaker: "C. Chukwuemeka"
+  title: "Efficient numerical methods for continuous-time neural networks and normalizing flows"
+  venue: "SIAM Conference on Mathematics of Data Science"
+  acronym: "MDS26"
+  location: "Salt Lake City, UT, US"
+  year: 2026
+
+- speaker: "S. Bari"
+  title: "Evaluating self-supervised learning approaches for image denoising under non-Gaussian noise"
+  venue: "SIAM Conference on Mathematics of Data Science"
+  acronym: "MDS26"
+  location: "Salt Lake City, UT, US"
+  year: 2026
+
+- speaker: "P. Amiri"
+  title: "Stein variational inference for Bayesian parameter estimation in the FitzHugh–Nagumo model"
+  venue: "ICERM Workshop on Bayesian Inverse Problems and UQ"
+  location: "Providence, RI, US"
+  year: 2026
+
+- speaker: "P. Amiri"
+  title: "Bayesian inference on SPD manifolds: Geometry-aware learning of posterior covariances"
+  venue: "SIAM Texas-Louisiana Sectional Meeting"
+  acronym: "SIAM TX-LA 25"
+  location: "University of Texas at Austin, Austin, TX, US"
+  year: 2025
+
+- speaker: "A. Islam"
+  title: "Efficient numerical methods for multispecies tumor growth simulations"
+  venue: "SIAM Texas-Louisiana Sectional Meeting"
+  acronym: "SIAM TX-LA 25"
+  location: "University of Texas at Austin, Austin, TX, US"
+  year: 2025
+
+- speaker: "M. Konduri"
+  title: "Model-constrained deep learning for parameter estimation in semi-linear parabolic PDEs"
+  venue: "SIAM Texas-Louisiana Sectional Meeting"
+  acronym: "SIAM TX-LA 25"
+  location: "University of Texas at Austin, Austin, TX, US"
+  year: 2025
+
+- speaker: "A. Islam"
+  title: "Efficient numerical methods for multispecies tumor growth simulations"
+  venue: "ChAMELEON Summer School"
+  location: "University of Houston, Houston, TX, US"
+  year: 2025
+
+- speaker: "A. Nair"
+  title: "Exploration of the workings of neural networks"
+  venue: "Undergraduate Research Day"
+  location: "University of Houston, Houston, TX, US"
+  year: 2025
+
+- speaker: "G. Villalobos"
+  title: "Neural networks for inference in optimal control governed by the FitzHugh–Nagumo model"
+  venue: "SIAM Conference on Mathematics of Data Science"
+  acronym: "MDS24"
+  location: "Atlanta, GA, US"
+  year: 2024
+
+- speaker: "J. Shi"
+  title: "Efficient clustering on Riemannian manifolds using Fréchet embeddings"
+  venue: "SIAM Conference on Mathematics of Data Science"
+  acronym: "MDS24"
+  location: "Atlanta, GA, US"
+  year: 2024
+
+- speaker: "M. Konduri"
+  title: "DNNs for parameter identification in semi-linear parabolic PDEs"
+  venue: "SIAM Texas-Louisiana Sectional Meeting"
+  acronym: "SIAM TX-LA 24"
+  location: "Baylor University, Waco, TX, US"
+  year: 2024
+
+- speaker: "B. Gutierrez"
+  title: "Stochastic Newton–MCMC for Bayesian inference"
+  venue: "Undergraduate Research Day"
+  location: "University of Houston, Houston, TX, US"
+  year: 2023
+
+- speaker: "B. Gutierrez"
+  title: "Stochastic Newton–MCMC for Bayesian inference"
+  venue: "National Diversity in STEM Conference"
+  location: "Phoenix, AZ, US"
+  year: 2023
+
+- speaker: "J. Y. Kim"
+  title: "Fast evaluation of PDE operators for optimization and uncertainty quantification in problems governed by transport equations"
+  venue: "SIAM Texas-Louisiana Sectional Meeting"
+  acronym: "SIAM TX-LA 22"
+  location: "University of Houston, Houston, TX, US"
+  year: 2022
+
+- speaker: "G. Villalobos"
+  title: "Inference for the FitzHugh–Nagumo model through ANNs"
+  venue: "SIAM Texas-Louisiana Sectional Meeting"
+  acronym: "SIAM TX-LA 22"
+  location: "University of Houston, Houston, TX, US"
+  year: 2022
+
+- speaker: "R. Sultamuratov"
+  title: "Automatic classification of deformable shapes"
+  venue: "SIAM Texas-Louisiana Sectional Meeting"
+  acronym: "SIAM TX-LA 22"
+  location: "University of Houston, Houston, TX, US"
+  year: 2022
+
+- speaker: "Y. Syed"
+  title: "Fast evaluation of kernel distances"
+  venue: "Undergraduate Research Day"
+  location: "University of Houston, Houston, TX, US"
+  year: 2020
+
+- speaker: "A. H. A. Syed"
+  title: "Optimization and optimal control in machine learning"
+  venue: "Undergraduate Research Day"
+  location: "University of Houston, Houston, TX, US"
+  year: 2020
+
+- speaker: "H. Rosso"
+  title: "Regularization schemes for linear inverse problems"
+  venue: "Undergraduate Research Day"
+  location: "University of Houston, Houston, TX, US"
+  year: 2020
+
+- speaker: "M. Brunn"
+  title: "Fast 3D diffeomorphic image registration on GPUs"
+  venue: "ACM/IEEE Conference on Supercomputing"
+  acronym: "SC19"
+  location: "Denver, CO, US"
+  year: 2019
+
+- speaker: "F. Huber"
+  title: "Efficient algorithms for geodesic shooting in diffeomorphic image registration"
+  venue: "International Congress on Industrial and Applied Mathematics"
+  acronym: "ICIAM19"
+  location: "Valencia, ES"
+  year: 2019
+
+- speaker: "N. Himthani"
+  title: "GPU-accelerated interpolation for 3D image registration"
+  venue: "ACM/IEEE Conference on Supercomputing"
+  acronym: "SC18"
+  location: "Dallas, TX, US"
+  year: 2018
+
+- speaker: "B. Gonzalez"
+  title: "Fast and stable algorithms for deep learning"
+  venue: "Undergraduate Research Day"
+  location: "University of Houston, Houston, TX, US"
+  year: 2018
