@@ -7,6 +7,9 @@
 :root {
   --color-bg:          #ffffff;
   --color-bg-content:  #fafbfc;
+  --color-surface:     #ffffff;   /* cards, panels, details bodies */
+  --color-surface-alt: #f9fafb;   /* summary bars, table stripes  */
+  --color-surface-hi:  #eef2f8;   /* hover on the above           */
   --color-text:        #2d3748;
   --color-heading:     #1a202c;
   --color-accent:      #3172AE;
@@ -18,7 +21,7 @@
   --color-footer-text: #1a202c;
   --color-border:      #e2e8f0;
   --color-code-bg:     #f1f5f9;
-  --color-muted:       #718096;
+  --color-muted:       #657389;   /* 4.6:1 on the content bg (WCAG AA) */
   --font-stack:        -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
                        "Helvetica Neue", Arial, "Noto Sans", sans-serif,
                        "Apple Color Emoji", "Segoe UI Emoji";
@@ -72,6 +75,27 @@ img {
   border-radius: var(--radius);
   box-shadow: var(--shadow-sm);
 }
+
+/* ============================================================
+   SKIP LINK (keyboard / screen-reader users)
+   ============================================================ */
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 1100;
+  padding: 0.6rem 1rem;
+  background: var(--color-accent);
+  color: #fff;
+  font-weight: 600;
+  border-radius: 0 0 var(--radius) 0;
+}
+.skip-link:focus {
+  left: 0;
+  text-decoration: none;
+  color: #fff;
+}
+#main:focus { outline: none; }
 
 /* ============================================================
    HEADER
@@ -309,10 +333,10 @@ tbody td {
   border-bottom: 1px solid var(--color-border);
 }
 tbody tr:nth-child(even) {
-  background: #f7f9fb;
+  background: var(--color-surface-alt);
 }
 tbody tr:hover {
-  background: #eef2f8;
+  background: var(--color-surface-hi);
 }
 
 /* ============================================================
@@ -322,7 +346,7 @@ details {
   margin: 1.25rem 0;
   border: 1px solid var(--color-border);
   border-radius: var(--radius);
-  background: #fff;
+  background: var(--color-surface);
   overflow: hidden;
 }
 details[open] {
@@ -334,7 +358,7 @@ summary {
   font-weight: 600;
   cursor: pointer;
   color: var(--color-heading);
-  background: #f9fafb;
+  background: var(--color-surface-alt);
   border-bottom: 1px solid transparent;
   list-style: none;
   display: flex;
@@ -343,7 +367,7 @@ summary {
   transition: background 0.2s ease;
 }
 summary:hover {
-  background: #f1f5f9;
+  background: var(--color-surface-hi);
 }
 summary::before {
   content: "\25B6";
@@ -370,7 +394,7 @@ details > p:first-of-type {
    CARDS / SECTIONS
    ============================================================ */
 .card {
-  background: #fff;
+  background: var(--color-surface);
   border: 1px solid var(--color-border);
   border-radius: var(--radius);
   padding: 1.5rem;
@@ -448,7 +472,7 @@ details > p:first-of-type {
 .person-card {
   text-align: center;
   padding: 1.25rem 1rem;
-  background: #fff;
+  background: var(--color-surface);
   border: 1px solid var(--color-border);
   border-radius: var(--radius);
   box-shadow: var(--shadow-sm);
@@ -503,7 +527,7 @@ details > p:first-of-type {
 }
 
 .research-card {
-  background: #fff;
+  background: var(--color-surface);
   border: 1px solid var(--color-border);
   border-left: 4px solid var(--color-accent);
   border-radius: var(--radius);
@@ -527,6 +551,14 @@ details > p:first-of-type {
   align-items: center;
   gap: 0.75rem 1.25rem;
   margin: 1.5rem 0;
+  /* Stay reachable while scrolling a long list; sits just below the
+     sticky site header, and beneath it in stacking order. */
+  position: sticky;
+  top: var(--header-height);
+  z-index: 900;
+  background: var(--color-bg-content);
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--color-border);
 }
 
 .pub-filter-group {
@@ -554,6 +586,15 @@ details > p:first-of-type {
   background: var(--color-accent);
   color: #fff;
 }
+
+.pub-filter-n {
+  display: inline-block;
+  margin-left: 0.15em;
+  font-size: 0.92em;
+  font-variant-numeric: tabular-nums;
+  opacity: 0.65;
+}
+.pub-filter.active .pub-filter-n { opacity: 0.85; }
 
 .output-section[hidden] { display: none; }
 
@@ -615,6 +656,46 @@ details > p:first-of-type {
 .pub-category.poster      { background: rgba(176, 62, 106, 0.16); color: #94305a; }
 
 /* ============================================================
+   CONTACT
+   ============================================================ */
+.contact-name {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--color-heading);
+  margin-bottom: 0.15rem;
+}
+.contact-pron {
+  font-weight: 400;
+  font-size: 0.85rem;
+  color: var(--color-muted);
+}
+.contact-role {
+  color: var(--color-muted);
+  margin-bottom: 1.5rem;
+}
+
+.contact-list {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 0.5rem 1.25rem;
+  margin: 0 0 1.5rem;
+  padding: 1.25rem 1.5rem;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-left: 4px solid var(--color-accent);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
+}
+.contact-list dt {
+  font-weight: 600;
+  color: var(--color-heading);
+}
+.contact-list dd {
+  margin: 0;
+  color: var(--color-text);
+}
+
+/* ============================================================
    RESPONSIVE -- Tablet & Mobile
    ============================================================ */
 /* Below the header's full width there is no longer room for the spelled-out
@@ -661,6 +742,57 @@ details > p:first-of-type {
   h2 { font-size: 1.15rem; }
   table { font-size: 0.85rem; }
   thead th, tbody td { padding: 0.45rem 0.55rem; }
+}
+
+/* ============================================================
+   DARK MODE
+   Follows the OS setting. Almost everything is driven by the
+   tokens below; only a few contrast tweaks are needed after.
+   ============================================================ */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg:          #12161d;
+    --color-bg-content:  #171c25;
+    --color-surface:     #1e242e;
+    --color-surface-alt: #232a35;
+    --color-surface-hi:  #2b3441;
+    --color-text:        #cbd5e0;
+    --color-heading:     #edf2f7;
+    --color-accent:      #7fb3e0;
+    --color-accent-hover:#a8cdef;
+    --color-accent-light: rgba(127, 179, 224, 0.14);
+    --color-header-bg:   #0d1117;
+    --color-header-text: #ffffff;
+    --color-footer-bg:   #12161d;
+    --color-footer-text: #cbd5e0;
+    --color-border:      #2d3543;
+    --color-code-bg:     #1e242e;
+    --color-muted:       #94a3b8;
+    --shadow-sm:         0 1px 3px rgba(0,0,0,0.5);
+    --shadow-md:         0 4px 12px rgba(0,0,0,0.6);
+  }
+
+  /* The hero is a dark gradient in both themes; deepen it so it still
+     separates from the now-dark page behind it. */
+  .hero { background: linear-gradient(135deg, #0d1117 0%, #22303f 100%); }
+
+  /* Badges: keep the tinted backgrounds, lift the text for contrast. */
+  .pub-category.journal     { color: #9ec5ed; }
+  .pub-category.preprint    { color: #e8c869; }
+  .pub-category.conference  { color: #5bc6cd; }
+  .pub-category.book        { color: #f0a875; }
+  .pub-category.bookchapter { color: #c89ad0; }
+  .pub-category.talk        { color: #8fc9a4; }
+  .pub-category.poster      { color: #e59ab8; }
+
+  /* Active nav/filter pills sit on the lighter dark-mode accent, so
+     white-on-accent loses contrast; use the dark background instead. */
+  .site-nav a.active,
+  .pub-filter.active { color: #0d1117; }
+  .skip-link { color: #0d1117; }
+  .skip-link:focus { color: #0d1117; }
+
+  img { opacity: 0.92; }
 }
 
 /* ============================================================

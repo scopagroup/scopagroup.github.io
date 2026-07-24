@@ -8,16 +8,36 @@ permalink: /publications/
 
 Below you can find the publications, talks, and posters of members of the SCOPA lab. A more complete list of publications can be found on the [Google Scholar profile](https://scholar.google.com/citations?user=CJc0_msAAAAJ) of the lab director.
 
+{%- assign cats = site.data.publications | map: "category" -%}
+{%- assign n_journal     = 0 -%}{%- assign n_preprint = 0 -%}{%- assign n_conference = 0 -%}
+{%- assign n_book        = 0 -%}{%- assign n_chapter  = 0 -%}
+{%- for c in cats -%}
+  {%- case c -%}
+    {%- when "journal" -%}{%- assign n_journal = n_journal | plus: 1 -%}
+    {%- when "preprint" -%}{%- assign n_preprint = n_preprint | plus: 1 -%}
+    {%- when "conference" -%}{%- assign n_conference = n_conference | plus: 1 -%}
+    {%- when "book" -%}{%- assign n_book = n_book | plus: 1 -%}
+    {%- when "bookchapter" -%}{%- assign n_chapter = n_chapter | plus: 1 -%}
+  {%- endcase -%}
+{%- endfor -%}
+{%- assign n_talk = site.data.talks | size -%}
+{%- assign n_poster = site.data.posters | size -%}
+{%- comment -%}
+  Trailing `%}` (not `-%}`) is deliberate: it preserves the blank line that
+  follows, without which kramdown treats the <div> below as inline text.
+{%- endcomment -%}
+{%- assign n_all = cats | size | plus: n_talk | plus: n_poster %}
+
 <div class="pub-filters">
   <div class="pub-filter-group" role="group" aria-label="Filter by type">
-    <button type="button" class="pub-filter active" data-filter-type="all" aria-pressed="true">All</button>
-    <button type="button" class="pub-filter" data-filter-type="journal" aria-pressed="false">Journal</button>
-    <button type="button" class="pub-filter" data-filter-type="preprint" aria-pressed="false">Preprint</button>
-    <button type="button" class="pub-filter" data-filter-type="conference" aria-pressed="false">Conference</button>
-    <button type="button" class="pub-filter" data-filter-type="book" aria-pressed="false">Book</button>
-    <button type="button" class="pub-filter" data-filter-type="bookchapter" aria-pressed="false">Chapter</button>
-    <button type="button" class="pub-filter" data-filter-type="talk" aria-pressed="false">Talk</button>
-    <button type="button" class="pub-filter" data-filter-type="poster" aria-pressed="false">Poster</button>
+    <button type="button" class="pub-filter active" data-filter-type="all" aria-pressed="true">All <span class="pub-filter-n">{{ n_all }}</span></button>
+    <button type="button" class="pub-filter" data-filter-type="journal" aria-pressed="false">Journal <span class="pub-filter-n">{{ n_journal }}</span></button>
+    <button type="button" class="pub-filter" data-filter-type="preprint" aria-pressed="false">Preprint <span class="pub-filter-n">{{ n_preprint }}</span></button>
+    <button type="button" class="pub-filter" data-filter-type="conference" aria-pressed="false">Conference <span class="pub-filter-n">{{ n_conference }}</span></button>
+    <button type="button" class="pub-filter" data-filter-type="book" aria-pressed="false">Book <span class="pub-filter-n">{{ n_book }}</span></button>
+    <button type="button" class="pub-filter" data-filter-type="bookchapter" aria-pressed="false">Chapter <span class="pub-filter-n">{{ n_chapter }}</span></button>
+    <button type="button" class="pub-filter" data-filter-type="talk" aria-pressed="false">Talk <span class="pub-filter-n">{{ n_talk }}</span></button>
+    <button type="button" class="pub-filter" data-filter-type="poster" aria-pressed="false">Poster <span class="pub-filter-n">{{ n_poster }}</span></button>
   </div>
 </div>
 
