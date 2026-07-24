@@ -14,10 +14,10 @@ We develop mathematical frameworks that combine neural networks with physical mo
 
 We have worked on lifted training methods for deep neural networks, which reformulate the nested optimization into higher-dimensional constrained optimization problems amenable to block-coordinate descent with accelerated and stochastic variants. This framework supports non-differentiable proximal activations, improved conditioning, and extends naturally to inverse problems in imaging.
 
-We have proposed efficient clustering on Riemannian manifolds. We have developed a novel approach based on Frechet maps that embeds high-dimensional, non-Euclidean manifold data (such as symmetric positive definite matrices) into lower-dimensional Euclidean spaces, enabling standard k-means clustering with runtime reductions of up to two orders of magnitude compared to intrinsic manifold-based approaches. 
+We have proposed efficient clustering on Riemannian manifolds. We have developed a novel approach based on Fréchet maps that embeds high-dimensional, non-Euclidean manifold data (such as symmetric positive definite matrices) into lower-dimensional Euclidean spaces, enabling standard k-means clustering with runtime reductions of up to two orders of magnitude compared to intrinsic manifold-based approaches.
 
 
-## Optimization Porblems Governed by Complex Dynamical Systems 
+## Optimization Problems Governed by Complex Dynamical Systems
 
 We develop fast iterative methods for large-scale PDE-constrained optimization problems. Our work includes the design and analysis of efficient solvers for optimal control problems governed by hyperbolic transport equations, with applications in image registration, shape matching, and biophysical modeling. We study preconditioned Newton--Krylov methods, operator-splitting schemes, and novel acceleration techniques (including nonlinear GMRES variants) that exploit the structure of the underlying PDE constraints. We have developed fast methods for evaluating forward and adjoint operators in transport dominated problems. We also develop and studied tensorial reduced-order models for parametric coupled reaction-diffusion systems.
 
@@ -53,7 +53,7 @@ Our algorithms are designed to run efficiently on modern high-performance comput
 
 
 
-## Talks & Posters 
+## Talks
 * A. Islam: *Tensorial Surrogate Models for Parametric Brain Tumor Growth Dynamics in Many-Query Regimes*. Contributed talk at SIAM Annual Meeting (SIAMAN26; Session: Scalable and Hardware-Aware Algorithms for Large-Scale Inverse Problems), Cleveland, OH, US, 2026.
 * A. Mang: *Manifold-valued data: classification, clustering, and embeddings*. Invited talk (host: M. Vasilyeva) at the Department of Mathematics & Statistics, Texas A&M University -- Corpus Christi, Corpus Christi, TX, 2026.
 * A. Mang: *Principled computational methods informed by Riemannian geometry*. Invited talk (host: T. G. Anderson) at the Department of Computational Applied Mathematics & Operations Research, Rice University, Houston, TX, 2026.
@@ -61,9 +61,9 @@ Our algorithms are designed to run efficiently on modern high-performance comput
 * A. Mang: *Numerical methods for PDE-based diffeomorphic image registration*. Contributed talk at SIAM Annual Meeting (SIAMAN25; Session: Image Analysis and Learning with Variational Models and PDEs), Montreal, CA, 2025.
 * A. Mang: *CLAIRE: Constrained large deformation diffeomorphic image registration*. Contributed talk at International Conference on Continuous Optimization (ICCOPT; Session: Recent Advances on PDE-constrained optimization packages and libraries), University of Southern California, Los Angeles, CA, US, 2025.
 * A. Mang: *Data- and model-driven approaches for solving inverse problems*. Invited talk (hosts: D. Mishra (TAMU), M. Zhong (UH), X. Chen (TAMU), D. Casey (TAMU)) at the Scientific Machine Learning (SciML) Summer School 2025 at the Institute of Data Science, Texas A&M, College Station, TX, US, 2025.
-* P. Amiri: *Transport-Based Variational Bayesian Inference*. Contributed talk at SIAM Conference on Computational Sciences and Engineering  (SIAM CSE; Session: Decision Making for Coupled Systems), Fort Worth, TX, US, 2025.
-* C. Jannatul: *Efficient Numerical Methods for PDE-constrained Optimization Problems in Diffeomorphic Image Registration*. Contributed talk at SIAM Conference on Computational Sciences and Engineering  (SIAM CSE; Session: Methods for Image Processing and Numerical Modeling in Computational Medicine), Fort Worth, TX, US, 2025.
-* A. Mang: *Bayesian Inference for Large Scale Inverse Problems Governed by Hyperbolic Dynamical Systems*. Contributed talk at SIAM Conference on Computational Sciences and Engineering  (SIAM CSE; Session: Investigating Inverse Problems using Bayesian Inference: Challenges and Advances), Fort Worth, TX, US, 2025.
+* P. Amiri: *Transport-Based Variational Bayesian Inference*. Contributed talk at SIAM Conference on Computational Sciences and Engineering (SIAM CSE; Session: Decision Making for Coupled Systems), Fort Worth, TX, US, 2025.
+* J. Chhoa: *Efficient Numerical Methods for PDE-constrained Optimization Problems in Diffeomorphic Image Registration*. Contributed talk at SIAM Conference on Computational Sciences and Engineering (SIAM CSE; Session: Methods for Image Processing and Numerical Modeling in Computational Medicine), Fort Worth, TX, US, 2025.
+* A. Mang: *Bayesian Inference for Large Scale Inverse Problems Governed by Hyperbolic Dynamical Systems*. Contributed talk at SIAM Conference on Computational Sciences and Engineering (SIAM CSE; Session: Investigating Inverse Problems using Bayesian Inference: Challenges and Advances), Fort Worth, TX, US, 2025.
 * A. Mang: *Efficient numerical methods for inverse problems governed by transport equations*. Contributed talk at 3rd IACM Digital Twins in Engineering Conference (DTE 2025) & 1st ECCOMAS Artificial Intelligence and Computational Methods in Applied Science (DTE & AICOMAS 25; Session: Inverse Problems and Data Assimilation for Digital Twins); Paris, FR, 2025.
 * A. Mang: *Fast iterative methods for large-scale initial value control problems*. Contributed talk at SIAM Texas-Louisiana Sectional Meetings (SIAM TX-LA; Session: Recent Developments in Computational Inversion and Reduced Order Modelling), Baylor University, Waco, TX, US, 2024.
 * A. Mang: *Deep learning for Bayesian inverse problems governed by nonlinear ODEs*. Contributed talk at SIAM Conference on Mathematics of Data Science (MDS24; Session: Recent Advances in Scientific Deep Learning); Atlanta, GA, US, 2024.
@@ -74,9 +74,9 @@ Our algorithms are designed to run efficiently on modern high-performance comput
 * J. Chhoa: *Efficient Numerical Methods for Optimization Problems Governed by Transport Equations*. Contributed talk at the SIAM Conference on Imaging Sciences (IS24; Session: Frontiers in Deep Image Reconstruction, Restoration Across Diverse Modalities), Atlanta, US, 2024.
 * J. Y. Kim: *Fast Iterative Solvers for PDE-constrained Optimization in Diffeomorphic Image Registration*. Contributed talk at the SIAM Conference on Imaging Sciences (IS24; Session: Shapes, Manifolds and Geometry in Imaging), Atlanta, US, 2024.
 * A. Mang: *Fast iterative solvers for initial value control problems with application to diffeomorphic image registration*. Contributed talk at the INFORMS Optimization Society Conference (IOS; Session: Optimization of Complex Physics-Based Systems), Houston, TX, 2024.
-* A. Mang:  *CLAIRE: Scalable Algorithms for Diffeomorphic Image Registration*. Contributed talk at the SIAM Conference on Uncertainty Quantification (UQ24; Session: Computational Tools for Large-Scale Inverse Problems and UQ), Trieste, IT, 2024.
+* A. Mang: *CLAIRE: Scalable Algorithms for Diffeomorphic Image Registration*. Contributed talk at the SIAM Conference on Uncertainty Quantification (UQ24; Session: Computational Tools for Large-Scale Inverse Problems and UQ), Trieste, IT, 2024.
 * A. Mang: *Efficient algorithms for inverse problems governed by dynamical systems*. Invited talk (host: K. B. Nakshatrala) at the Department of Civil and Environmental Engineering, University of Houston, TX, 2023.
-* A. Mang: *Fast algorithms for nonlinear optimal control of geodesic flows of diffeomorphisms*. Contributed talk at the U.S. National Congress on Computational Mechanics (USNCCM7; Session: Recent Advances in Large-Scale Optimal Engineering Design), Albuquerque, NM, 2023.
+* A. Mang: *Fast algorithms for nonlinear optimal control of geodesic flows of diffeomorphisms*. Contributed talk at the U.S. National Congress on Computational Mechanics (USNCCM17; Session: Recent Advances in Large-Scale Optimal Engineering Design), Albuquerque, NM, 2023.
 * A. Mang: *Shape classification through the lens of geodesic flows of diffeomorphisms*. Invited talk at workshop entitled "Leveraging Model- and Data-Driven Methods in Medical Imaging" at Banff International Research Station for Mathematical Innovation and Discover, CA, 2023.
 * A. Mang: *Scalable algorithms for inverse problems governed by dynamical systems*. Invited talk at DSI's webinar at the Hewlett Packard Enterprise Data Science Institute, University of Houston, Houston, TX, 2023.
 * A. Mang: *Deep neural networks for Bayesian inverse problems governed by nonlinear ODEs*. Invited talk at workshop entitled Learning for Inverse Problems at Istituto Nazionale di Alta Matematica, Rome, IT, 2023.
@@ -86,7 +86,7 @@ Our algorithms are designed to run efficiently on modern high-performance comput
 * A. Mang: *Fast algorithms for optimal control problems governed by geodesic flows of diffeomorphisms*. Invited talk (host: S. Shontz) at Mathematical Methods and Interdisciplinary Computing Center (MMICC) at the University of Kansas, Lawrence, KS, US 2023.
 * A. Mang: *Numerical methods for PDE-constrained optimization problems governed by hyperbolic equations*. Invited colloquium talk (host: Juan R. Romero) at Department of Mathematical Sciences, University of Puerto Rico, US, 2023.
 * A. Mang: *CLAIRE: Scalable multi-GPU algorithms for diffeomorphic image registration in 3D*. Invited ACMD Seminar talk (host: Gunay Dogan) at National Institute of Standards and Technology, Gaithersburg, MD, US, 2023.
-* A. Mang: *Fast algorithms for inverse problems governed by transport equations*.  Contributed talk at AMS Sectional Meeting (Session: Recent Developments on Analysis and Computation for Inverse Problems for PDEs) in Atlanta, GA, US, 2023.
+* A. Mang: *Fast algorithms for inverse problems governed by transport equations*. Contributed talk at AMS Sectional Meeting (Session: Recent Developments on Analysis and Computation for Inverse Problems for PDEs) in Atlanta, GA, US, 2023.
 * A. Mang: *Deep learning for Bayesian inverse problems governed by nonlinear ODEs*. Contributed talk at SIAM Conference on Computational Science and Engineering (CSE23; Session: Uncertainty Quantification for Data-Intensive Inverse Problems and Learning) in Amsterdam, NL, 2023.
 * J. Chhoa: *CLAIRE: A framework for constrained large deformation diffeomorphic image registration*. Invited talk at Texas Women In Mathematics Symposium in Austin, TX, 2023.
 * J. Y. Kim: *Numerical methods for Bayesian inference for inverse transport problems*. Contributed talk at Joint Mathematics Meetings (JMM23) in Boston, MA, 2023.
@@ -139,11 +139,15 @@ Our algorithms are designed to run efficiently on modern high-performance comput
 
 
 ## Poster Presentations
+
+
+* C. Chukwuemeka: *Efficient Numerical Methods for Continuous-Time Neural Networks and Normalizing Flows*, SIAM Conference on Mathematics of Data Science 2026, Salt Lake City, UT, US.
+* S. Bari: *Evaluating Self-Supervised Learning Approaches for Image Denoising under Non-Gaussian Noise*, SIAM Conference on Mathematics of Data Science 2026, Salt Lake City, UT, US.
 * P. Amiri: *Stein Variational Inference for Bayesian Parameter Estimation in the FitzHugh–Nagumo Model*, ICERM workshop "Bayesian Inverse Problems and UQ", Providence, RI, US, 2026.
 * P. Amiri: *Bayesian inference on SPD manifolds: Geometry-aware learning of posterior covariances*, SIAM TX LA Sectional Meeting 2025, University of Texas at Austin, Austin, TX.
-* I. Asikul: *Efficient numerical methods for multispecies tumor growth simulations*, SIAM TX LA Sectional Meeting 2025, University of Texas at Austin, Austin, TX.
-* M. Konduri: *Model-constrained deep learning for parameter estimation in semi-linear parabolic PDEs∗, SIAM TX LA Sectional Meeting 2025, University of Texas at Austin, Austin, TX.
-* I. Asikul: *Efficient numerical methods for multispecies tumor growth simulations*, ChAMELEON Summer School 2025, University of Houston, Houston, TX, US.
+* A. Islam: *Efficient numerical methods for multispecies tumor growth simulations*, SIAM TX LA Sectional Meeting 2025, University of Texas at Austin, Austin, TX.
+* M. Konduri: *Model-constrained deep learning for parameter estimation in semi-linear parabolic PDEs*, SIAM TX LA Sectional Meeting 2025, University of Texas at Austin, Austin, TX.
+* A. Islam: *Efficient numerical methods for multispecies tumor growth simulations*, ChAMELEON Summer School 2025, University of Houston, Houston, TX, US.
 * A. Nair: *Exploration of the workings of neural networks,* Undergraduate Research Day, University of Houston 2025, Houston, TX, US.
 * G. Villalobos: *Neural networks for inference in optimal control governed by the FitzHugh–Nagumo model*, SIAM Conference on Mathematics of Data Science 2024, Atlanta, GA, US.
 * J. Shi: *Efficient clustering on Riemannian manifolds using Fréchet embeddings,* SIAM Conference on Mathematics of Data Science 2024, Atlanta, GA, US.
@@ -159,4 +163,4 @@ Our algorithms are designed to run efficiently on modern high-performance comput
 * M. Brunn: *Fast 3D diffeomorphic image registration on GPUs*. Research Poster at ACM/IEEE Conference on Supercomputing 2019, Colorado, Denver, CO, US.
 * F. Huber: *Efficient algorithms for geodesic shooting in diffeomorphic image registration*. International Congress on Industrial and Applied Mathematics 2019, Valencia, ES.
 * N. Himthani: *GPU-accelerated interpolation for 3D image registration*. Research Poster at ACM/IEEE Conference on Supercomputing 2018, Dallas, TX, US.
-* B. Gonzalez: *Fast and stable algorithms for deep learning*. Undergraduate Research Day 2018, University of Houston, Houston, TX, US. 
+* B. Gonzalez: *Fast and stable algorithms for deep learning*. Undergraduate Research Day 2018, University of Houston, Houston, TX, US.

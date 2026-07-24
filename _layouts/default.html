@@ -3,8 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
-  <meta name="description" content="{{ page.description | default: site.description }}">
+  {% seo %}
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
@@ -20,6 +19,7 @@
       <nav class="site-nav">
         <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a>
         <a href="{{ '/research/' | relative_url }}" class="{% if page.url contains '/research' %}active{% endif %}">Research</a>
+        <a href="{{ '/publications/' | relative_url }}" class="{% if page.url contains '/publications' %}active{% endif %}">Publications</a>
         <a href="{{ '/people/' | relative_url }}" class="{% if page.url contains '/people' %}active{% endif %}">People</a>
         <a href="{{ '/contact/' | relative_url }}" class="{% if page.url contains '/contact' %}active{% endif %}">Contact</a>
       </nav>
