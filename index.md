@@ -6,14 +6,14 @@ permalink: /
 
 <div class="hero">
 <h1>SCOPA Lab</h1>
-<p>Integrating <span class="hero-accent">data</span> with <span class="hero-accent">simulation</span> to enable data-driven discovery in the applied sciences.</p>
+<p>Where <span class="hero-accent">simulation</span> meets <span class="hero-accent">learning</span> &mdash; algorithms with the rigor of numerical analysis and the reach of modern hardware to enable data-driven discovery.</p>
 </div>
 
 ## Overview
 
-The **Scientific Computing, Optimization, and Parallel Algorithms** (SCOPA) lab is part of the [Department of Mathematics](https://math.tufts.edu) at Tufts University.
+The **Scientific Computing, Optimization & Parallel Algorithms** (SCOPA) lab is part of the [Department of Mathematics](https://math.tufts.edu) at Tufts University.
 
-Our goal is the design of principled and scalable algorithms at the interface of machine learning, optimization, and scientific computing that integrate *data* with *simulation* to enable data-driven discovery in the applied sciences. We are interested in methods that combine the interpretability and predictive power of mechanistic models with the flexibility of learning, and in the numerical analysis that makes them trustworthy --- stability, structure preservation, and a rigorous accounting of uncertainty. Our work is driven by applications in medical imaging and the life sciences, and much of it is released as open-source software for GPU and supercomputing platforms.
+Our goal is the design of principled and scalable algorithms at the interface of machine learning, optimization, and scientific computing. We are interested in methods that combine the interpretability and predictive power of mechanistic models with the flexibility of learning, and in the numerical analysis that makes them trustworthy --- stability, structure preservation, and a rigorous accounting of uncertainty. Our work is driven by applications in medical imaging and the life sciences, and much of it is released as open-source software for GPU and supercomputing platforms.
 
 ## Research Areas
 
