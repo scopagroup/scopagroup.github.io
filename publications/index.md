@@ -47,7 +47,7 @@ Below you can find the publications, talks, and posters of members of the SCOPA 
 {%- for pub in site.data.publications %}
   <li class="pub-item" data-category="{{ pub.category }}">
     <div class="pub-title">{{ pub.title | escape }}</div>
-    <div class="pub-meta">{{ pub.authors | escape }}{% if pub.venue != "" %}. {{ pub.venue | escape }}{% endif %}.</div>
+    <div class="pub-meta">{{ pub.authors | escape }}. {% if pub.venue and pub.venue != "" %}{{ pub.venue | escape }}{% else %}{{ pub.year }}{% endif %}.</div>
     <div class="pub-links">
       {%- if pub.category == "bookchapter" %}<span class="pub-category bookchapter">chapter</span>
       {%- else %}<span class="pub-category {{ pub.category }}">{{ pub.category }}</span>
@@ -86,6 +86,7 @@ Below you can find the publications, talks, and posters of members of the SCOPA 
 </ul>
 </section>
 
+<p class="pub-status visually-hidden" role="status" aria-live="polite"></p>
 <p class="pub-empty" hidden>No entries match the selected filter.</p>
 
 <script>
@@ -94,6 +95,7 @@ Below you can find the publications, talks, and posters of members of the SCOPA 
   var sections = Array.prototype.slice.call(document.querySelectorAll('.output-section'));
   var items = Array.prototype.slice.call(document.querySelectorAll('.pub-item'));
   var empty = document.querySelector('.pub-empty');
+  var status = document.querySelector('.pub-status');
   var curType = 'all';
 
   function apply() {
@@ -108,6 +110,10 @@ Below you can find the publications, talks, and posters of members of the SCOPA 
       sec.hidden = shown === 0;
     });
     if (empty) { empty.hidden = visible !== 0; }
+    if (status) {
+      status.textContent = visible + (visible === 1 ? ' entry' : ' entries') +
+        ' shown' + (curType === 'all' ? '' : ' for filter: ' + curType) + '.';
+    }
   }
 
   typeBtns.forEach(function (btn) {

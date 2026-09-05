@@ -10,7 +10,7 @@
 #   acronym  -- optional short code for the meeting, e.g. "AN26"
 #   session  -- optional minisymposium / special session title
 #   location -- "[Institution, ]City, [State, ]Country" or "virtual"
-#   year     -- used by the year filter
+#   year     -- year the talk was given
 
 - speaker: "A. Islam"
   title: "Tensorial surrogate models for parametric brain tumor growth dynamics in many-query regimes"

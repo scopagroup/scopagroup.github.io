@@ -10,7 +10,7 @@ Below, you can find a description of several areas of research the SCOPA lab has
 
 ## Machine Learning
 
-We develop mathematical frameworks that combine neural networks with physical models for parameter estimation and uncertainty quantification in inverse problems. A key focus is on Bayesian inverse problems governed by systems of nonlinear ordinary differential equations. We have shown that neural networks can overcome challenges posed by strong nonlinearities and sharp gradients by learning reconstruction maps from observational data. Our approach enables simultaneous estimation of model parameters, noise parameters (including autocorrelated additive noise and noise modeled via stochastic differential equations), and the covariance matrix of the posterior distribution -- all from a single forward network evaluation.
+We develop mathematical frameworks that combine neural networks with physical models for parameter estimation and uncertainty quantification in inverse problems. A key focus is on Bayesian inverse problems governed by systems of nonlinear ordinary differential equations. We have shown that neural networks can overcome challenges posed by strong nonlinearities and sharp gradients by learning reconstruction maps from observational data. Our approach enables simultaneous estimation of model parameters, noise parameters (including autocorrelated additive noise and noise modeled via stochastic differential equations), and the covariance matrix of the posterior distribution --- all from a single forward network evaluation.
 
 We have worked on lifted training methods for deep neural networks, which reformulate the nested optimization into higher-dimensional constrained optimization problems amenable to block-coordinate descent with accelerated and stochastic variants. This framework supports non-differentiable proximal activations, improved conditioning, and extends naturally to inverse problems in imaging.
 
@@ -45,10 +45,10 @@ Our algorithms are designed to run efficiently on modern high-performance comput
 * 2025: UH DOR GEAR Award
 * since 2022: NSF CAREER Award (Computational Mathematics) ([DMS-2145845](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2145845))
 * 2023: Allocation on the Neocortex Supercomputer at the Pittsburgh Supercomputing Center
-* 2020--2023: NSF Applied Mathematics ([DMS-2009923](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2009923))
-* 2020--2023: NSF Computational Mathematics ([DMS-2012825](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2012825))
-* 2019--2022: NSF CDS&E-MSS ([DMS-1854853](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1854853))
+* 2020--2024: NSF Applied Mathematics ([DMS-2009923](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2009923))
+* 2020--2025: NSF Computational Mathematics ([DMS-2012825](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2012825))
+* 2019--2023: NSF CDS&E-MSS ([DMS-1854853](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1854853))
 * 2019: NVIDIA Corporation GPU Grant Program (Accelerated Data Science Call)
 * 2018: SIMONS Foundation Collaboration Grants for Mathematicians (Award 586055)
 
-Talks and posters given by lab members are listed on the [publications page]({{ site.baseurl }}/publications/).
+Talks and posters given by lab members are listed on the [publications page]({{ '/publications/' | relative_url }}).

@@ -11,7 +11,7 @@ permalink: /
 
 ## Overview
 
-The **Scientific Computing, Optimization, and Parallel Algorithms** (SCOPA) lab is part of the [Department of Mathematics](https://uh.edu/nsm/math) at the University of Houston.
+The **Scientific Computing, Optimization, and Parallel Algorithms** (SCOPA) lab is part of the [Department of Mathematics](https://math.tufts.edu) at Tufts University.
 
 Our goal is the design of principled and scalable algorithms at the interface of machine learning, optimization, and scientific computing that integrate *data* with *simulation* to enable data-driven discovery in the applied sciences. We are interested in methods that combine the interpretability and predictive power of mechanistic models with the flexibility of learning, and in the numerical analysis that makes them trustworthy --- stability, structure preservation, and a rigorous accounting of uncertainty. Our work is driven by applications in medical imaging and the life sciences, and much of it is released as open-source software for GPU and supercomputing platforms.
 
@@ -47,4 +47,4 @@ Our goal is the design of principled and scalable algorithms at the interface of
 </div>
 </div>
 
-A more detailed description of our work is on the [research page]({{ site.baseurl }}/research/); our [publications, talks, and posters]({{ site.baseurl }}/publications/) and [lab members]({{ site.baseurl }}/people/) are listed separately. Code is released at [github.com/scopagroup](https://github.com/scopagroup).
+A more detailed description of our work is on the [research page]({{ '/research/' | relative_url }}); our [publications, talks, and posters]({{ '/publications/' | relative_url }}) and [lab members]({{ '/people/' | relative_url }}) are listed separately. Code is released at [github.com/scopagroup](https://github.com/scopagroup).

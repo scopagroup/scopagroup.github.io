@@ -31,20 +31,20 @@ Below you can find a list of the current and past members of the SCOPA lab.
 
 ## Former PhD Students
 
-* **Dr. Jannatul Ferdous Chhoa**
-  *CLAIRE-MG: Efficient diffeomorphic image registration using multigrid-preconditioned Newton--Krylov methods*
+* **Dr. Jannatul Ferdous Chhoa**<br>
+  *CLAIRE-MG: Efficient diffeomorphic image registration using multigrid-preconditioned Newton--Krylov methods*<br>
   [Thesis](https://hdl.handle.net/10657/20613) | Graduated 08/2025
 
-* **Dr. Radmir Sultamuratov**
-  *Distance-based classification and clustering of smooth surfaces*
+* **Dr. Radmir Sultamuratov**<br>
+  *Distance-based classification and clustering of smooth surfaces*<br>
   [Thesis](https://hdl.handle.net/10657/18318) | Graduated 12/2024
 
-* **Dr. German Villalobos**
-  *Scientific machine learning for Bayesian inverse problems governed by the FitzHugh--Nagumo model*
+* **Dr. German Villalobos**<br>
+  *Scientific machine learning for Bayesian inverse problems governed by the FitzHugh--Nagumo model*<br>
   [Thesis](https://hdl.handle.net/10657/16107) | Graduated 12/2023
 
-* **Dr. Jae Youn Kim**
-  *Efficient numerical methods for initial value control problems for diffeomorphic image registration*
+* **Dr. Jae Youn Kim**<br>
+  *Efficient numerical methods for initial value control problems for diffeomorphic image registration*<br>
   [Thesis](https://hdl.handle.net/10657/15999) | Graduated 08/2023
 
 ## Alumni

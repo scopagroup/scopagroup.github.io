@@ -4,7 +4,7 @@
 #   title    – publication title
 #   authors  – full author list in publication order
 #   venue    – journal / proceedings / book, with volume, pages and year
-#   year     – used by the year filter on /publications/
+#   year     – publication year; shown when venue is empty (preprints)
 #   doi      – full DOI URL (optional)
 #   arxiv    – full arXiv URL (optional)
 #   category – journal | preprint | conference | book | bookchapter
@@ -25,11 +25,19 @@
 
 - title: "A unified framework for lifted training and inversion approaches"
   authors: "X. Wang, A. Valavanis, A. Mahmood, A. Mang, M. Benning & A. Repetti"
-  venue: "Handbook of Numerical Analysis, 2026"
+  venue: "Handbook of Numerical Analysis, pp. 425–485, 2026"
   year: 2026
   doi: "https://doi.org/10.1016/bs.hna.2026.03.001"
   arxiv: "https://arxiv.org/abs/2510.09796"
   category: "bookchapter"
+
+- title: "Neural networks for Bayesian inverse problems governed by a nonlinear ODE"
+  authors: "G. Villalobos, J. Rudi & A. Mang"
+  venue: "SIAM Journal on Scientific Computing, 48(3):C415–C452, 2026"
+  year: 2026
+  doi: "https://doi.org/10.1137/24M1711480"
+  arxiv: "https://arxiv.org/abs/2510.14197"
+  category: "journal"
 
 - title: "Fast k-means clustering in Riemannian manifolds via Fréchet maps: Applications to large-dimensional SPD matrices"
   authors: "J. Shi, N. Charon, A. Mang, D. Labate & R. Azencott"
@@ -52,17 +60,9 @@
   arxiv: "https://arxiv.org/abs/2510.08782"
   category: "preprint"
 
-- title: "Neural networks for Bayesian inverse problems governed by a nonlinear ODE"
-  authors: "G. Villalobos, J. Rudi & A. Mang"
-  venue: "SIAM Journal on Scientific Computing, 48(3):C415–C452, 2025"
-  year: 2025
-  doi: "https://doi.org/10.1137/24M1711480"
-  arxiv: "https://arxiv.org/abs/2510.14197"
-  category: "journal"
-
 - title: "Rare events analysis and computation for stochastic evolution of bacterial populations"
   authors: "Y. Su, B. Geiger, I. Timofeyev, A. Mang & R. Azencott"
-  venue: "Stochastic Analysis and Applications, 2025"
+  venue: "Stochastic Analysis and Applications, 43(1):1–29, 2025"
   year: 2025
   doi: "https://doi.org/10.1080/07362994.2024.2422913"
   arxiv: "https://arxiv.org/abs/2308.14135"
@@ -70,7 +70,7 @@
 
 - title: "Classification of deformable smooth shapes through geodesic flows of diffeomorphisms"
   authors: "H. Dabirian, R. Sultamuratov, J. Herring, C. El-Tallawi, W. Zoghbi, A. Mang & R. Azencott"
-  venue: "Journal of Mathematical Imaging and Vision, 2024"
+  venue: "Journal of Mathematical Imaging and Vision, 66(6):1033–1059, 2024"
   year: 2024
   doi: "https://doi.org/10.1007/s10851-024-01211-z"
   arxiv: "https://arxiv.org/abs/2211.02530"
@@ -180,7 +180,7 @@
 
 - title: "Identifying the best machine learning algorithms for brain tumor segmentation, progression assessment, and overall survival prediction in the BRATS challenge"
   authors: "S. Bakas, M. Reyes, A. Jakab et al. (incl. A. Mang)"
-  venue: "arXiv:1811.02629, 2019"
+  venue: ""
   year: 2019
   arxiv: "https://arxiv.org/abs/1811.02629"
   category: "preprint"
@@ -201,7 +201,7 @@
   arxiv: "https://arxiv.org/abs/1604.02153"
   category: "journal"
 
-- title: "A Lagrangian Gauss–Newton–Krylov solver for intensity- and mass-preserving diffeomorphic image registration"
+- title: "A Lagrangian Gauss–Newton–Krylov solver for mass- and intensity-preserving diffeomorphic image registration"
   authors: "A. Mang & L. Ruthotto"
   venue: "SIAM Journal on Scientific Computing, 39(5):B860–B885, 2017"
   year: 2017
@@ -216,7 +216,7 @@
   doi: "https://doi.org/10.1145/3126908.3126930"
   category: "conference"
 
-- title: "An inverse problem formulation for parameter estimation of a reaction-diffusion model for low grade gliomas"
+- title: "An inverse problem formulation for parameter estimation of a reaction-diffusion model of low grade gliomas"
   authors: "A. Gholami, A. Mang & G. Biros"
   venue: "Journal of Mathematical Biology, 72(1):409–433, 2016"
   year: 2016

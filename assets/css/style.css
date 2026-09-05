@@ -13,7 +13,7 @@
   --color-text:        #2d3748;
   --color-heading:     #1a202c;
   --color-accent:      #3172AE;
-  --color-accent-hover:#4a9ad4;
+  --color-accent-hover:#24598b;   /* 7.0:1 on the content bg */
   --color-accent-light: rgba(49, 114, 174, 0.08);
   --color-header-bg:   #1a202c;
   --color-header-text: #ffffff;
@@ -27,9 +27,9 @@
                        "Apple Color Emoji", "Segoe UI Emoji";
   --font-mono:         "SFMono-Regular", Consolas, "Liberation Mono", Menlo,
                        Courier, monospace;
-  --content-width:     880px;
-  --header-width:      1040px;
-  --header-height:     64px;
+  --content-width:     55rem;   /* 880px at the default root size */
+  --header-width:      65rem;   /* 1040px */
+  --header-height:     4rem;    /* 64px   */
   --radius:            6px;
   --shadow-sm:         0 1px 3px rgba(0,0,0,0.08);
   --shadow-md:         0 4px 12px rgba(0,0,0,0.10);
@@ -39,7 +39,7 @@
 *, *::before, *::after { box-sizing: border-box; }
 
 html {
-  font-size: 16px;
+  font-size: 100%;   /* respect the reader's browser font size */
   scroll-behavior: smooth;
   -webkit-text-size-adjust: 100%;
 }
@@ -96,6 +96,31 @@ img {
   color: #fff;
 }
 #main:focus { outline: none; }
+
+/* Deep links (kramdown auto-ids, section ids) must clear the sticky header. */
+:target { scroll-margin-top: calc(var(--header-height) + 1rem); }
+
+/* Visible only to assistive tech (filter status announcements). */
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Keyboard focus ring; the header is dark, so it needs a light one. */
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}
+.site-header :focus-visible,
+.skip-link:focus-visible { outline-color: #fff; }
 
 /* ============================================================
    HEADER
@@ -455,7 +480,9 @@ details > p:first-of-type {
 }
 
 .hero .hero-accent {
-  color: var(--color-accent);
+  /* Literal, not the accent token: the hero gradient is dark in both
+     themes, and the light-mode accent is far too dark against it. */
+  color: #8fc0e8;
   font-weight: 600;
 }
 
@@ -650,7 +677,7 @@ details > p:first-of-type {
 .pub-category.journal     { background: rgba(49, 114, 174, 0.15); color: #1f5a8c; }
 .pub-category.preprint    { background: rgba(255, 199, 44, 0.20); color: #8a6500; }
 .pub-category.conference  { background: rgba(0, 163, 173, 0.18);  color: #007079; }
-.pub-category.book        { background: rgba(243, 113, 33, 0.18); color: #b34e00; }
+.pub-category.book        { background: rgba(243, 113, 33, 0.18); color: #9c4400; }
 .pub-category.bookchapter { background: rgba(140, 71, 153, 0.18); color: #6b3275; }
 .pub-category.talk        { background: rgba(76, 132, 96, 0.18);  color: #2f6b45; }
 .pub-category.poster      { background: rgba(176, 62, 106, 0.16); color: #94305a; }
@@ -700,11 +727,11 @@ details > p:first-of-type {
    ============================================================ */
 /* Below the header's full width there is no longer room for the spelled-out
    lab name next to five nav items, so drop it rather than truncate it. */
-@media (max-width: 1000px) {
+@media (max-width: 62.5em) {   /* 1000px */
   .logo-sub { display: none; }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 48em) {     /* 768px */
   .nav-toggle {
     display: flex;
   }
@@ -736,7 +763,7 @@ details > p:first-of-type {
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 30em) {     /* 480px */
   .logo-text { font-size: 1.25rem; }
   h1 { font-size: 1.4rem; }
   h2 { font-size: 1.15rem; }
@@ -793,6 +820,20 @@ details > p:first-of-type {
   .skip-link:focus { color: #0d1117; }
 
   img { opacity: 0.92; }
+}
+
+/* ============================================================
+   REDUCED MOTION
+   ============================================================ */
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+  .person-card:hover { transform: none; }
 }
 
 /* ============================================================

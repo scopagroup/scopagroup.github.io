@@ -19,10 +19,10 @@
         <span class="logo-text">SCOPA</span>
         <span class="logo-sub">Scientific Computing, Optimization &amp; Parallel Algorithms</span>
       </a>
-      <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+      <button class="nav-toggle" type="button" aria-label="Toggle navigation" aria-expanded="false" aria-controls="site-nav">
         <span></span><span></span><span></span>
       </button>
-      <nav class="site-nav">
+      <nav class="site-nav" id="site-nav">
         <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a>
         <a href="{{ '/research/' | relative_url }}" class="{% if page.url contains '/research' %}active{% endif %}">Research</a>
         <a href="{{ '/publications/' | relative_url }}" class="{% if page.url contains '/publications' %}active{% endif %}">Publications</a>
@@ -40,7 +40,7 @@
 
   <footer class="site-footer">
     <div class="footer-container">
-      <p>&copy; {{ site.time | date: '%Y' }} SCOPA Lab &mdash; <a href="https://uh.edu/nsm/math">Department of Mathematics</a>, University of Houston</p>
+      <p>&copy; {{ site.time | date: '%Y' }} SCOPA Lab &mdash; <a href="https://math.tufts.edu">Department of Mathematics</a>, Tufts University</p>
       <p class="footer-links">
         <a href="https://github.com/scopagroup">GitHub</a> &middot;
         <a href="{{ '/contact/' | relative_url }}">Contact</a>
@@ -52,14 +52,35 @@
   (function(){
     var btn = document.querySelector('.nav-toggle');
     var nav = document.querySelector('.site-nav');
-    if (btn && nav) {
-      btn.addEventListener('click', function(){
-        var expanded = this.getAttribute('aria-expanded') === 'true';
-        this.setAttribute('aria-expanded', !expanded);
-        nav.classList.toggle('is-open');
-        this.classList.toggle('is-active');
-      });
+    if (!btn || !nav) { return; }
+
+    function isOpen() { return btn.getAttribute('aria-expanded') === 'true'; }
+
+    function setOpen(open) {
+      btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+      nav.classList.toggle('is-open', open);
+      btn.classList.toggle('is-active', open);
     }
+
+    btn.addEventListener('click', function(){ setOpen(!isOpen()); });
+
+    // Escape closes the menu and hands focus back to the control that opened it.
+    document.addEventListener('keydown', function(e){
+      if (e.key === 'Escape' && isOpen()) { setOpen(false); btn.focus(); }
+    });
+
+    // A click anywhere outside dismisses it. The toggle's own click bubbles
+    // here too, so it is excluded to avoid closing and reopening in one go.
+    document.addEventListener('click', function(e){
+      if (isOpen() && !nav.contains(e.target) && !btn.contains(e.target)) { setOpen(false); }
+    });
+
+    // Widening past the breakpoint hides the toggle; clear the open state with
+    // it. Uses the same query as the stylesheet so the two cannot drift apart.
+    var mobile = window.matchMedia('(max-width: 48em)');
+    var reset = function(){ if (!mobile.matches && isOpen()) { setOpen(false); } };
+    if (mobile.addEventListener) { mobile.addEventListener('change', reset); }
+    else if (mobile.addListener) { mobile.addListener(reset); }
   })();
   </script>
 </body>
