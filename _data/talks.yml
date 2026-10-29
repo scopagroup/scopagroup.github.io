@@ -13,6 +13,14 @@
 #   year     -- year the talk was given
 
 - speaker: "A. Islam"
+  title: "Tensorial reduced-order models for parametric coupled reaction–diffusion systems"
+  kind: "Contributed talk"
+  venue: "SIAM Texas-Louisiana Sectional Meeting"
+  acronym: "SIAM TX-LA 26"
+  location: "Southern Methodist University, Dallas, TX, US"
+  year: 2026
+
+- speaker: "A. Islam"
   title: "Tensorial surrogate models for parametric brain tumor growth dynamics in many-query regimes"
   kind: "Contributed talk"
   venue: "SIAM Annual Meeting"

@@ -8,6 +8,20 @@
 #   location -- "[Institution, ]City, [State, ]Country"
 #   year     -- year the poster was presented
 
+- speaker: "S. Regmi"
+  title: "Numerical integration of geodesic shooting equations for invariant Sobolev metrics on curve and surface spaces"
+  venue: "SIAM Texas-Louisiana Sectional Meeting"
+  acronym: "SIAM TX-LA 26"
+  location: "Southern Methodist University, Dallas, TX, US"
+  year: 2026
+
+- speaker: "P. Amiri"
+  title: "Adjoint-based parameter identification for coupled parabolic systems"
+  venue: "SIAM Texas-Louisiana Sectional Meeting"
+  acronym: "SIAM TX-LA 26"
+  location: "Southern Methodist University, Dallas, TX, US"
+  year: 2026
+
 - speaker: "C. Chukwuemeka"
   title: "Efficient numerical methods for continuous-time neural networks and normalizing flows"
   venue: "SIAM Conference on Mathematics of Data Science"
